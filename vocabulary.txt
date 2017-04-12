@@ -1,0 +1,2214 @@
+# WaniKani - Vocabulary
+# Generated on May 29, 2016 06:49 AM UTC
+# WaniKani to Anki Exporter (http://wanikanitoanki.com)
+#key;type;character;meaning;image;onyomi;kunyomi;important_reading;kana;level
+v_二;vocabulary;二;two;;;;;に;1
+v_名人;vocabulary;名人;master, expert;;;;;めいじん;4
+v_中毒;vocabulary;中毒;poisoning, addiction;;;;;ちゅうどく;15
+v_六;vocabulary;六;six;;;;;ろく;2
+v_猫舌;vocabulary;猫舌;aversion to hot foods;;;;;ねこじた;19
+v_順位;vocabulary;順位;ranking, standing;;;;;じゅんい;19
+v_下さい;vocabulary;下さい;please;;;;;ください;1
+v_十;vocabulary;十;ten;;;;;じゅう;1
+v_石;vocabulary;石;stone;;;;;いし;2
+v_前回;vocabulary;前回;last time;;;;;ぜんかい;8
+v_変死;vocabulary;変死;unnatural death, accidental death;;;;;へんし;15
+v_細かい;vocabulary;細かい;detailed, small, fine, trivial;;;;;こまかい;19
+v_五月;vocabulary;五月;may;;;;;ごがつ;2
+v_天才;vocabulary;天才;genius;;;;;てんさい;2
+v_矢;vocabulary;矢;arrow;;;;;や;3
+v_文章;vocabulary;文章;article, sentence, composition;;;;;ぶんしょう;12
+v_刀;vocabulary;刀;katana, sword;;;;;かたな;2
+v_空港;vocabulary;空港;airport;;;;;くうこう;12
+v_一億;vocabulary;一億;one hundred million;;;;;いちおく;13
+v_易しい;vocabulary;易しい;easy, simple to do;;;;;やさしい;19
+v_童話;vocabulary;童話;children's story, fairy tale;;;;;どうわ;12
+v_王;vocabulary;王;king;;;;;おう;2
+v_立つ;vocabulary;立つ;to stand;;;;;たつ;2
+v_白;vocabulary;白;white;;;;;しろ;2
+v_共同;vocabulary;共同;cooperation, collaboration;;;;;きょうどう;11
+v_愛国心;vocabulary;愛国心;patriotism;;;;;あいこくしん;17
+v_半分;vocabulary;半分;half;;;;;はんぶん;3
+v_気;vocabulary;気;spirit, energy;;;;;き;4
+v_友人;vocabulary;友人;friend;;;;;ゆうじん;3
+v_方;vocabulary;方;way, direction;;;;;かた, ほう;3
+v_広い;vocabulary;広い;wide;;;;;ひろい;3
+v_今回;vocabulary;今回;this time;;;;;こんかい;5
+v_春休み;vocabulary;春休み;spring break, spring vacation, spring holiday;;;;;はるやすみ;15
+v_電子;vocabulary;電子;electron, electronic;;;;;でんし;8
+v_耳;vocabulary;耳;ear;;;;;みみ;4
+v_赤;vocabulary;赤;red;;;;;あか;4
+v_色;vocabulary;色;color, colour;;;;;いろ;5
+v_肉;vocabulary;肉;meat;;;;;にく;5
+v_池;vocabulary;池;pond;;;;;いけ;5
+v_大学;vocabulary;大学;university, college;;;;;だいがく;5
+v_雨;vocabulary;雨;rain;;;;;あめ;5
+v_無理;vocabulary;無理;impossible, unreasonable, overdoing;;;;;むり;17
+v_草;vocabulary;草;grass;;;;;くさ;5
+v_両日;vocabulary;両日;both days;;;;;りょうじつ;6
+v_電話;vocabulary;電話;telephone, phone;;;;;でんわ;8
+v_お願い;vocabulary;お願い;a request, request, wish, please;;;;;おねがい;15
+v_禅僧;vocabulary;禅僧;zen priest;;;;;ぜんそう;18
+v_土地;vocabulary;土地;land;;;;;とち;6
+v_死亡;vocabulary;死亡;mortality, death;;;;;しぼう;6
+v_顔面;vocabulary;顔面;face of a person, person's face, face;;;;;がんめん;16
+v_首;vocabulary;首;neck;;;;;くび;6
+v_姉妹;vocabulary;姉妹;sisters;;;;;しまい;6
+v_死ぬ;vocabulary;死ぬ;to die;;;;;しぬ;6
+v_羊毛;vocabulary;羊毛;wool;;;;;ようもう;6
+v_午後;vocabulary;午後;pm, afternoon;;;;;ごご;6
+v_科学;vocabulary;科学;science;;;;;かがく;6
+v_お茶;vocabulary;お茶;tea;;;;;おちゃ;6
+v_高校;vocabulary;高校;high school;;;;;こうこう;7
+v_国民;vocabulary;国民;the people, citizens, nationality;;;;;こくみん;7
+v_練習する;vocabulary;練習する;to practice;;;;;れんしゅうする;15
+v_書き方;vocabulary;書き方;penmanship, way of writing, manner of writing;;;;;かきかた;18
+v_座る;vocabulary;座る;to sit;;;;;すわる;18
+v_月末;vocabulary;月末;end of the month, month end;;;;;げつまつ;7
+v_今週;vocabulary;今週;this week;;;;;こんしゅう;7
+v_雪;vocabulary;雪;snow;;;;;ゆき;7
+v_在留;vocabulary;在留;residence;;;;;ざいりゅう;20
+v_材木;vocabulary;材木;lumber, timber, wood;;;;;ざいもく;14
+v_暗記する;vocabulary;暗記する;to memorize, to memorise;;;;;あんきする;15
+v_究明;vocabulary;究明;investigation;;;;;きゅうめい;8
+v_住人;vocabulary;住人;resident, inhabitant, dweller;;;;;じゅうにん;8
+v_医者;vocabulary;医者;doctor;;;;;いしゃ;8
+v_名所;vocabulary;名所;famous place;;;;;めいしょ;8
+v_電気;vocabulary;電気;electricity;;;;;でんき;8
+v_全然;vocabulary;全然;entirely, completely, not at all;;;;;ぜんぜん;13
+v_教える;vocabulary;教える;to teach;;;;;おしえる;7
+v_期待する;vocabulary;期待する;to expect, to anticipate;;;;;きたいする;14
+v_絵;vocabulary;絵;painting, drawing;;;;;え;8
+v_予定;vocabulary;予定;a plan, plan;;;;;よてい;9
+v_物;vocabulary;物;thing;;;;;もの;9
+v_一番目;vocabulary;一番目;first thing, the first;;;;;いちばんめ;10
+v_人気;vocabulary;人気;popular, popularity;;;;;にんき;4
+v_泳ぐ;vocabulary;泳ぐ;to swim;;;;;およぐ;9
+v_起きる;vocabulary;起きる;to wake up;;;;;おきる;10
+v_速度;vocabulary;速度;speed;;;;;そくど;10
+v_進化;vocabulary;進化;evolution, progress;;;;;しんか;10
+v_頭;vocabulary;頭;head;;;;;あたま;10
+v_動く;vocabulary;動く;to move, to operate;;;;;うごく;12
+v_勝者;vocabulary;勝者;winner, victor;;;;;しょうしゃ;9
+v_農民;vocabulary;農民;peasants, farmers;;;;;のうみん;10
+v_顔;vocabulary;顔;face;;;;;かお;10
+v_夕焼け;vocabulary;夕焼け;sunset;;;;;ゆうやけ;18
+v_横;vocabulary;横;side;;;;;よこ;10
+v_算定する;vocabulary;算定する;to calculate;;;;;さんていする;10
+v_飲む;vocabulary;飲む;to drink;;;;;のむ;10
+v_共通点;vocabulary;共通点;common point, common feature;;;;;きょうつうてん;11
+v_海岸;vocabulary;海岸;seashore, coast, seacoast;;;;;かいがん;11
+v_高級;vocabulary;高級;high class, high grade, high level;;;;;こうきゅう;11
+v_約;vocabulary;約;promise, approximately;;;;;やく;14
+v_身体;vocabulary;身体;the body, health, body;;;;;しんたい;8
+v_外来語;vocabulary;外来語;foreign word, borrowed word, loanword;;;;;がいらいご;10
+v_根本;vocabulary;根本;root, source, origin, foundation;;;;;こんぽん;12
+v_鏡;vocabulary;鏡;mirror;;;;;かがみ;13
+v_話題;vocabulary;話題;topic, subject;;;;;わだい;13
+v_公告;vocabulary;公告;public notice, public announcement;;;;;こうこく;18
+v_登山;vocabulary;登山;mountain climbing;;;;;とざん;12
+v_可能性;vocabulary;可能性;possibility;;;;;かのうせい;20
+v_作戦;vocabulary;作戦;tactics, strategy;;;;;さくせん;11
+v_洋服;vocabulary;洋服;western clothing, western style clothes;;;;;ようふく;11
+v_広島;vocabulary;広島;hiroshima;;;;;ひろしま;12
+v_区;vocabulary;区;district, ward;;;;;く;15
+v_坂;vocabulary;坂;slope;;;;;さか;15
+v_歯;vocabulary;歯;tooth, teeth;;;;;は;12
+v_用;vocabulary;用;task, use, duty, service, business, purpose, function;;;;;よう;3
+v_社員;vocabulary;社員;employee, staff, company employee, company staff;;;;;しゃいん;12
+v_二階;vocabulary;二階;second floor, floor two, second story, second storey;;;;;にかい;12
+v_箱;vocabulary;箱;box;;;;;はこ;16
+v_暴れる;vocabulary;暴れる;to act violently, to rage;;;;;あばれる;19
+v_玉;vocabulary;玉;ball;;;;;たま;2
+v_仏典;vocabulary;仏典;buddhist scriptures, buddhist writing;;;;;ぶってん;16
+v_四十;vocabulary;四十;forty;;;;;よんじゅう;2
+v_火;vocabulary;火;fire;;;;;ひ;2
+v_犬;vocabulary;犬;dog;;;;;いぬ;2
+v_左手;vocabulary;左手;left hand;;;;;ひだりて;2
+v_追い付く;vocabulary;追い付く;to catch up to, to overtake;;;;;おいつく;13
+v_愛;vocabulary;愛;love;;;;;あい;17
+v_二枚舌;vocabulary;二枚舌;forked tongue;;;;;にまいじた;19
+v_田代島;vocabulary;田代島;tashirojima;;;;;たしろじま;12
+v_左;vocabulary;左;left direction, left;;;;;ひだり;2
+v_一千;vocabulary;一千;one thousand;;;;;いっせん;2
+v_千;vocabulary;千;thousand;;;;;せん;2
+v_寺;vocabulary;寺;temple;;;;;てら;15
+v_残業;vocabulary;残業;overtime;;;;;ざんぎょう;14
+v_変;vocabulary;変;strange;;;;;へん;15
+v_証明;vocabulary;証明;proof, verification;;;;;しょうめい;16
+v_王子;vocabulary;王子;prince;;;;;おうじ;2
+v_五台;vocabulary;五台;five machines;;;;;ごだい;3
+v_銀色;vocabulary;銀色;silver, silver color, silver colour, colour silver, color silver;;;;;ぎんいろ;13
+v_私生活;vocabulary;私生活;personal life, one's personal life, private life, one's private life;;;;;しせいかつ;14
+v_署名;vocabulary;署名;signature;;;;;しょめい;17
+v_追う;vocabulary;追う;to chase, to follow;;;;;おう;11
+v_お笑い;vocabulary;お笑い;comedian, comical thing, comical, funny;;;;;おわらい;18
+v_続く;vocabulary;続く;to continue;;;;;つづく;19
+v_お尻;vocabulary;お尻;butt;;;;;おしり;20
+v_言語;vocabulary;言語;language, a language;;;;;げんご;10
+v_短い;vocabulary;短い;short;;;;;みじかい;12
+v_四十二階;vocabulary;四十二階;forty second floor, floor forty two, 42nd floor, floor 42, forty second story, forty second storey;;;;;よんじゅうにかい;12
+v_私立;vocabulary;私立;private;;;;;しりつ;14
+v_会議;vocabulary;会議;meeting, conference, assembly;;;;;かいぎ;20
+v_市;vocabulary;市;city;;;;;し;3
+v_今;vocabulary;今;now;;;;;いま;3
+v_冬;vocabulary;冬;winter;;;;;ふゆ;3
+v_福島;vocabulary;福島;fukushima;;;;;ふくしま;13
+v_外;vocabulary;外;outside;;;;;そと;3
+v_客室;vocabulary;客室;guest room;;;;;きゃくしつ;9
+v_落書き;vocabulary;落書き;graffiti, scribble, sketch;;;;;らくがき;18
+v_借り手;vocabulary;借り手;borrower;;;;;かりて;20
+v_一台;vocabulary;一台;one machine;;;;;いちだい;3
+v_約束;vocabulary;約束;promise, appointment, pact;;;;;やくそく;14
+v_赤い;vocabulary;赤い;red;;;;;あかい;4
+v_全日本;vocabulary;全日本;all japan, all of japan;;;;;ぜんにほん;6
+v_足首;vocabulary;足首;ankle;;;;;あしくび;6
+v_失望;vocabulary;失望;disappointment, despair;;;;;しつぼう;14
+v_岩;vocabulary;岩;boulder;;;;;いわ;15
+v_早い;vocabulary;早い;early, fast, quick;;;;;はやい;4
+v_元気;vocabulary;元気;energy, spirit, health;;;;;げんき;4
+v_絡む;vocabulary;絡む;to get entangled, to be entangled;;;;;からむ;19
+v_花;vocabulary;花;flower;;;;;はな;4
+v_両手;vocabulary;両手;both hands;;;;;りょうて;6
+v_注文する;vocabulary;注文する;to order, to request;;;;;ちゅうもんする;13
+v_心配事;vocabulary;心配事;cares, worries, troubles;;;;;しんぱいごと;12
+v_折り目;vocabulary;折り目;fold, crease;;;;;おりめ;16
+v_血;vocabulary;血;blood;;;;;ち;6
+v_月見;vocabulary;月見;moon viewing;;;;;つきみ;4
+v_年;vocabulary;年;year;;;;;とし;4
+v_一流;vocabulary;一流;first rate, first class, top notch, top grade;;;;;いちりゅう;12
+v_殺人;vocabulary;殺人;murder;;;;;さつじん;13
+v_北西;vocabulary;北西;northwest;;;;;ほくせい;5
+v_見せる;vocabulary;見せる;to show;;;;;みせる;4
+v_町;vocabulary;町;town;;;;;まち;4
+v_お礼;vocabulary;お礼;thanks, gratitude;;;;;おれい;4
+v_糸;vocabulary;糸;thread;;;;;いと;4
+v_和風;vocabulary;和風;japanese style;;;;;わふう;9
+v_三冊;vocabulary;三冊;three books, three volumes;;;;;さんさつ;19
+v_春;vocabulary;春;spring;;;;;はる;15
+v_報道;vocabulary;報道;news report;;;;;ほうどう;18
+v_達人;vocabulary;達人;master, expert;;;;;たつじん;18
+v_変える;vocabulary;変える;to change;;;;;かえる;15
+v_谷;vocabulary;谷;valley;;;;;たに;5
+v_この辺;vocabulary;この辺;around here, this area;;;;;このへん;7
+v_遠い;vocabulary;遠い;far, far away;;;;;とおい;16
+v_外面;vocabulary;外面;exterior;;;;;がいめん;16
+v_祈念;vocabulary;祈念;prayer, a prayer;;;;;きねん;18
+v_毛糸;vocabulary;毛糸;wool yarn, yarn;;;;;けいと;5
+v_亡くなる;vocabulary;亡くなる;to pass away, to become deceased;;;;;なくなる;6
+v_今まで;vocabulary;今まで;until now, up to now, so far;;;;;いままで;5
+v_声;vocabulary;声;voice;;;;;こえ;5
+v_何;vocabulary;何;what;;;;;なに, なん;5
+v_学校;vocabulary;学校;school;;;;;がっこう;7
+v_風;vocabulary;風;wind;;;;;かぜ;7
+v_白い;vocabulary;白い;white;;;;;しろい;4
+v_作文;vocabulary;作文;composition, writing, essay;;;;;さくぶん;5
+v_来年;vocabulary;来年;next year;;;;;らいねん;5
+v_日記;vocabulary;日記;diary, journal;;;;;にっき;7
+v_相手;vocabulary;相手;partner, companion;;;;;あいて;9
+v_地球;vocabulary;地球;the earth, the globe, earth;;;;;ちきゅう;12
+v_昨日;vocabulary;昨日;yesterday;;;;;きのう;15
+v_流す;vocabulary;流す;to flow, to flush, to drain, to pour, to float, to wash away, to set afloat;;;;;ながす;12
+v_工学;vocabulary;工学;engineering;;;;;こうがく;5
+v_毎日;vocabulary;毎日;every day, daily;;;;;まいにち;5
+v_〜回;vocabulary;〜回;times, number of times, time;;;;;かい;5
+v_回転;vocabulary;回転;rotation, revolution, revolve, rotate;;;;;かいてん;10
+v_近日;vocabulary;近日;soon, in a few days, coming days;;;;;きんじつ;5
+v_一回;vocabulary;一回;one time, once;;;;;いっかい;5
+v_麦;vocabulary;麦;wheat, barley, oats;;;;;むぎ;5
+v_泣き虫;vocabulary;泣き虫;crybaby;;;;;なきむし;17
+v_切り取る;vocabulary;切り取る;to cut off, to cut out;;;;;きりとる;18
+v_売る;vocabulary;売る;to sell;;;;;うる;5
+v_本州;vocabulary;本州;honshuu, honshu;;;;;ほんしゅう;6
+v_運;vocabulary;運;luck;;;;;うん;12
+v_悪気;vocabulary;悪気;evil intent, malice;;;;;わるぎ;14
+v_気持ちいい;vocabulary;気持ちいい;good feeling, feeling good, feels good;;;;;きもちいい;11
+v_黒煙;vocabulary;黒煙;black smoke;;;;;こくえん;18
+v_地図;vocabulary;地図;map;;;;;ちず;6
+v_必要;vocabulary;必要;necessary, needed, essential;;;;;ひつよう;9
+v_買い物;vocabulary;買い物;shopping;;;;;かいもの;10
+v_会社員;vocabulary;会社員;company employee, office worker;;;;;かいしゃいん;12
+v_中東;vocabulary;中東;middle east;;;;;ちゅうとう;6
+v_船;vocabulary;船;boat, ship;;;;;ふね;7
+v_東京;vocabulary;東京;tokyo, toukyou;;;;;とうきょう;6
+v_時間;vocabulary;時間;time;;;;;じかん;8
+v_不完全;vocabulary;不完全;incomplete, imperfect;;;;;ふかんぜん;16
+v_体育;vocabulary;体育;pe class, pe, physical education, gym class;;;;;たいいく;13
+v_未来;vocabulary;未来;future, the future, distant future, the distant future;;;;;みらい;7
+v_待つ;vocabulary;待つ;to wait;;;;;まつ;9
+v_親しい;vocabulary;親しい;intimate, friendly;;;;;したしい;10
+v_晩;vocabulary;晩;night, evening;;;;;ばん;15
+v_以前;vocabulary;以前;previously, before;;;;;いぜん;7
+v_地理;vocabulary;地理;geography;;;;;ちり;7
+v_折り紙;vocabulary;折り紙;origami, art of paper folding;;;;;おりがみ;16
+v_魚;vocabulary;魚;fish;;;;;さかな;7
+v_心理学;vocabulary;心理学;psychology;;;;;しんりがく;7
+v_平仮名;vocabulary;平仮名;hiragana;;;;;ひらがな;11
+v_回想;vocabulary;回想;retrospection, reminiscence;;;;;かいそう;13
+v_年末;vocabulary;年末;year end, end of the year, end of year;;;;;ねんまつ;7
+v_毒ガス;vocabulary;毒ガス;poison gas;;;;;どくがす, どくガス;15
+v_計画;vocabulary;計画;plan;;;;;けいかく;15
+v_泣き声;vocabulary;泣き声;crying, sob;;;;;なきごえ;17
+v_園;vocabulary;園;garden, park;;;;;えん, その;16
+v_弱い;vocabulary;弱い;weak;;;;;よわい;7
+v_何時;vocabulary;何時;what time;;;;;なんじ;7
+v_住民;vocabulary;住民;residents;;;;;じゅうみん;9
+v_楽;vocabulary;楽;comfort, ease, pleasure;;;;;らく;8
+v_毒言;vocabulary;毒言;abusive language;;;;;どくげん;15
+v_選ぶ;vocabulary;選ぶ;to choose;;;;;えらぶ;13
+v_末;vocabulary;末;the end, end;;;;;すえ;7
+v_風船;vocabulary;風船;balloon;;;;;ふうせん;7
+v_白鳥;vocabulary;白鳥;swan;;;;;はくちょう;7
+v_鳥;vocabulary;鳥;bird;;;;;とり;7
+v_保証;vocabulary;保証;guarantee;;;;;ほしょう;16
+v_黄色;vocabulary;黄色;yellow, yellow colour, yellow color, colour yellow, color yellow;;;;;きいろ;7
+v_〜病;vocabulary;〜病;disease, sickness, illness;;;;;びょう;10
+v_阪神;vocabulary;阪神;hanshin;;;;;はんしん;16
+v_嫌疑;vocabulary;嫌疑;suspicion;;;;;けんぎ;20
+v_穴場;vocabulary;穴場;hole in the wall, little known good place;;;;;あなば;20
+v_飛行機;vocabulary;飛行機;airplane, aeroplane, aircraft;;;;;ひこうき;20
+v_海;vocabulary;海;ocean, sea;;;;;うみ;6
+v_南東;vocabulary;南東;southeast;;;;;なんとう;6
+v_黒い;vocabulary;黒い;black;;;;;くろい;7
+v_若者;vocabulary;若者;young person;;;;;わかもの;19
+v_落ちる;vocabulary;落ちる;to fall down, to drop, to fall;;;;;おちる;10
+v_星;vocabulary;星;star;;;;;ほし;6
+v_南米;vocabulary;南米;south america;;;;;なんべい;8
+v_橋;vocabulary;橋;bridge;;;;;はし;13
+v_有毒;vocabulary;有毒;poisonous, toxic;;;;;ゆうどく;15
+v_保険;vocabulary;保険;insurance;;;;;ほけん;16
+v_強い;vocabulary;強い;strong;;;;;つよい;7
+v_言い方;vocabulary;言い方;way of saying, way of talking, speaking style;;;;;いいかた;7
+v_倒産;vocabulary;倒産;bankruptcy;;;;;とうさん;20
+v_議論;vocabulary;議論;argument;;;;;ぎろん;20
+v_足す;vocabulary;足す;to add;;;;;たす;6
+v_乗り物;vocabulary;乗り物;vehicle;;;;;のりもの;9
+v_着ける;vocabulary;着ける;to put on, to wear;;;;;つける;14
+v_毒;vocabulary;毒;poison;;;;;どく;15
+v_外交官;vocabulary;外交官;diplomat;;;;;がいこうかん;17
+v_留守番電話;vocabulary;留守番電話;answering machine;;;;;るすばんでんわ;20
+v_乗る;vocabulary;乗る;to ride;;;;;のる;9
+v_住所;vocabulary;住所;address;;;;;じゅうしょ;8
+v_苦しむ;vocabulary;苦しむ;to suffer, to hurt;;;;;くるしむ;11
+v_運がいい;vocabulary;運がいい;lucky;;;;;うんがいい;10
+v_開発;vocabulary;開発;development;;;;;かいはつ;10
+v_嫌;vocabulary;嫌;dislike, eww, ew, gross;;;;;いや;20
+v_農;vocabulary;農;farming, agriculture;;;;;のう;10
+v_料理;vocabulary;料理;cooking, cuisine, cookery;;;;;りょうり;14
+v_私立大学;vocabulary;私立大学;private college, private university;;;;;しりつだいがく;16
+v_画面;vocabulary;画面;screen, monitor;;;;;がめん;16
+v_立入禁止;vocabulary;立入禁止;do not enter, no entry, entry prohibited, no trespassing, trespassing prohibited;;;;;たちいりきんし;20
+v_一冊;vocabulary;一冊;one book, one volume;;;;;いっさつ;19
+v_入場;vocabulary;入場;entrance, admission, entering;;;;;にゅうじょう;8
+v_全米;vocabulary;全米;all america;;;;;ぜんべい;8
+v_助言;vocabulary;助言;advice;;;;;じょげん;8
+v_数字;vocabulary;数字;numeral, digit;;;;;すうじ;8
+v_買う;vocabulary;買う;to buy;;;;;かう;8
+v_水兵;vocabulary;水兵;navy soldier, naval soldier, seaman;;;;;すいへい;17
+v_千円;vocabulary;千円;1000 yen, one thousand yen, a thousand yen, thousand yen;;;;;せんえん;2
+v_青空;vocabulary;青空;blue sky;;;;;あおぞら;7
+v_雲;vocabulary;雲;cloud;;;;;くも;8
+v_人達;vocabulary;人達;people;;;;;ひとたち;20
+v_音楽;vocabulary;音楽;music;;;;;おんがく;8
+v_場所;vocabulary;場所;place, location, spot;;;;;ばしょ;8
+v_学者;vocabulary;学者;scholar;;;;;がくしゃ;8
+v_事変;vocabulary;事変;incident;;;;;じへん;15
+v_罪;vocabulary;罪;sin, crime;;;;;つみ;20
+v_数学;vocabulary;数学;mathematics, math, maths;;;;;すうがく;8
+v_森;vocabulary;森;woods, forest;;;;;もり;8
+v_交番;vocabulary;交番;police box;;;;;こうばん;8
+v_研究;vocabulary;研究;investigation, study, research;;;;;けんきゅう;8
+v_私鉄;vocabulary;私鉄;private railway;;;;;してつ;14
+v_〜冊;vocabulary;〜冊;books counter, counter for books, books;;;;;さつ;19
+v_化ける;vocabulary;化ける;to transform;;;;;ばける;8
+v_妻子;vocabulary;妻子;wife and kids, wife and children;;;;;さいし;20
+v_弓矢;vocabulary;弓矢;bow and arrow;;;;;ゆみや;20
+v_美人;vocabulary;美人;beautiful woman;;;;;びじん;9
+v_医学;vocabulary;医学;medical science, medicine;;;;;いがく;8
+v_楽しい;vocabulary;楽しい;fun;;;;;たのしい;8
+v_走り回る;vocabulary;走り回る;to run around;;;;;はしりまわる;8
+v_電力;vocabulary;電力;electric power;;;;;でんりょく;8
+v_馬力;vocabulary;馬力;horsepower;;;;;ばりき;8
+v_曲線;vocabulary;曲線;curve, curved line;;;;;きょくせん;10
+v_二番;vocabulary;二番;number two, second;;;;;にばん;8
+v_両者;vocabulary;両者;both people;;;;;りょうしゃ;8
+v_防ぐ;vocabulary;防ぐ;to defend, to protect against, to prevent;;;;;ふせぐ;20
+v_読者;vocabulary;読者;reader;;;;;どくしゃ;20
+v_強調;vocabulary;強調;emphasis, highlight, stress;;;;;きょうちょう;10
+v_得;vocabulary;得;benefit, profit, advantage, gain;;;;;とく;19
+v_戸;vocabulary;戸;japanese style door, door;;;;;と;3
+v_道路;vocabulary;道路;paved road, road, sealed road;;;;;どうろ;10
+v_公開;vocabulary;公開;open to the public;;;;;こうかい;10
+v_予約;vocabulary;予約;reservation, appointment;;;;;よやく;14
+v_浅い;vocabulary;浅い;shallow;;;;;あさい;15
+v_布;vocabulary;布;cloth, fabric;;;;;ぬの;19
+v_想像する;vocabulary;想像する;to imagine;;;;;そうぞうする;13
+v_一億円;vocabulary;一億円;one hundred million yen;;;;;いちおくえん;13
+v_善悪;vocabulary;善悪;good and evil;;;;;ぜんあく;19
+v_季節;vocabulary;季節;season;;;;;きせつ;19
+v_毛布;vocabulary;毛布;blanket;;;;;もうふ;19
+v_共有する;vocabulary;共有する;to share, to own jointly, to co own;;;;;きょうゆうする;13
+v_歌;vocabulary;歌;song;;;;;うた;10
+v_決まる;vocabulary;決まる;to be decided, to be settled;;;;;きまる;10
+v_頑固;vocabulary;頑固;stubborn;;;;;がんこ;14
+v_入団;vocabulary;入団;join, enlist, enrollment, enlistment;;;;;にゅうだん;19
+v_容疑;vocabulary;容疑;suspicion, suspect;;;;;ようぎ;19
+v_保持する;vocabulary;保持する;to maintain, to preserve;;;;;ほじする;18
+v_泳ぎ;vocabulary;泳ぎ;swimming, swim;;;;;およぎ;9
+v_転がる;vocabulary;転がる;to roll, to tumble;;;;;ころがる;10
+v_お酒;vocabulary;お酒;sake, alcohol;;;;;おさけ;10
+v_才能;vocabulary;才能;talent, ability, genius;;;;;さいのう;14
+v_英文;vocabulary;英文;english writing, english composition;;;;;えいぶん;15
+v_体重;vocabulary;体重;body weight;;;;;たいじゅう;9
+v_芸者;vocabulary;芸者;geisha;;;;;げいしゃ;14
+v_秋;vocabulary;秋;autumn, fall;;;;;あき;15
+v_軍人;vocabulary;軍人;soldier;;;;;ぐんじん;15
+v_覚える;vocabulary;覚える;to memorize, to remember, to memorise, to learn, to pick up;;;;;おぼえる;19
+v_飲み放題;vocabulary;飲み放題;all you can drink;;;;;のみほうだい;15
+v_歯医者;vocabulary;歯医者;dentist;;;;;はいしゃ;12
+v_虫歯;vocabulary;虫歯;cavity, decayed tooth;;;;;むしば;12
+v_第二章;vocabulary;第二章;chapter two, second chapter;;;;;だいにしょう;12
+v_音読み;vocabulary;音読み;chinese reading, on'yomi;;;;;おんよみ;12
+v_運転手;vocabulary;運転手;driver;;;;;うんてんしゅ;12
+v_歴史;vocabulary;歴史;history;;;;;れきし;19
+v_仮定;vocabulary;仮定;assumption, hypothesis;;;;;かてい;9
+v_変人;vocabulary;変人;an eccentric, eccentric, oddball;;;;;へんじん;15
+v_読む;vocabulary;読む;to read;;;;;よむ;10
+v_初回;vocabulary;初回;the first time, first time;;;;;しょかい;11
+v_特別;vocabulary;特別;special;;;;;とくべつ;11
+v_不信;vocabulary;不信;distrust, unfaithfulness;;;;;ふしん;15
+v_計算;vocabulary;計算;calculation;;;;;けいさん;15
+v_注意;vocabulary;注意;caution, attention;;;;;ちゅうい;11
+v_戦車;vocabulary;戦車;tank;;;;;せんしゃ;11
+v_運動;vocabulary;運動;exercise;;;;;うんどう;12
+v_緑色;vocabulary;緑色;green, color green, green color, colour green, green colour;;;;;みどりいろ;13
+v_仏教;vocabulary;仏教;buddhism;;;;;ぶっきょう;15
+v_教育;vocabulary;教育;education;;;;;きょういく;11
+v_仲良く;vocabulary;仲良く;friendly, good terms;;;;;なかよく;11
+v_深夜;vocabulary;深夜;middle of the night, late at night;;;;;しんや;12
+v_京都;vocabulary;京都;kyoto, kyouto;;;;;きょうと;12
+v_五感;vocabulary;五感;the five senses, five senses;;;;;ごかん;13
+v_枚数;vocabulary;枚数;number of sheets, number of flat objects;;;;;まいすう;18
+v_仲;vocabulary;仲;relationship, relation;;;;;なか;11
+v_悲しい;vocabulary;悲しい;sad;;;;;かなしい;12
+v_根;vocabulary;根;root;;;;;ね;12
+v_温泉;vocabulary;温泉;hot springs, onsen;;;;;おんせん;12
+v_最深;vocabulary;最深;deepest, the deepest;;;;;さいしん;12
+v_短期;vocabulary;短期;short period, short term;;;;;たんき;12
+v_終わり;vocabulary;終わり;the end, end, the finish, finish;;;;;おわり;12
+v_容易;vocabulary;容易;ease, easily, easy, simple;;;;;ようい;19
+v_多忙;vocabulary;多忙;busy, pressure of work;;;;;たぼう;19
+v_左利き;vocabulary;左利き;left handed;;;;;ひだりきき;13
+v_銀;vocabulary;銀;silver;;;;;ぎん;13
+v_願望;vocabulary;願望;desire, wish, aspiration;;;;;がんぼう;14
+v_松;vocabulary;松;pine, pine tree;;;;;まつ;14
+v_人格;vocabulary;人格;character, personality;;;;;じんかく;14
+v_災い;vocabulary;災い;personal disaster, personal misfortune;;;;;わざわい;20
+v_数える;vocabulary;数える;to count;;;;;かぞえる;8
+v_不便;vocabulary;不便;inconvenient, not convenient;;;;;ふべん;11
+v_共有;vocabulary;共有;shared, co ownership, joint ownership, share;;;;;きょうゆう;11
+v_意見;vocabulary;意見;opinion, view;;;;;いけん;11
+v_時々;vocabulary;時々;sometimes, at times;;;;;ときどき;11
+v_仲直り;vocabulary;仲直り;reconciliation, make peace with;;;;;なかなおり;11
+v_神社;vocabulary;神社;shinto shrine;;;;;じんじゃ;11
+v_仏;vocabulary;仏;buddha;;;;;ほとけ;15
+v_心身;vocabulary;心身;body and mind, mind and body;;;;;しんしん;8
+v_服;vocabulary;服;clothes, clothing;;;;;ふく;9
+v_例外;vocabulary;例外;exception;;;;;れいがい;14
+v_式;vocabulary;式;ceremony, ritual, equation;;;;;しき;15
+v_〜弁;vocabulary;〜弁;dialect;;;;;べん;16
+v_犯人;vocabulary;犯人;criminal;;;;;はんにん;20
+v_関西;vocabulary;関西;kansai;;;;;かんさい;16
+v_洋風;vocabulary;洋風;western style;;;;;ようふう;11
+v_洋食;vocabulary;洋食;western food, western style food;;;;;ようしょく;11
+v_協力;vocabulary;協力;cooperation;;;;;きょうりょく;14
+v_泉;vocabulary;泉;spring, fountain;;;;;いずみ;12
+v_〜道;vocabulary;〜道;method of, way, style, way of;;;;;どう;8
+v_伝える;vocabulary;伝える;to transmit, to tell;;;;;つたえる;11
+v_洋室;vocabulary;洋室;western style room;;;;;ようしつ;11
+v_お客さん;vocabulary;お客さん;guest, visitor, customer;;;;;おきゃくさん;9
+v_女性;vocabulary;女性;female;;;;;じょせい;14
+v_見送る;vocabulary;見送る;to see off;;;;;みおくる;11
+v_塩;vocabulary;塩;salt;;;;;しお;17
+v_周囲;vocabulary;周囲;perimeter, circumference, surroundings, environs;;;;;しゅうい;14
+v_男性;vocabulary;男性;male;;;;;だんせい;14
+v_折る;vocabulary;折る;to fold;;;;;おる;14
+v_左側;vocabulary;左側;left side;;;;;ひだりがわ;17
+v_待ちぼうけ;vocabulary;待ちぼうけ;stood up, waiting in vain;;;;;まちぼうけ;11
+v_技能;vocabulary;技能;skill, ability;;;;;ぎのう;14
+v_勉強する;vocabulary;勉強する;to study;;;;;べんきょうする;14
+v_温かい;vocabulary;温かい;warm;;;;;あたたかい;12
+v_下着;vocabulary;下着;underwear;;;;;したぎ;12
+v_緑;vocabulary;緑;green;;;;;みどり;13
+v_温める;vocabulary;温める;to warm up, to warm, to heat up, to heat;;;;;あたためる;14
+v_猫;vocabulary;猫;cat;;;;;ねこ;15
+v_席;vocabulary;席;seat;;;;;せき;17
+v_若い;vocabulary;若い;young;;;;;わかい;19
+v_運命;vocabulary;運命;fate, destiny;;;;;うんめい;11
+v_絵文字;vocabulary;絵文字;emoji;;;;;えもじ;8
+v_老人;vocabulary;老人;old person, elderly person;;;;;ろうじん;11
+v_三番目;vocabulary;三番目;third thing, the third;;;;;さんばんめ;12
+v_干渉;vocabulary;干渉;interference, intervention;;;;;かんしょう;17
+v_幻覚;vocabulary;幻覚;hallucination;;;;;げんかく;17
+v_温度;vocabulary;温度;temperature;;;;;おんど;12
+v_宿題;vocabulary;宿題;homework;;;;;しゅくだい;13
+v_悲しむ;vocabulary;悲しむ;to be sad;;;;;かなしむ;14
+v_作品;vocabulary;作品;a work, work, production;;;;;さくひん;16
+v_結果;vocabulary;結果;result;;;;;けっか;17
+v_億;vocabulary;億;hundred million;;;;;おく;13
+v_集中する;vocabulary;集中する;to concentrate;;;;;しゅうちゅうする;11
+v_人情;vocabulary;人情;humanity, human feelings, empathy, kindness, sympathy;;;;;にんじょう;13
+v_仮面;vocabulary;仮面;mask;;;;;かめん;16
+v_借財;vocabulary;借財;debt;;;;;しゃくざい;19
+v_予想;vocabulary;予想;expect, anticipate, expectation, anticipation, prediction;;;;;よそう;13
+v_感じ;vocabulary;感じ;feeling;;;;;かんじ;13
+v_暗殺;vocabulary;暗殺;assassination;;;;;あんさつ;13
+v_情熱;vocabulary;情熱;passion, enthusiasm;;;;;じょうねつ;13
+v_生保;vocabulary;生保;life insurance;;;;;せいほ;16
+v_主因;vocabulary;主因;main cause, primary cause;;;;;しゅいん;17
+v_数詞;vocabulary;数詞;numeral, number word;;;;;すうし;19
+v_飲み物;vocabulary;飲み物;beverage, drink;;;;;のみもの;12
+v_落とす;vocabulary;落とす;to drop something, to let fall, to drop, to fall;;;;;おとす;12
+v_母親;vocabulary;母親;mother;;;;;ははおや;12
+v_証人;vocabulary;証人;witness;;;;;しょうにん;16
+v_前面;vocabulary;前面;front, front side;;;;;ぜんめん;16
+v_面;vocabulary;面;surface, face;;;;;めん;16
+v_人殺し;vocabulary;人殺し;murder, murderer;;;;;ひとごろし;15
+v_苦い;vocabulary;苦い;bitter taste, bitter;;;;;にがい;9
+v_笑顔;vocabulary;笑顔;smile, smiling face;;;;;えがお;16
+v_当然;vocabulary;当然;natural, obvious;;;;;とうぜん;13
+v_ご飯;vocabulary;ご飯;meal, cooked rice;;;;;ごはん;15
+v_席順;vocabulary;席順;seating order;;;;;せきじゅん;19
+v_駅前;vocabulary;駅前;front of station, in front of station, front of the station, in front of the station, station front;;;;;えきまえ;13
+v_用事;vocabulary;用事;errand, business;;;;;ようじ;9
+v_楽勝;vocabulary;楽勝;easy victory, easy win;;;;;らくしょう;9
+v_中学校;vocabulary;中学校;middle school, junior high school;;;;;ちゅうがっこう;9
+v_果物;vocabulary;果物;fruit;;;;;くだもの;17
+v_兵士;vocabulary;兵士;soldier;;;;;へいし;17
+v_事;vocabulary;事;thing, matter, action;;;;;こと;9
+v_平和;vocabulary;平和;peace, harmony;;;;;へいわ;9
+v_深さ;vocabulary;深さ;depth, profundity;;;;;ふかさ;14
+v_最終;vocabulary;最終;last, final, the last, the final;;;;;さいしゅう;10
+v_待たせる;vocabulary;待たせる;to make someone wait, to keep someone waiting, to make wait, to keep waiting;;;;;またせる;9
+v_新しい;vocabulary;新しい;new;;;;;あたらしい;9
+v_〜県;vocabulary;〜県;prefecture;;;;;けん;9
+v_知り合い;vocabulary;知り合い;acquaintance;;;;;しりあい;10
+v_意識;vocabulary;意識;consciously, awareness, consciousness;;;;;いしき;17
+v_能力;vocabulary;能力;ability, capability;;;;;のうりょく;14
+v_仮説;vocabulary;仮説;hypothesis;;;;;かせつ;17
+v_事実;vocabulary;事実;truth, fact, reality;;;;;じじつ;9
+v_進行;vocabulary;進行;advance, progress;;;;;しんこう;10
+v_英会話;vocabulary;英会話;english conversation;;;;;えいかいわ;15
+v_集団;vocabulary;集団;group, crowd;;;;;しゅうだん;19
+v_近所;vocabulary;近所;neighborhood, neighbourhood;;;;;きんじょ;10
+v_病気;vocabulary;病気;sick, illness, sickness, disease;;;;;びょうき;10
+v_聞く;vocabulary;聞く;to hear, to ask, to listen;;;;;きく;10
+v_農業;vocabulary;農業;agriculture;;;;;のうぎょう;10
+v_木材;vocabulary;木材;wood, lumber;;;;;もくざい;14
+v_鼻;vocabulary;鼻;nose;;;;;はな;17
+v_急に;vocabulary;急に;suddenly, immediately, abruptly;;;;;きゅうに;16
+v_手伝う;vocabulary;手伝う;to help, to assist, to lend a hand, to give a hand;;;;;てつだう;13
+v_話;vocabulary;話;story, talk, speech;;;;;はなし;10
+v_使い方;vocabulary;使い方;how to use, way of using;;;;;つかいかた;11
+v_指;vocabulary;指;finger;;;;;ゆび;11
+v_骨折;vocabulary;骨折;broken bone, fracture, bone fracture;;;;;こっせつ;14
+v_最低;vocabulary;最低;the lowest, the worst, lowest, worst, nasty, terrible;;;;;さいてい;11
+v_電波;vocabulary;電波;reception, radio wave, electromagnetic wave;;;;;でんぱ;11
+v_残す;vocabulary;残す;to leave behind, to leave over;;;;;のこす;16
+v_証言;vocabulary;証言;testimony;;;;;しょうげん;16
+v_達する;vocabulary;達する;to attain, to reach, to get to, to arrive at;;;;;たっする;18
+v_新宿;vocabulary;新宿;shinjuku;;;;;しんじゅく;13
+v_思想;vocabulary;思想;thought, idea;;;;;しそう;13
+v_詩歌;vocabulary;詩歌;poetry;;;;;しか, しいか;13
+v_車輪;vocabulary;車輪;tire, car wheel, tyre;;;;;しゃりん;13
+v_謝る;vocabulary;謝る;to apologize, to apologise;;;;;あやまる;13
+v_旅行する;vocabulary;旅行する;to travel, to take a trip;;;;;りょこうする;14
+v_年代順;vocabulary;年代順;chronological order;;;;;ねんだいじゅん;19
+v_伝わる;vocabulary;伝わる;to be transmitted;;;;;つたわる;13
+v_様々;vocabulary;様々;various, many;;;;;さまざま;13
+v_英語;vocabulary;英語;english language, english;;;;;えいご;15
+v_予告;vocabulary;予告;advance notice, forward notice, prior notice;;;;;よこく;18
+v_養う;vocabulary;養う;to foster, to raise, to rear;;;;;やしなう;13
+v_約する;vocabulary;約する;to promise;;;;;やくする;14
+v_映す;vocabulary;映す;to project, to reflect;;;;;うつす;15
+v_両側;vocabulary;両側;both sides;;;;;りょうがわ;17
+v_順番;vocabulary;順番;order, one's turn;;;;;じゅんばん;19
+v_非難;vocabulary;非難;criticism;;;;;ひなん;20
+v_例文;vocabulary;例文;example sentence, model sentence, sample sentence;;;;;れいぶん;14
+v_完了;vocabulary;完了;completion, complete, finish, conclusion;;;;;かんりょう;14
+v_食べ放題;vocabulary;食べ放題;all you can eat;;;;;たべほうだい;15
+v_被害;vocabulary;被害;damage, harm, injury;;;;;ひがい;20
+v_近道;vocabulary;近道;shortcut, short way;;;;;ちかみち;10
+v_悪例;vocabulary;悪例;bad example, bad precedent;;;;;あくれい;14
+v_美術;vocabulary;美術;fine art;;;;;びじゅつ;14
+v_有罪;vocabulary;有罪;guilty;;;;;ゆうざい;20
+v_舌;vocabulary;舌;tongue;;;;;した;19
+v_曲がる;vocabulary;曲がる;to be bent, to bend, to curve, to turn;;;;;まがる;8
+v_昼;vocabulary;昼;noon;;;;;ひる;15
+v_危機;vocabulary;危機;crisis;;;;;きき;20
+v_助かる;vocabulary;助かる;to be helped, to be saved, to be rescued;;;;;たすかる;10
+v_経験;vocabulary;経験;experience;;;;;けいけん;20
+v_卒業;vocabulary;卒業;graduation;;;;;そつぎょう;14
+v_思わず;vocabulary;思わず;unintentionally, reflexively, spontaneously, involuntarily, instinctively;;;;;おもわず;10
+v_念願;vocabulary;念願;heart's desire, earnest wish;;;;;ねんがん;14
+v_海軍;vocabulary;海軍;navy;;;;;かいぐん;15
+v_人類学;vocabulary;人類学;anthropology;;;;;じんるいがく;20
+v_余震;vocabulary;余震;aftershock;;;;;よしん;20
+v_動かす;vocabulary;動かす;to move something;;;;;うごかす;14
+v_特技;vocabulary;特技;specialty;;;;;とくぎ;14
+v_旅行者;vocabulary;旅行者;traveler, tourist;;;;;りょこうしゃ;14
+v_借りる;vocabulary;借りる;to borrow;;;;;かりる;18
+v_報告;vocabulary;報告;report, information;;;;;ほうこく;18
+v_血圧;vocabulary;血圧;blood pressure;;;;;けつあつ;20
+v_防止;vocabulary;防止;prevention;;;;;ぼうし;20
+v_建つ;vocabulary;建つ;to be erected, to be built;;;;;たつ;17
+v_是非;vocabulary;是非;absolutely, by all means;;;;;ぜひ;17
+v_無茶;vocabulary;無茶;absurd, rash, excessive;;;;;むちゃ;17
+v_飛ぶ;vocabulary;飛ぶ;to fly, to jump;;;;;とぶ;20
+v_鼻の穴;vocabulary;鼻の穴;nostril, nose hole;;;;;はなのあな;20
+v_底;vocabulary;底;bottom;;;;;そこ;17
+v_息;vocabulary;息;breath;;;;;いき;12
+v_第一位;vocabulary;第一位;first place, first rank;;;;;だいいちい;12
+v_目的;vocabulary;目的;purpose, goal, motive;;;;;もくてき;14
+v_時計;vocabulary;時計;watch, clock;;;;;とけい;15
+v_食堂;vocabulary;食堂;cafeteria, dining hall;;;;;しょくどう;17
+v_無名;vocabulary;無名;anonymous;;;;;むめい;17
+v_性;vocabulary;性;gender, nature, sex;;;;;せい;14
+v_悪い;vocabulary;悪い;bad, substandard;;;;;わるい;12
+v_血族;vocabulary;血族;blood relative;;;;;けつぞく;12
+v_本流;vocabulary;本流;mainstream;;;;;ほんりゅう;12
+v_鳴る;vocabulary;鳴る;to ring;;;;;なる;12
+v_流行歌;vocabulary;流行歌;popular song;;;;;りゅうこうか;14
+v_事情;vocabulary;事情;circumstances;;;;;じじょう;13
+v_〜様;vocabulary;〜様;formal name ender, formal name title, sama, very formal name ender;;;;;さま;13
+v_駅;vocabulary;駅;station, train station;;;;;えき;13
+v_気温;vocabulary;気温;temperature;;;;;きおん;12
+v_映像;vocabulary;映像;reflection, image;;;;;えいぞう;13
+v_妥協する;vocabulary;妥協する;to compromise;;;;;だきょうする;16
+v_要求する;vocabulary;要求する;to demand;;;;;ようきゅうする;16
+v_存じる;vocabulary;存じる;to know, to be aware of;;;;;ぞんじる;16
+v_希望する;vocabulary;希望する;to request, to wish;;;;;きぼうする;16
+v_笑う;vocabulary;笑う;to laugh;;;;;わらう;16
+v_関する;vocabulary;関する;to be connected to, to be related;;;;;かんする;16
+v_親;vocabulary;親;parent;;;;;おや;10
+v_感じる;vocabulary;感じる;to feel;;;;;かんじる;13
+v_殺す;vocabulary;殺す;to kill;;;;;ころす;13
+v_芸術;vocabulary;芸術;art, the arts, fine art;;;;;げいじゅつ;14
+v_非常;vocabulary;非常;emergency;;;;;ひじょう;17
+v_神風;vocabulary;神風;kamikaze, divine winds;;;;;かみかぜ;13
+v_性愛;vocabulary;性愛;sexual love;;;;;せいあい;17
+v_心理;vocabulary;心理;mental state, psychology;;;;;しんり;7
+v_例えば;vocabulary;例えば;for example, for instance;;;;;たとえば;14
+v_格好;vocabulary;格好;shape, form, posture;;;;;かっこう;14
+v_工業;vocabulary;工業;industry;;;;;こうぎょう;10
+v_流行語;vocabulary;流行語;popular phrase, catchphrase;;;;;りゅうこうご;14
+v_建築;vocabulary;建築;architecture, construction;;;;;けんちく;15
+v_地震;vocabulary;地震;earthquake;;;;;じしん;20
+v_技;vocabulary;技;technique, art;;;;;わざ;14
+v_区分;vocabulary;区分;division, classification;;;;;くぶん;15
+v_地区;vocabulary;地区;district, area, zone;;;;;ちく;15
+v_真実;vocabulary;真実;truth, reality;;;;;しんじつ;16
+v_経験者;vocabulary;経験者;experienced person;;;;;けいけんしゃ;20
+v_震度;vocabulary;震度;earthquake intensity, earthquake magnitude, magnitude, earthquake scale;;;;;しんど;20
+v_方法;vocabulary;方法;method, way;;;;;ほうほう;15
+v_兵器;vocabulary;兵器;arms, weapons;;;;;へいき;17
+v_悪因悪果;vocabulary;悪因悪果;evil breeds evil, evil begets evil;;;;;あくいんあっか;17
+v_幻想;vocabulary;幻想;fantasy, illusion;;;;;げんそう;17
+v_水害;vocabulary;水害;flood damage, water damage;;;;;すいがい;20
+v_無害;vocabulary;無害;harmless;;;;;むがい;20
+v_穴;vocabulary;穴;hole;;;;;あな;20
+v_官金;vocabulary;官金;government funds, government money;;;;;かんきん;17
+v_表情;vocabulary;表情;facial expression;;;;;ひょうじょう;13
+v_指先;vocabulary;指先;fingertip;;;;;ゆびさき;11
+v_栄光;vocabulary;栄光;glory;;;;;えいこう;17
+v_説明;vocabulary;説明;explanation;;;;;せつめい;17
+v_薬物;vocabulary;薬物;medicines, drugs;;;;;やくぶつ;17
+v_弓道;vocabulary;弓道;archery, kyudo, kyuudou;;;;;きゅうどう;18
+v_火災;vocabulary;火災;fire disaster;;;;;かさい;20
+v_君主国;vocabulary;君主国;monarchy;;;;;くんしゅこく;8
+v_梅酒;vocabulary;梅酒;ume wine, plum wine, plum liquor, umeshu;;;;;うめしゅ;17
+v_無知;vocabulary;無知;ignorance;;;;;むち;17
+v_小説;vocabulary;小説;novel;;;;;しょうせつ;17
+v_知識;vocabulary;知識;knowledge, information;;;;;ちしき;17
+v_訓読み;vocabulary;訓読み;kun'yomi, kun reading, japanese reading;;;;;くんよみ;18
+v_忘れ物;vocabulary;忘れ物;forgotten item, something forgotten, forgotten thing, lost property;;;;;わすれもの;20
+v_正確;vocabulary;正確;accurate, precise, exact;;;;;せいかく;20
+v_夫妻;vocabulary;夫妻;husband and wife;;;;;ふさい;20
+v_湯;vocabulary;湯;hot water;;;;;ゆ;12
+v_原作;vocabulary;原作;original work;;;;;げんさく;17
+v_察知;vocabulary;察知;inference, infer, sense;;;;;さっち;17
+v_空席;vocabulary;空席;open seat, empty seat, free seat;;;;;くうせき;17
+v_恋愛;vocabulary;恋愛;love;;;;;れんあい;17
+v_交渉;vocabulary;交渉;negotiation;;;;;こうしょう;17
+v_無力;vocabulary;無力;powerless, powerlessness, helplessness;;;;;むりょく;17
+v_存在;vocabulary;存在;existence;;;;;そんざい;20
+v_動き;vocabulary;動き;movement, activity, trend, development, change;;;;;うごき;14
+v_右側;vocabulary;右側;right side;;;;;みぎがわ;17
+v_塩水;vocabulary;塩水;salt water;;;;;しおみず;17
+v_自愛;vocabulary;自愛;self love, selfishness;;;;;じあい;17
+v_薬方;vocabulary;薬方;prescription;;;;;やくほう;17
+v_警察;vocabulary;警察;police;;;;;けいさつ;17
+v_機械;vocabulary;機械;machine, mechanism;;;;;きかい;20
+v_西側;vocabulary;西側;west side;;;;;にしがわ;17
+v_感覚;vocabulary;感覚;senses, the senses;;;;;かんかく;17
+v_煙い;vocabulary;煙い;smoky;;;;;けむい;20
+v_軍;vocabulary;軍;army, troops, force;;;;;ぐん;15
+v_察する;vocabulary;察する;to guess, to sense, to presume;;;;;さっする;17
+v_梅;vocabulary;梅;ume, japanese plum;;;;;うめ;17
+v_笑い;vocabulary;笑い;a laugh, laugh;;;;;わらい;18
+v_集中;vocabulary;集中;concentration;;;;;しゅうちゅう;10
+v_脳死;vocabulary;脳死;brain death, brain dead;;;;;のうし;18
+v_弓;vocabulary;弓;bow;;;;;ゆみ;18
+v_洗車;vocabulary;洗車;car wash;;;;;せんしゃ;18
+v_丈;vocabulary;丈;height, only, just;;;;;たけ, だけ;15
+v_借用;vocabulary;借用;borrowing, loan;;;;;しゃくよう;18
+v_脳;vocabulary;脳;brain;;;;;のう;18
+v_脳みそ;vocabulary;脳みそ;brains, gray matter;;;;;のうみそ;18
+v_洗脳;vocabulary;洗脳;brainwashing;;;;;せんのう;18
+v_本能;vocabulary;本能;instinct;;;;;ほんのう;14
+v_不法;vocabulary;不法;illegal, unlawful;;;;;ふほう;15
+v_上品;vocabulary;上品;elegant;;;;;じょうひん;18
+v_分類;vocabulary;分類;classification;;;;;ぶんるい;18
+v_利息;vocabulary;利息;interest;;;;;りそく;12
+v_生存;vocabulary;生存;existence, life, survival;;;;;せいぞん;16
+v_等号;vocabulary;等号;equal sign, equals sign;;;;;とうごう;18
+v_会社;vocabulary;会社;company, corporation, the office;;;;;かいしゃ;5
+v_急ぐ;vocabulary;急ぐ;to hurry;;;;;いそぐ;16
+v_借金;vocabulary;借金;debt;;;;;しゃっきん;18
+v_留学生;vocabulary;留学生;exchange student;;;;;りゅうがくせい;18
+v_楽しむ;vocabulary;楽しむ;to enjoy, to enjoy oneself, to have fun;;;;;たのしむ;10
+v_日本語;vocabulary;日本語;japanese language, japanese;;;;;にほんご;10
+v_昨年;vocabulary;昨年;last year;;;;;さくねん;15
+v_和食;vocabulary;和食;japanese style food, japanese food;;;;;わしょく;9
+v_書き入れる;vocabulary;書き入れる;to write in, to fill in;;;;;かきいれる;18
+v_体験;vocabulary;体験;experience;;;;;たいけん;18
+v_作り方;vocabulary;作り方;how to make, way to make, way of making;;;;;つくりかた;7
+v_作家;vocabulary;作家;author, writer, novelist;;;;;さっか;7
+v_五枚;vocabulary;五枚;five flat objects, five sheets;;;;;ごまい;18
+v_在外;vocabulary;在外;overseas, abroad;;;;;ざいがい;20
+v_曲;vocabulary;曲;tune, piece of music, song, melody;;;;;きょく;6
+v_美術館;vocabulary;美術館;museum, art museum, art gallery;;;;;びじゅつかん;16
+v_兵;vocabulary;兵;soldier, army, troops;;;;;へい;17
+v_決心;vocabulary;決心;determination, resolution, conviction;;;;;けっしん;8
+v_毎度;vocabulary;毎度;each time, frequently, every time;;;;;まいど;9
+v_機嫌;vocabulary;機嫌;mood;;;;;きげん;20
+v_急;vocabulary;急;urgent, sudden, abrupt;;;;;きゅう;16
+v_暑い;vocabulary;暑い;hot weather, hot;;;;;あつい;12
+v_開業;vocabulary;開業;opening a business, opening of business, starting a business;;;;;かいぎょう;10
+v_比率;vocabulary;比率;percentage, ratio;;;;;ひりつ;20
+v_小指;vocabulary;小指;little finger, pinky finger, pinky;;;;;こゆび;11
+v_一個;vocabulary;一個;one small thing, one thing, one small object, one object;;;;;いっこ;20
+v_悪夢;vocabulary;悪夢;nightmare, bad dream;;;;;あくむ;20
+v_災難;vocabulary;災難;misfortune, calamity, disaster;;;;;さいなん;20
+v_機;vocabulary;機;machine, chance, opportunity;;;;;き;20
+v_感謝;vocabulary;感謝;thanks, gratitude;;;;;かんしゃ;13
+v_悪女;vocabulary;悪女;evil woman, wicked woman, bad woman;;;;;あくじょ;12
+v_期待;vocabulary;期待;expectation, expect, anticipate;;;;;きたい;12
+v_危険;vocabulary;危険;risky, unsafe, dangerous, danger, peril, hazard;;;;;きけん;16
+v_汽笛;vocabulary;汽笛;steam whistle;;;;;きてき;19
+v_手洗い;vocabulary;手洗い;hand washing, bathroom, restroom, lavatory, washing the hands;;;;;てあらい;20
+v_水曜日;vocabulary;水曜日;wednesday;;;;;すいようび;18
+v_祭;vocabulary;祭;festival;;;;;まつり;12
+v_取り出す;vocabulary;取り出す;to pick out, to take out, to retrieve;;;;;とりだす;18
+v_不可欠;vocabulary;不可欠;indispensable, essential;;;;;ふかけつ;18
+v_日曜日;vocabulary;日曜日;sunday;;;;;にちようび;18
+v_汽船;vocabulary;汽船;steam ship, steam boat;;;;;きせん;18
+v_不等;vocabulary;不等;inequality, disparity;;;;;ふとう;18
+v_静々;vocabulary;静々;quietly, calmly;;;;;しずしず;20
+v_個人;vocabulary;個人;personal, individual;;;;;こじん;20
+v_個室;vocabulary;個室;private room, one's own room;;;;;こしつ;20
+v_厚い;vocabulary;厚い;thick;;;;;あつい;20
+v_勝負;vocabulary;勝負;match, showdown, contest;;;;;しょうぶ;9
+v_心配;vocabulary;心配;a worry, concern, anxiety, worry;;;;;しんぱい;10
+v_養子;vocabulary;養子;adopted child, son in law;;;;;ようし;13
+v_僧院;vocabulary;僧院;temple, monastery;;;;;そういん;18
+v_喫煙;vocabulary;喫煙;smoking;;;;;きつえん;18
+v_人種;vocabulary;人種;race of people, race;;;;;じんしゅ;18
+v_公害;vocabulary;公害;pollution;;;;;こうがい;20
+v_忘れる;vocabulary;忘れる;to forget;;;;;わすれる;18
+v_訓練;vocabulary;訓練;training;;;;;くんれん;18
+v_可能;vocabulary;可能;possible;;;;;かのう;18
+v_配達する;vocabulary;配達する;to deliver;;;;;はいたつする;18
+v_静止;vocabulary;静止;still, standstill, at rest, stationary;;;;;せいし;18
+v_一夫多妻;vocabulary;一夫多妻;polygamy;;;;;いっぷたさい;20
+v_形容詞;vocabulary;形容詞;adjective;;;;;けいようし;19
+v_報じる;vocabulary;報じる;to report on;;;;;ほうじる;18
+v_試みる;vocabulary;試みる;to try, to attempt;;;;;こころみる;18
+v_加える;vocabulary;加える;to add;;;;;くわえる;19
+v_確率;vocabulary;確率;probability;;;;;かくりつ;20
+v_予防;vocabulary;予防;prevention, prevent;;;;;よぼう;20
+v_周年;vocabulary;周年;anniversary;;;;;しゅうねん;14
+v_文句する;vocabulary;文句する;to complain;;;;;もんくする;20
+v_内容;vocabulary;内容;contents;;;;;ないよう;19
+v_対比;vocabulary;対比;contrast, comparison;;;;;たいひ;19
+v_混乱;vocabulary;混乱;confusion;;;;;こんらん;19
+v_実在;vocabulary;実在;reality, real existence;;;;;じつざい;20
+v_犯す;vocabulary;犯す;to commit a crime, to perpetrate;;;;;おかす;20
+v_余裕;vocabulary;余裕;surplus, leeway, room;;;;;よゆう;20
+v_日焼け;vocabulary;日焼け;sunburn;;;;;ひやけ;18
+v_非常に;vocabulary;非常に;very, extremely, exceedingly;;;;;ひじょうに;19
+v_残余;vocabulary;残余;remainder, residual;;;;;ざんよ;20
+v_妨げる;vocabulary;妨げる;to obstruct, to prevent, to hamper;;;;;さまたげる;20
+v_経つ;vocabulary;経つ;to pass, to expire;;;;;たつ;20
+v_同期中;vocabulary;同期中;syncing, synchronizing;;;;;どうきちゅう;15
+v_助詞;vocabulary;助詞;grammar particle, particle, postposition;;;;;じょし;19
+v_妨害;vocabulary;妨害;obstruction, interference;;;;;ぼうがい;20
+v_感心;vocabulary;感心;admiration;;;;;かんしん;13
+v_原子力;vocabulary;原子力;nuclear power, nuclear energy, atomic power, atomic energy;;;;;げんしりょく;19
+v_節句;vocabulary;節句;seasonal festival;;;;;せっく;19
+v_名詞;vocabulary;名詞;noun;;;;;めいし;19
+v_自動詞;vocabulary;自動詞;intransitive verb;;;;;じどうし;19
+v_防水;vocabulary;防水;waterproof, watertight;;;;;ぼうすい;20
+v_改正;vocabulary;改正;revision;;;;;かいせい;19
+v_胸;vocabulary;胸;chest, breasts;;;;;むね;18
+v_静か;vocabulary;静か;quiet;;;;;しずか;18
+v_改善;vocabulary;改善;improvement, betterment;;;;;かいぜん;19
+v_回転する;vocabulary;回転する;to rotate, to revolve;;;;;かいてんする;14
+v_困る;vocabulary;困る;to be distressed, to be troubled;;;;;こまる;19
+v_暴走;vocabulary;暴走;run wild, run out of control;;;;;ぼうそう;19
+v_私財;vocabulary;私財;private funds, own funds, private property, personal funds;;;;;しざい;19
+v_財布;vocabulary;財布;wallet, purse, handbag;;;;;さいふ;19
+v_暴力;vocabulary;暴力;violence, force;;;;;ぼうりょく;19
+v_裕福;vocabulary;裕福;wealth;;;;;ゆうふく;20
+v_動詞;vocabulary;動詞;verb;;;;;どうし;19
+v_面倒;vocabulary;面倒;trouble, difficulty;;;;;めんどう;20
+v_松葉;vocabulary;松葉;pine needle;;;;;まつば;14
+v_減法;vocabulary;減法;subtraction;;;;;げんぽう;19
+v_議会;vocabulary;議会;diet, the diet, congress, parliament;;;;;ぎかい;20
+v_他人;vocabulary;他人;another person, other people, stranger;;;;;たにん;4
+v_禁句;vocabulary;禁句;taboo word, taboo phrase, dirty word, bad word;;;;;きんく;18
+v_早々;vocabulary;早々;as soon as, just after, immediately after;;;;;そうそう;4
+v_竹の子;vocabulary;竹の子;bamboo shoots, bamboo sprouts;;;;;たけのこ;4
+v_虫;vocabulary;虫;bug, insect;;;;;むし;4
+v_希望;vocabulary;希望;hope, wish, aspiration;;;;;きぼう;14
+v_見える;vocabulary;見える;can see, visible, to be visible, to be able to see, able to see;;;;;みえる;4
+v_先ず;vocabulary;先ず;first of all, to start with, firstly, to begin with;;;;;まず;4
+v_今度;vocabulary;今度;this time, next time;;;;;こんど;9
+v_信号;vocabulary;信号;traffic light, signal, traffic signal, stoplight, semaphore;;;;;しんごう;15
+v_一年生;vocabulary;一年生;first year student;;;;;いちねんせい;4
+v_愛知県;vocabulary;愛知県;aichi prefecture;;;;;あいちけん;17
+v_注文;vocabulary;注文;order, request;;;;;ちゅうもん;11
+v_側;vocabulary;側;side, side of something, part;;;;;がわ, そば;17
+v_別冊;vocabulary;別冊;separate volume;;;;;べっさつ;19
+v_勝手;vocabulary;勝手;as one pleases, one's own convenience, one's own way, one's way;;;;;かって;12
+v_集まり;vocabulary;集まり;gathering, meeting, assembly, party, collection, get together;;;;;あつまり;12
+v_着く;vocabulary;着く;to arrive;;;;;つく;12
+v_中国;vocabulary;中国;china;;;;;ちゅうごく;6
+v_味方;vocabulary;味方;ally, supporter, friend;;;;;みかた;11
+v_必勝;vocabulary;必勝;sure victory, certain victory, sure win, sure victory, certain win;;;;;ひっしょう;9
+v_分;vocabulary;分;minute, part;;;;;ぶん, ふん;3
+v_平ら;vocabulary;平ら;flat;;;;;たいら;4
+v_出発;vocabulary;出発;departure;;;;;しゅっぱつ;9
+v_足;vocabulary;足;foot, leg;;;;;あし;4
+v_丸ごと;vocabulary;丸ごと;in its entirety, whole, wholly, entirely;;;;;まるごと;4
+v_出席;vocabulary;出席;attendance;;;;;しゅっせき;17
+v_車内;vocabulary;車内;inside the car, in the car, in a car, inside a car, within the car, within a car;;;;;しゃない;4
+v_発売中;vocabulary;発売中;now on sale, now for sale, currently on sale;;;;;はつばいちゅう;11
+v_文字;vocabulary;文字;letter (of the alphabet), character, letters, characters, letter;;;;;もじ;4
+v_一代;vocabulary;一代;lifetime, one lifetime;;;;;いちだい;4
+v_主に;vocabulary;主に;mainly, primarily;;;;;おもに;4
+v_美味しい;vocabulary;美味しい;tasty, good tasting, delicious;;;;;おいしい;15
+v_先々月;vocabulary;先々月;month before last, the month before last;;;;;せんせんげつ;4
+v_号;vocabulary;号;number, edition, model;;;;;ごう;4
+v_開始;vocabulary;開始;start, beginning, opening;;;;;かいし;10
+v_仏徒;vocabulary;仏徒;buddhist;;;;;ぶっと;19
+v_近々;vocabulary;近々;before long, soon;;;;;ちかぢか, きんきん, ちかじか;7
+v_最初;vocabulary;最初;the first, first, beginning, outset;;;;;さいしょ;11
+v_食事;vocabulary;食事;meal;;;;;しょくじ;9
+v_保守的;vocabulary;保守的;conservative;;;;;ほしゅてき;16
+v_一本気;vocabulary;一本気;one track mind, single mindedness;;;;;いっぽんぎ;4
+v_スペイン語;vocabulary;スペイン語;spanish language, spanish;;;;;すぺいんご, スペインご;10
+v_仲良し;vocabulary;仲良し;good friend, intimate friend, close friend;;;;;なかよし;11
+v_週末;vocabulary;週末;weekend;;;;;しゅうまつ;7
+v_消化不良;vocabulary;消化不良;indigestion;;;;;しょうかふりょう;14
+v_太陽;vocabulary;太陽;sun, the sun, sol;;;;;たいよう;12
+v_消化;vocabulary;消化;digestion;;;;;しょうか;12
+v_試験;vocabulary;試験;examination, test, experiment, exam;;;;;しけん;18
+v_手紙;vocabulary;手紙;letter;;;;;てがみ;7
+v_他;vocabulary;他;other;;;;;ほか;4
+v_争う;vocabulary;争う;to quarrel, to compete, to argue;;;;;あらそう;11
+v_特急;vocabulary;特急;limited express train, limited express;;;;;とっきゅう;16
+v_気を付けて;vocabulary;気を付けて;be careful, take care;;;;;きをつけて;9
+v_非常口;vocabulary;非常口;emergency exit;;;;;ひじょうぐち;19
+v_弱々しい;vocabulary;弱々しい;weak looking, frail, weak seeming, seemingly weak;;;;;よわよわしい;9
+v_切手;vocabulary;切手;postage stamp, stamp;;;;;きって;4
+v_私;vocabulary;私;i;;;;;わたし, わたくし;14
+v_小さい順;vocabulary;小さい順;increasing order, ascending order, smallest first;;;;;ちいさいじゅん;19
+v_忘年会;vocabulary;忘年会;year end party, end of year party;;;;;ぼうねんかい;18
+v_仮に;vocabulary;仮に;temporarily, suppose;;;;;かりに;9
+v_千円札;vocabulary;千円札;thousand yen bill, thousand yen note, one thousand yen note, one thousand yen bill;;;;;せんえんさつ;7
+v_残り;vocabulary;残り;remainder, remnant, leftover, residue;;;;;のこり;14
+v_防火;vocabulary;防火;fire prevention, fire fighting, fire proof;;;;;ぼうか;20
+v_焼き鳥;vocabulary;焼き鳥;roast chicken, cooked chicken, yakitori;;;;;やきとり;18
+v_臭い;vocabulary;臭い;stinky, stinking, to be stinky, smelly, to be smelly;;;;;くさい;20
+v_勝ち;vocabulary;勝ち;victory, win, a victory, a win;;;;;かち;11
+v_心願;vocabulary;心願;heartfelt desire, heartfelt wish, prayer, heart's desire;;;;;しんがん;13
+v_学院;vocabulary;学院;academy, institute;;;;;がくいん;10
+v_札;vocabulary;札;label, bill, note;;;;;ふだ;7
+v_終点;vocabulary;終点;last stop, final stop;;;;;しゅうてん;10
+v_決定する;vocabulary;決定する;to decide, to determine;;;;;けっていする;11
+v_勝敗;vocabulary;勝敗;victory or defeat;;;;;しょうはい;17
+v_最後;vocabulary;最後;last, the last, end, conclusion, final;;;;;さいご;10
+v_入館料;vocabulary;入館料;admission fee, entrance fee, entry fee;;;;;にゅうかんりょう;13
+v_相談;vocabulary;相談;consultation, discussion, advice;;;;;そうだん;9
+v_借家;vocabulary;借家;renting a house, house for rent, rented house;;;;;しゃくや, しゃっか;18
+v_答え;vocabulary;答え;answer, reply, response;;;;;こたえ;8
+v_政治;vocabulary;政治;politics, government;;;;;せいじ;16
+v_焼き肉;vocabulary;焼き肉;roast meat, grilled meat, cooked meat, yakiniku;;;;;やきにく;18
+v_合わせる;vocabulary;合わせる;to join together, to unify together, to unite, to match, to unify, to bring together, to join;;;;;あわせる;11
+v_答える;vocabulary;答える;to answer, to reply, to respond;;;;;こたえる;8
+v_先;vocabulary;先;previous, ahead, past, former;;;;;さき;4
+v_駅長;vocabulary;駅長;station master, stationmaster, train station master, train stationmaster;;;;;えきちょう;13
+v_対立;vocabulary;対立;confrontation, opposition;;;;;たいりつ;8
+v_二倍;vocabulary;二倍;double, two times, twice;;;;;にばい;12
+v_万人;vocabulary;万人;all people, everybody;;;;;ばんにん;5
+v_信心;vocabulary;信心;faith, belief;;;;;しんじん;15
+v_一番;vocabulary;一番;number one, the first, first, the best, best, the most, most;;;;;いちばん;8
+v_親切;vocabulary;親切;kind, kindness;;;;;しんせつ;10
+v_昨今;vocabulary;昨今;these days, nowadays;;;;;さっこん;15
+v_皿洗い;vocabulary;皿洗い;dishwashing, dishwasher, washing the dishes, washing dishes;;;;;さらあらい;18
+v_登る;vocabulary;登る;to climb, to ascend;;;;;のぼる;12
+v_家庭;vocabulary;家庭;family, household;;;;;かてい;12
+v_無意識;vocabulary;無意識;unconsciously, involuntary, unconsciousness;;;;;むいしき;19
+v_波;vocabulary;波;wave;;;;;なみ;11
+v_州;vocabulary;州;state, province, county;;;;;しゅう;6
+v_文句;vocabulary;文句;complaint;;;;;もんく;18
+v_民族;vocabulary;民族;ethnic group, ethnicity, race;;;;;みんぞく;12
+v_失礼;vocabulary;失礼;rude, rudeness, impoliteness;;;;;しつれい;7
+v_確かに;vocabulary;確かに;certain, probable, surely, certainly;;;;;たしかに;20
+v_仕方;vocabulary;仕方;method, way, way of doing;;;;;しかた;4
+v_名字;vocabulary;名字;surname, last name, family name;;;;;みょうじ;4
+v_試食;vocabulary;試食;sample, taste, food sample;;;;;ししょく;18
+v_イギリス人;vocabulary;イギリス人;british person, english person;;;;;いぎりすじん, イギリスじん;17
+v_助手;vocabulary;助手;assistant, helper, aide;;;;;じょしゅ;8
+v_願い事;vocabulary;願い事;one's wish, prayer, wish;;;;;ねがいごと;17
+v_葉;vocabulary;葉;leaf, leaves;;;;;は;10
+v_引き分け;vocabulary;引き分け;tie, draw;;;;;ひきわけ;4
+v_木曜日;vocabulary;木曜日;thursday;;;;;もくようび;18
+v_他所;vocabulary;他所;another place, somewhere else, other place, elsewhere;;;;;たしょ, よそ;8
+v_ゴミ箱;vocabulary;ゴミ箱;garbage can, garbage bin, trash can, trash bin, waste can, waste bin, rubbish bin;;;;;ごみばこ, ゴミばこ;16
+v_高校生;vocabulary;高校生;high school student, high schooler;;;;;こうこうせい;9
+v_終わる;vocabulary;終わる;to end, to finish;;;;;おわる;10
+v_労働者;vocabulary;労働者;laborer, blue collar worker, manual laborer, labourer, manual labourer;;;;;ろうどうしゃ;11
+v_味;vocabulary;味;taste, flavor, flavour;;;;;あじ;11
+v_映画館;vocabulary;映画館;movie theater, cinema, movie theatre;;;;;えいがかん;15
+v_日本的;vocabulary;日本的;very japanese, typically japanese;;;;;にほんてき;14
+v_飯;vocabulary;飯;meal, cooked rice, food;;;;;めし;15
+v_日常;vocabulary;日常;everyday life, normal life, daily life, ordinary, regular, everyday, usual;;;;;にちじょう;17
+v_虚弱;vocabulary;虚弱;weak, feeble, weakness, feebleness;;;;;きょじゃく;17
+v_何枚;vocabulary;何枚;how many flat objects, how many sheets;;;;;なんまい;18
+v_全国;vocabulary;全国;nationwide, national, countrywide;;;;;ぜんこく;6
+v_真っ黒;vocabulary;真っ黒;pitch black, pure black;;;;;まっくろ;16
+v_愛人;vocabulary;愛人;lover, mistress;;;;;あいじん;17
+v_賞金;vocabulary;賞金;cash prize, prize money;;;;;しょうきん;13
+v_結局;vocabulary;結局;after all, eventually, in the end;;;;;けっきょく;17
+v_葉書;vocabulary;葉書;postcard;;;;;はがき;18
+v_開く;vocabulary;開く;to open, to be open;;;;;あく;12
+v_冒険;vocabulary;冒険;adventure;;;;;ぼうけん;16
+v_役人;vocabulary;役人;public official, government official, public servant;;;;;やくにん;8
+v_丈夫;vocabulary;丈夫;sturdy, firm;;;;;じょうぶ;15
+v_本屋;vocabulary;本屋;bookstore, book shop;;;;;ほんや;9
+v_輪;vocabulary;輪;ring, wheel, loop;;;;;わ;13
+v_旅館;vocabulary;旅館;japanese inn, japanese hotel, inn, ryokan, japanese style inn, japanese style hotel;;;;;りょかん;13
+v_水道;vocabulary;水道;water supply, water service, waterworks, aqueduct, conduit, water line;;;;;すいどう;8
+v_公園;vocabulary;公園;public park, park;;;;;こうえん;16
+v_失恋;vocabulary;失恋;heartbreak, broken heart;;;;;しつれん;17
+v_運ぶ;vocabulary;運ぶ;to carry;;;;;はこぶ;10
+v_性格;vocabulary;性格;personality, character;;;;;せいかく;14
+v_鼻くそ;vocabulary;鼻くそ;snot, boogers;;;;;はなくそ;17
+v_宙;vocabulary;宙;space, air, midair;;;;;ちゅう;19
+v_日本酒;vocabulary;日本酒;japanese style alcohol, japanese alcohol, sake;;;;;にほんしゅ, にっぽんしゅ;10
+v_原子;vocabulary;原子;atom;;;;;げんし;17
+v_鼻先;vocabulary;鼻先;tip of the nose, tip of nose, nose tip;;;;;はなさき;17
+v_店員;vocabulary;店員;shop staff, store staff, store employee, shop employee, clerk, salesperson, shop assistant;;;;;てんいん;12
+v_足りる;vocabulary;足りる;to be enough, to be sufficient, to suffice;;;;;たりる;4
+v_夢中;vocabulary;夢中;crazy about, absorption, mad about;;;;;むちゅう;20
+v_保存;vocabulary;保存;preserve, preservation, conservation;;;;;ほぞん;16
+v_毎朝;vocabulary;毎朝;every morning;;;;;まいあさ;8
+v_変化;vocabulary;変化;change, transformation;;;;;へんか;15
+v_辺;vocabulary;辺;area, vicinity, region;;;;;へん;7
+v_良い;vocabulary;良い;good;;;;;よい, いい;11
+v_仕返し;vocabulary;仕返し;get even, retaliation, get back at, revenge, get revenge;;;;;しかえし;11
+v_肉屋;vocabulary;肉屋;butcher shop, meat shop, meat store;;;;;にくや;9
+v_不自由;vocabulary;不自由;discomfort, inconvenience, disability, impairment, poverty, destitution;;;;;ふじゆう;9
+v_気に入る;vocabulary;気に入る;to be pleased with, to be satisfied with, to be happy with, to be pleased, to be satisfied, to be happy;;;;;きにいる;4
+v_初めに;vocabulary;初めに;beginning, in the beginning, first of all, to begin with;;;;;はじめに;13
+v_魚屋;vocabulary;魚屋;fish shop, fish market, fish dealer, fish store, fishmonger;;;;;さかなや;9
+v_注ぐ;vocabulary;注ぐ;to pour;;;;;そそぐ, つぐ;11
+v_商売;vocabulary;商売;business, commerce;;;;;しょうばい;12
+v_整然;vocabulary;整然;orderly, systematic, well organized, natural order;;;;;せいぜん;13
+v_信じる;vocabulary;信じる;to believe, to trust in;;;;;しんじる;15
+v_見分ける;vocabulary;見分ける;to distinguish, to tell apart, to differentiate;;;;;みわける;4
+v_茶屋;vocabulary;茶屋;tea shop, tea store, tea house;;;;;ちゃや;9
+v_役に立つ;vocabulary;役に立つ;to be useful, to be of use, to be helpful, to be of service;;;;;やくにたつ;8
+v_川底;vocabulary;川底;riverbed, river bottom;;;;;かわぞこ;17
+v_何人;vocabulary;何人;how many people;;;;;なんにん;5
+v_熱;vocabulary;熱;fever, heat;;;;;ねつ;13
+v_建てる;vocabulary;建てる;to build, to construct;;;;;たてる;15
+v_外側;vocabulary;外側;outside;;;;;そとがわ;17
+v_子猫;vocabulary;子猫;kitten, kitty;;;;;こねこ;15
+v_関西弁;vocabulary;関西弁;kansai dialect;;;;;かんさいべん;18
+v_調べる;vocabulary;調べる;to investigate, to research, to look into, to search;;;;;しらべる;10
+v_教訓;vocabulary;教訓;lesson, moral;;;;;きょうくん;18
+v_大変;vocabulary;大変;serious, terrible, very, difficult, hard, hectic;;;;;たいへん;15
+v_辞書形;vocabulary;辞書形;dictionary form;;;;;じしょけい;18
+v_記事;vocabulary;記事;article, news story, report, account, news article;;;;;きじ;9
+v_学問;vocabulary;学問;scholarship, study, learning;;;;;がくもん;13
+v_出かける;vocabulary;出かける;to go out, to leave;;;;;でかける;4
+v_試合;vocabulary;試合;game, match;;;;;しあい;18
+v_回転ずし;vocabulary;回転ずし;rotating sushi, conveyor belt sushi, revolving sushi, sushi train, sushi go round;;;;;かいてんずし;14
+v_完全;vocabulary;完全;complete, perfect, perfection, completeness;;;;;かんぜん;14
+v_代わる;vocabulary;代わる;to replace, to substitute for, to substitute, to be replaced, to be substituted, to be substituted for;;;;;かわる;4
+v_不器用;vocabulary;不器用;clumsy, unskillful;;;;;ぶきよう;15
+v_余る;vocabulary;余る;to be in surplus, to remain left over, to exceed, to surplus, to be in excess;;;;;あまる;20
+v_暗記;vocabulary;暗記;memorization, memorize, memorisation, memorise;;;;;あんき;13
+v_勇気;vocabulary;勇気;courage, bravery, valour, valor;;;;;ゆうき;15
+v_警察署;vocabulary;警察署;police station;;;;;けいさつしょ;19
+v_申す;vocabulary;申す;to say humbly, to say, to humbly say;;;;;もうす;4
+v_発売;vocabulary;発売;for sale, selling, item for sale, sale;;;;;はつばい;9
+v_別人;vocabulary;別人;different person, changed person, new man;;;;;べつじん;11
+v_短刀;vocabulary;短刀;short sword, dagger, tanto;;;;;たんとう;12
+v_花見;vocabulary;花見;viewing cherry blossoms, sakura viewing, cherry blossom viewing;;;;;はなみ;4
+v_同感;vocabulary;同感;sympathy, same sentiment, concurrence, agree, empathy;;;;;どうかん;13
+v_仲間;vocabulary;仲間;companion, comrade, associate;;;;;なかま;11
+v_主位;vocabulary;主位;leading person, first place, leading position, first position, head position;;;;;しゅい;11
+v_働く;vocabulary;働く;to work, to labor, to labour;;;;;はたらく;11
+v_論文;vocabulary;論文;essay, thesis;;;;;ろんぶん;20
+v_受付;vocabulary;受付;receptionist, reception;;;;;うけつけ;11
+v_昔;vocabulary;昔;long ago, long time ago;;;;;むかし;11
+v_難しい;vocabulary;難しい;difficult, hard;;;;;むずかしい;20
+v_聞こえる;vocabulary;聞こえる;hearable, audible, to be able to hear, to be heard, to be audible, can hear;;;;;きこえる;12
+v_かき氷;vocabulary;かき氷;shaved ice;;;;;かきごおり;4
+v_投げる;vocabulary;投げる;to throw, to throw something;;;;;なげる;8
+v_追いかける;vocabulary;追いかける;to follow, to stalk, to chase, to run after, to pursue;;;;;おいかける;13
+v_専門;vocabulary;専門;specialty, speciality, area of study, major;;;;;せんもん;16
+v_村;vocabulary;村;village, rural town;;;;;むら;4
+v_別の;vocabulary;別の;separate, different, another, separate thing, different thing, another thing;;;;;べつの;11
+v_天気;vocabulary;天気;weather;;;;;てんき;4
+v_〜階;vocabulary;〜階;floor, story, storey;;;;;かい;12
+v_集める;vocabulary;集める;to collect, to gather, to collect something, to gather something;;;;;あつめる;10
+v_〜枚;vocabulary;〜枚;flat object, clothing items, sheets;;;;;まい;18
+v_地上;vocabulary;地上;above ground;;;;;ちじょう;8
+v_水着;vocabulary;水着;swim suit, swimsuit, bathing suit, swimwear, swimming suit;;;;;みずぎ;12
+v_全部;vocabulary;全部;all, entire, whole;;;;;ぜんぶ;9
+v_天使;vocabulary;天使;angel;;;;;てんし;9
+v_組;vocabulary;組;group, team, class;;;;;くみ;7
+v_〜台;vocabulary;〜台;big machine, big device, machine, device, machine counter, number of machines;;;;;だい;3
+v_説明書;vocabulary;説明書;written explanation, instructions;;;;;せつめいしょ;19
+v_連絡する;vocabulary;連絡する;to contact, to get in touch, to get in contact;;;;;れんらくする;19
+v_合計;vocabulary;合計;total, sum;;;;;ごうけい;15
+v_貝;vocabulary;貝;shell, shellfish, clam;;;;;かい;4
+v_可分;vocabulary;可分;divisible, separable;;;;;かぶん;18
+v_薬学;vocabulary;薬学;study of pharmacy, pharmacology, pharmaceutics;;;;;やくがく;17
+v_三個;vocabulary;三個;three small things, three things, three objects, three small objects;;;;;さんこ;20
+v_主語;vocabulary;主語;subject;;;;;しゅご;10
+v_雰囲気;vocabulary;雰囲気;atmosphere, ambience, ambiance, mood;;;;;ふんいき;14
+v_八冊;vocabulary;八冊;eight books, eight volumes;;;;;はっさつ;19
+v_続々;vocabulary;続々;one after another, successively, in succession;;;;;ぞくぞく;19
+v_低い;vocabulary;低い;low, short;;;;;ひくい;11
+v_年中;vocabulary;年中;year round, all year, whole year, throughout the year, all year round;;;;;ねんじゅう;4
+v_強力;vocabulary;強力;strength, strong, powerful;;;;;きょうりょく;7
+v_駅員;vocabulary;駅員;train station employee, train station staff, train station attendant, station attendant, station employee;;;;;えきいん;13
+v_消しゴム;vocabulary;消しゴム;eraser, rubber;;;;;けしごむ, けしゴム;14
+v_座席;vocabulary;座席;seat;;;;;ざせき;18
+v_困難;vocabulary;困難;hardship, difficulty;;;;;こんなん;20
+v_北海道;vocabulary;北海道;hokkaido, hokkaidou;;;;;ほっかいどう;8
+v_速い;vocabulary;速い;fast;;;;;はやい;10
+v_新年;vocabulary;新年;new year;;;;;しんねん;9
+v_自動車;vocabulary;自動車;automobile;;;;;じどうしゃ;16
+v_対談;vocabulary;対談;conversation, dialogue, talk;;;;;たいだん;9
+v_商品;vocabulary;商品;merchandise;;;;;しょうひん;16
+v_実感;vocabulary;実感;real feeling, actual feeling;;;;;じっかん;13
+v_食べ物;vocabulary;食べ物;food;;;;;たべもの;9
+v_要る;vocabulary;要る;to need;;;;;いる;9
+v_品詞;vocabulary;品詞;part of speech;;;;;ひんし;19
+v_屋上;vocabulary;屋上;rooftop, housetop;;;;;おくじょう;11
+v_不幸;vocabulary;不幸;unhappiness, misfortune;;;;;ふこう;16
+v_名古屋;vocabulary;名古屋;nagoya;;;;;なごや;9
+v_仕草;vocabulary;仕草;action, acting, gesture, bearing, treatment, behavior, behaviour, movement;;;;;しぐさ;5
+v_売り上げ;vocabulary;売り上げ;amount sold, sales;;;;;うりあげ;5
+v_大作;vocabulary;大作;an epic, epic, epic saga, masterpiece, masterwork, magnum opus;;;;;たいさく;5
+v_角;vocabulary;角;angle, corner;;;;;かく, かど;5
+v_牛肉;vocabulary;牛肉;beef;;;;;ぎゅうにく;5
+v_毛虫;vocabulary;毛虫;caterpillar;;;;;けむし;5
+v_近い;vocabulary;近い;close, nearby, near;;;;;ちかい;5
+v_丁度いい;vocabulary;丁度いい;just right, exactly right;;;;;ちょうどいい;11
+v_言葉;vocabulary;言葉;word, language, manner of speech;;;;;ことば;12
+v_東口;vocabulary;東口;east exit, east entrance, eastern exit, eastern entrance, east gate;;;;;ひがしぐち;8
+v_工学者;vocabulary;工学者;engineer;;;;;こうがくしゃ;8
+v_料理人;vocabulary;料理人;a cook, cook, chef;;;;;りょうりにん;16
+v_入門;vocabulary;入門;admission, entrance;;;;;にゅうもん;16
+v_字典;vocabulary;字典;character dictionary, kanji dictionary;;;;;じてん;16
+v_下町;vocabulary;下町;downtown, backstreets;;;;;したまち;5
+v_関係;vocabulary;関係;connection, relation;;;;;かんけい;16
+v_取る;vocabulary;取る;to take;;;;;とる;16
+v_弁当;vocabulary;弁当;bento, box lunch;;;;;べんとう;16
+v_急行;vocabulary;急行;express;;;;;きゅうこう;16
+v_残品;vocabulary;残品;unsold merchandise, remaining stock, unsold stock, remaining merchandise, unsold product, remaining product;;;;;ざんぴん;16
+v_辞書;vocabulary;辞書;dictionary;;;;;じしょ;16
+v_不治;vocabulary;不治;incurability, incurable;;;;;ふじ, ふち ;16
+v_毎月;vocabulary;毎月;every month, monthly;;;;;まいげつ, まいつき;5
+v_固める;vocabulary;固める;to make hard, to harden;;;;;かためる;16
+v_浴びる;vocabulary;浴びる;to bathe;;;;;あびる;16
+v_日光浴;vocabulary;日光浴;sunbathe;;;;;にっこうよく;16
+v_写真;vocabulary;写真;photo, photograph, picture;;;;;しゃしん;16
+v_地面;vocabulary;地面;ground, earth's surface;;;;;じめん;16
+v_仕事;vocabulary;仕事;job, work, occupation;;;;;しごと;11
+v_東京弁;vocabulary;東京弁;tokyo dialect;;;;;とうきょうべん;16
+v_薬;vocabulary;薬;medicine, drug, drugs;;;;;くすり;17
+v_混ぜる;vocabulary;混ぜる;to mix, to mix something, to stir, to stir something, to blend, to blend something;;;;;まぜる;19
+v_火事;vocabulary;火事;fire;;;;;かじ;9
+v_欠席;vocabulary;欠席;absence, nonattendance;;;;;けっせき;17
+v_干天;vocabulary;干天;dry weather, drought;;;;;かんてん;17
+v_光栄;vocabulary;光栄;honor, privilege;;;;;こうえい;17
+v_鼻歌;vocabulary;鼻歌;humming;;;;;はなうた;17
+v_図;vocabulary;図;diagram;;;;;ず;5
+v_予報;vocabulary;予報;forecast;;;;;よほう;18
+v_塩味;vocabulary;塩味;salty taste, tastes salty, salty, salty flavor;;;;;しおあじ;17
+v_栄える;vocabulary;栄える;to flourish, to prosper;;;;;さかえる;17
+v_取り分け;vocabulary;取り分け;especially;;;;;とりわけ;18
+v_情報;vocabulary;情報;information, data;;;;;じょうほう;18
+v_証明書;vocabulary;証明書;certificate, credentials;;;;;しょうめいしょ;18
+v_南口;vocabulary;南口;south exit, south entrance, southern exit, southern entrance, south gate;;;;;みなみぐち;8
+v_里心;vocabulary;里心;homesick, homesickness;;;;;さとごころ;5
+v_大阪弁;vocabulary;大阪弁;osaka dialect;;;;;おおさかべん;18
+v_汽車;vocabulary;汽車;steam train, steam engine train, steam engine;;;;;きしゃ;18
+v_許す;vocabulary;許す;to permit, to forgive, to allow;;;;;ゆるす;18
+v_毎年;vocabulary;毎年;every year, yearly, annually, each year;;;;;まいとし, まいねん;5
+v_三;vocabulary;三;three;;;;;さん;1
+v_丸い;vocabulary;丸い;circular, round, spherical;;;;;まるい;2
+v_羽;vocabulary;羽;feathers, feather, wing, wings;;;;;はね;5
+v_下;vocabulary;下;down, below, under, beneath;;;;;した;1
+v_入れる;vocabulary;入れる;to insert, to put in;;;;;いれる;1
+v_〜形;vocabulary;〜形;form, tense;;;;;けい;5
+v_二人;vocabulary;二人;two people, pair, two persons;;;;;ふたり;1
+v_二つ;vocabulary;二つ;two things;;;;;ふたつ;1
+v_金;vocabulary;金;gold;;;;;きん, かね;5
+v_母;vocabulary;母;mother;;;;;はは;3
+v_中々;vocabulary;中々;very, considerably, quite;;;;;なかなか;2
+v_人口;vocabulary;人口;population;;;;;じんこう;1
+v_本社;vocabulary;本社;headquarters, hq, head office, company headquarters;;;;;ほんしゃ;5
+v_六月;vocabulary;六月;june;;;;;ろくがつ;2
+v_女;vocabulary;女;woman, female;;;;;おんな;1
+v_川;vocabulary;川;river;;;;;かわ;1
+v_大きさ;vocabulary;大きさ;size;;;;;おおきさ;1
+v_丸;vocabulary;丸;circle, round, circular;;;;;まる;2
+v_中;vocabulary;中;middle, in, inside, center;;;;;なか;2
+v_五十;vocabulary;五十;fifty;;;;;ごじゅう;2
+v_六つ;vocabulary;六つ;six things;;;;;むっつ;2
+v_先日;vocabulary;先日;the other day, a few days ago, other day;;;;;せんじつ;4
+v_出す;vocabulary;出す;to remove, to hand over, to take out, to reveal;;;;;だす;2
+v_何日;vocabulary;何日;how many days, what day, which day;;;;;なんにち;5
+v_十六;vocabulary;十六;sixteen;;;;;じゅうろく;2
+v_四;vocabulary;四;four;;;;;よん, し;2
+v_外来;vocabulary;外来;imported, outpatient clinic, foreign;;;;;がいらい;5
+v_四千;vocabulary;四千;four thousand;;;;;よんせん;2
+v_右;vocabulary;右;right direction, right;;;;;みぎ;2
+v_四十二;vocabulary;四十二;forty two, the answer;;;;;よんじゅうに;2
+v_子犬;vocabulary;子犬;puppy;;;;;こいぬ;2
+v_上手;vocabulary;上手;good at, skillful, skilled at, skilled;;;;;じょうず;2
+v_体内;vocabulary;体内;internal, within the body, inside the body;;;;;たいない;5
+v_一月;vocabulary;一月;january;;;;;いちがつ;2
+v_天;vocabulary;天;heaven;;;;;てん;2
+v_下手;vocabulary;下手;unskillful, unskilled, bad at, not good at, not skilled;;;;;へた;2
+v_文;vocabulary;文;writing, sentence;;;;;ぶん;2
+v_本;vocabulary;本;book, origin, real, main;;;;;ほん;2
+v_大声;vocabulary;大声;large voice, loud voice, big voice;;;;;おおごえ;5
+v_木;vocabulary;木;tree, wood;;;;;き;2
+v_月;vocabulary;月;moon, month;;;;;つき;2
+v_生;vocabulary;生;fresh, raw;;;;;なま;3
+v_一万;vocabulary;一万;ten thousand;;;;;いちまん;3
+v_田;vocabulary;田;rice field, rice paddy;;;;;た;2
+v_男の人;vocabulary;男の人;man;;;;;おとこのひと;5
+v_人生;vocabulary;人生;one's life, human life;;;;;じんせい;3
+v_水;vocabulary;水;water;;;;;みず;2
+v_正す;vocabulary;正す;to correct;;;;;ただす;2
+v_火山;vocabulary;火山;volcano;;;;;かざん;2
+v_多い;vocabulary;多い;many, much, lots of;;;;;おおい;5
+v_兄;vocabulary;兄;older brother, big brother, elder brother;;;;;あに;3
+v_久しい;vocabulary;久しい;long time;;;;;ひさしい;3
+v_分かる;vocabulary;分かる;to understand;;;;;わかる;3
+v_少し;vocabulary;少し;a little, a few, few;;;;;すこし;3
+v_先月;vocabulary;先月;last month, previous month;;;;;せんげつ;4
+v_来月;vocabulary;来月;next month;;;;;らいげつ;5
+v_中古;vocabulary;中古;second hand, used, secondhand;;;;;ちゅうこ;3
+v_太い;vocabulary;太い;fat, thick;;;;;ふとい;3
+v_自分;vocabulary;自分;oneself, myself, self;;;;;じぶん;5
+v_止める;vocabulary;止める;to stop something, to stop;;;;;とめる;3
+v_不正;vocabulary;不正;injustice, unfairness;;;;;ふせい;4
+v_世;vocabulary;世;world, society, age, generation;;;;;よ;4
+v_今すぐ;vocabulary;今すぐ;at once, right now, immediately, right away;;;;;いますぐ;5
+v_来る;vocabulary;来る;to come;;;;;くる;5
+v_空車;vocabulary;空車;open taxi, free taxi, open cab, free cab, available taxi, vacant taxi, available cab, vacant cab;;;;;くうしゃ;5
+v_休み;vocabulary;休み;rest, break, vacation, holiday;;;;;やすみ;4
+v_乱戦;vocabulary;乱戦;melee, free for all;;;;;らんせん;19
+v_気分;vocabulary;気分;feeling, mood;;;;;きぶん;4
+v_一文字;vocabulary;一文字;straight line;;;;;いちもんじ, いちもじ;4
+v_去年;vocabulary;去年;last year;;;;;きょねん;4
+v_本当;vocabulary;本当;reality, truth;;;;;ほんとう;5
+v_先年;vocabulary;先年;former years, formerly, a few years ago, previous years, past years, prior years;;;;;せんねん;4
+v_先生;vocabulary;先生;teacher, master, doctor;;;;;せんせい;4
+v_二百;vocabulary;二百;two hundred;;;;;にひゃく;4
+v_氷;vocabulary;氷;ice;;;;;こおり;4
+v_一気;vocabulary;一気;one breath, one go, one sitting;;;;;いっき;4
+v_年内;vocabulary;年内;within a year, within the year;;;;;ねんない;4
+v_一打;vocabulary;一打;strike, stroke, blow;;;;;いちだ;4
+v_打つ;vocabulary;打つ;to hit, to pound, to type;;;;;うつ;4
+v_皿;vocabulary;皿;plate, dish;;;;;さら;4
+v_見方;vocabulary;見方;way of seeing, point of view, perspective, viewpoint;;;;;みかた;4
+v_小皿;vocabulary;小皿;small plate, small dish, little plate, little dish;;;;;こざら;4
+v_大会;vocabulary;大会;convention, tournament, meetup, event;;;;;たいかい;5
+v_花火;vocabulary;花火;fireworks;;;;;はなび;4
+v_男;vocabulary;男;man;;;;;おとこ;4
+v_車;vocabulary;車;car;;;;;くるま;4
+v_自在;vocabulary;自在;freely, at will;;;;;じざい;20
+v_米;vocabulary;米;rice;;;;;こめ;5
+v_代える;vocabulary;代える;to replace, to substitute, to exchange, to replace something, to substitute something, to exchange something;;;;;かえる;6
+v_光;vocabulary;光;light, sunlight;;;;;ひかり;5
+v_何回;vocabulary;何回;how many times;;;;;なんかい;5
+v_体力;vocabulary;体力;physical strength, physical power;;;;;たいりょく;5
+v_何月;vocabulary;何月;what month, which month;;;;;なんがつ;5
+v_日光;vocabulary;日光;sunlight;;;;;にっこう;5
+v_二万;vocabulary;二万;twenty thousand;;;;;にまん;3
+v_七;vocabulary;七;seven;;;;;なな, しち;1
+v_ビー玉;vocabulary;ビー玉;marble;;;;;びーだま, ビーだま;2
+v_三人;vocabulary;三人;three people, three persons;;;;;さんにん;1
+v_女子;vocabulary;女子;girl;;;;;じょし;2
+v_同じ;vocabulary;同じ;same;;;;;おなじ;5
+v_女神;vocabulary;女神;goddess, female deity;;;;;めがみ;13
+v_夕べ;vocabulary;夕べ;evening, last night;;;;;ゆうべ;2
+v_子牛;vocabulary;子牛;calf, baby cow;;;;;こうし;4
+v_日;vocabulary;日;sun, day;;;;;ひ;2
+v_北;vocabulary;北;north;;;;;きた;3
+v_十台;vocabulary;十台;ten machines;;;;;じゅうだい;3
+v_皮;vocabulary;皮;skin, hide;;;;;かわ;4
+v_同日;vocabulary;同日;same day, the same day;;;;;どうじつ;5
+v_竹;vocabulary;竹;bamboo;;;;;たけ;4
+v_アメリカ人;vocabulary;アメリカ人;american, american person;;;;;あめりかじん, アメリカじん;1
+v_休日;vocabulary;休日;holiday;;;;;きゅうじつ;4
+v_英国;vocabulary;英国;britain, uk, united kingdom, england;;;;;えいこく;15
+v_二台;vocabulary;二台;two machines;;;;;にだい;3
+v_二世;vocabulary;二世;second generation;;;;;にせい;4
+v_入学;vocabulary;入学;school admission, entry into school, admission into school, school entry, entering a school;;;;;にゅうがく;5
+v_写す;vocabulary;写す;to copy;;;;;うつす;4
+v_光年;vocabulary;光年;light year;;;;;こうねん;5
+v_学年;vocabulary;学年;school grade, grade in school, school year, year in school;;;;;がくねん;5
+v_月光;vocabulary;月光;moonlight, moonbeam;;;;;げっこう;5
+v_今月;vocabulary;今月;this month, current month;;;;;こんげつ;3
+v_音;vocabulary;音;sound;;;;;おと;5
+v_百万;vocabulary;百万;million, one million, a million;;;;;ひゃくまん;4
+v_王女;vocabulary;王女;princess;;;;;おうじょ;2
+v_代用;vocabulary;代用;substitution;;;;;だいよう;4
+v_今晩は;vocabulary;今晩は;good evening;;;;;こんばんは;15
+v_土;vocabulary;土;soil, earth, ground, dirt;;;;;つち;2
+v_半;vocabulary;半;half;;;;;はん;3
+v_村人;vocabulary;村人;villager;;;;;むらびと;4
+v_主人;vocabulary;主人;head of household, husband, head of a household, head of the household, landlord, master;;;;;しゅじん;4
+v_少年;vocabulary;少年;young boy, juvenile, youth, boy;;;;;しょうねん;4
+v_中止;vocabulary;中止;suspension, stoppage, discontinuance, interruption;;;;;ちゅうし;3
+v_七つ;vocabulary;七つ;seven things;;;;;ななつ;1
+v_字;vocabulary;字;character, kanji character, letter, symbol;;;;;じ;4
+v_２０１１年;vocabulary;２０１１年;year 2011, 2011, the year 2011;;;;;にせんじゅういちねん;4
+v_四角;vocabulary;四角;square;;;;;しかく;5
+v_市立;vocabulary;市立;municipal, city;;;;;しりつ;3
+v_学生;vocabulary;学生;student;;;;;がくせい;5
+v_五日;vocabulary;五日;fifth day, day five, five days;;;;;いつか;2
+v_口;vocabulary;口;mouth;;;;;くち;1
+v_太字;vocabulary;太字;bold letter, bold, bold character, bold text, boldface;;;;;ふとじ;4
+v_休止;vocabulary;休止;pause, rest, break;;;;;きゅうし;4
+v_金玉;vocabulary;金玉;testicles;;;;;きんたま;5
+v_有名;vocabulary;有名;famous;;;;;ゆうめい;6
+v_代わり;vocabulary;代わり;substitute, replacement;;;;;かわり;6
+v_年下;vocabulary;年下;younger;;;;;としした;6
+v_久しぶり;vocabulary;久しぶり;long time no see, it's been a while;;;;;ひさしぶり;3
+v_休む;vocabulary;休む;to rest;;;;;やすむ;4
+v_林;vocabulary;林;forest, woods;;;;;はやし;5
+v_心;vocabulary;心;heart;;;;;こころ;3
+v_何千;vocabulary;何千;thousands;;;;;なんぜん;5
+v_太る;vocabulary;太る;to get fat, to become fat, to grow fat;;;;;ふとる;3
+v_体;vocabulary;体;body;;;;;からだ;5
+v_紀元後;vocabulary;紀元後;after death, ad, anno domini, ce, common era;;;;;きげんご;15
+v_都会;vocabulary;都会;city, town, urban, civilization;;;;;とかい;12
+v_当たる;vocabulary;当たる;to be on target, to hit, to touch, to guess correctly, to guess right, to be right, to hit the target;;;;;あたる;5
+v_正しい;vocabulary;正しい;correct, true;;;;;ただしい;2
+v_子;vocabulary;子;kid, child;;;;;こ;2
+v_小さい;vocabulary;小さい;small, little;;;;;ちいさい;2
+v_大切;vocabulary;大切;important, precious, valuable;;;;;たいせつ;3
+v_中央;vocabulary;中央;center, central, centre;;;;;ちゅうおう;4
+v_行う;vocabulary;行う;to carry out a task, to carry out, to perform, to perform a task, to do a task;;;;;おこなう;5
+v_幸福;vocabulary;幸福;happiness;;;;;こうふく;16
+v_不人気;vocabulary;不人気;unpopular, not popular;;;;;ふにんき;7
+v_本気;vocabulary;本気;serious;;;;;ほんき;4
+v_会う;vocabulary;会う;to meet, to encounter;;;;;あう;5
+v_耳打ち;vocabulary;耳打ち;whisper in ear, whisper in one's ear, whisper in someone's ear;;;;;みみうち;4
+v_先回り;vocabulary;先回り;anticipation, anticipate;;;;;さきまわり;7
+v_見る;vocabulary;見る;to see, to look;;;;;みる;4
+v_作用;vocabulary;作用;action, effect, operation;;;;;さよう;5
+v_工作;vocabulary;工作;construction;;;;;こうさく;5
+v_生える;vocabulary;生える;to grow, to spring up, to sprout, to come out;;;;;はえる;5
+v_作る;vocabulary;作る;to make, to build, to create;;;;;つくる;5
+v_仏像;vocabulary;仏像;image of buddha;;;;;ぶつぞう;16
+v_生む;vocabulary;生む;to give birth, to produce;;;;;うむ;3
+v_分ける;vocabulary;分ける;to separate, to divide, to part, to split;;;;;わける;3
+v_写る;vocabulary;写る;to be photographed;;;;;うつる;4
+v_売り手;vocabulary;売り手;seller, vendor;;;;;うりて;5
+v_売り切れ;vocabulary;売り切れ;sold out, out of stock;;;;;うりきれ;5
+v_多分;vocabulary;多分;maybe, perhaps, probably;;;;;たぶん;5
+v_学ぶ;vocabulary;学ぶ;to learn, to study in depth, to study;;;;;まなぶ;5
+v_兄弟;vocabulary;兄弟;siblings, brothers and sisters;;;;;きょうだい;5
+v_参る;vocabulary;参る;to come, to go;;;;;まいる;14
+v_天気予報;vocabulary;天気予報;weather forecast;;;;;てんきよほう;20
+v_古来;vocabulary;古来;ancient;;;;;こらい;5
+v_早口;vocabulary;早口;fast talker, fast talking, fast speaker, fast speaking, quick talker;;;;;はやくち, はやぐち;6
+v_男の子;vocabulary;男の子;boy;;;;;おとこのこ;5
+v_毎回;vocabulary;毎回;every time, each time;;;;;まいかい;5
+v_年来;vocabulary;年来;for some years, for years, longstanding;;;;;ねんらい;5
+v_入社;vocabulary;入社;joining a company, joining the company;;;;;にゅうしゃ;5
+v_公社;vocabulary;公社;public corporation, public company;;;;;こうしゃ;5
+v_空;vocabulary;空;sky;;;;;そら;5
+v_皮肉;vocabulary;皮肉;irony, sarcasm;;;;;ひにく;5
+v_自立;vocabulary;自立;independence, self reliance;;;;;じりつ;5
+v_水色;vocabulary;水色;sky blue, light blue, light blue color, light blue colour, sky blue color, sky blue colour;;;;;みずいろ;5
+v_考え;vocabulary;考え;thought, a thought;;;;;かんがえ;5
+v_考える;vocabulary;考える;to think about, to consider, to give thought;;;;;かんがえる;5
+v_色々;vocabulary;色々;various;;;;;いろいろ;5
+v_考え方;vocabulary;考え方;way of thinking, thought process;;;;;かんがえかた;5
+v_行く;vocabulary;行く;to go;;;;;いく;5
+v_言う;vocabulary;言う;to say;;;;;いう;5
+v_行き;vocabulary;行き;train direction, bound for;;;;;ゆき, いき;5
+v_三角;vocabulary;三角;triangle;;;;;さんかく;5
+v_西;vocabulary;西;west;;;;;にし;5
+v_走行;vocabulary;走行;traveling, travelling;;;;;そうこう;5
+v_里;vocabulary;里;home village, village, one's parents' home, home town, hometown;;;;;さと;5
+v_青い;vocabulary;青い;blue, unripe;;;;;あおい;5
+v_交わる;vocabulary;交わる;to intersect, to cross, to mingle;;;;;まじわる;8
+v_青年;vocabulary;青年;youth, young man;;;;;せいねん;5
+v_不安;vocabulary;不安;uneasiness, anxiety, unease;;;;;ふあん;6
+v_手作り;vocabulary;手作り;handmade;;;;;てづくり;7
+v_全く;vocabulary;全く;completely, entirely, truly, really, wholly;;;;;まったく;8
+v_この前;vocabulary;この前;last time, recently, lately, previous, previously;;;;;このまえ;8
+v_交ぜる;vocabulary;交ぜる;to mix, to mix something;;;;;まぜる;5
+v_全力;vocabulary;全力;full effort, every effort, best effort, full power;;;;;ぜんりょく;6
+v_安全;vocabulary;安全;safety;;;;;あんぜん;6
+v_地下;vocabulary;地下;underground, basement, cellar;;;;;ちか;6
+v_幸せ;vocabulary;幸せ;happiness;;;;;しあわせ;16
+v_夏;vocabulary;夏;summer;;;;;なつ;7
+v_何年;vocabulary;何年;what year, how many years;;;;;なんねん;5
+v_次回;vocabulary;次回;next time;;;;;じかい;6
+v_国;vocabulary;国;country, nation;;;;;くに;6
+v_外国;vocabulary;外国;foreign country;;;;;がいこく;6
+v_外国人;vocabulary;外国人;foreign person, foreigner;;;;;がいこくじん;6
+v_今夜;vocabulary;今夜;tonight, this evening;;;;;こんや;6
+v_妹;vocabulary;妹;younger sister, little sister;;;;;いもうと;6
+v_運転する;vocabulary;運転する;to drive;;;;;うんてんする;10
+v_小学生;vocabulary;小学生;elementary school student, primary school student, elementary schooler, primary schooler, grade schooler, grade school student;;;;;しょうがくせい;7
+v_中学生;vocabulary;中学生;middle school student, junior high school student, middle schooler, junior high schooler, junior high student;;;;;ちゅうがくせい;7
+v_死体;vocabulary;死体;dead body, corpse, cadaver;;;;;したい;6
+v_早く;vocabulary;早く;early, soon, quickly, fast;;;;;はやく;6
+v_取れる;vocabulary;取れる;to come off, to be removed, to fall off;;;;;とれる;18
+v_別れる;vocabulary;別れる;to separate, to be divided, to part from;;;;;わかれる;13
+v_社内;vocabulary;社内;within the company, in house, inside the company, inside a company, in the company, within a company;;;;;しゃない;5
+v_大きく;vocabulary;大きく;in a big way, on a grand scale;;;;;おおきく;7
+v_思う;vocabulary;思う;to think;;;;;おもう;6
+v_不明;vocabulary;不明;unknown, unclear, uncertain, unsure;;;;;ふめい;6
+v_整理;vocabulary;整理;arrangement, sorting, organization, adjustment;;;;;せいり;13
+v_宿;vocabulary;宿;lodging, inn, hotel, lodge;;;;;やど;13
+v_出来上がる;vocabulary;出来上がる;to be finished, to be completed;;;;;できあがる;8
+v_夏休み;vocabulary;夏休み;summer vacation, summer break, summer holiday;;;;;なつやすみ;7
+v_付ける;vocabulary;付ける;to attach;;;;;つける;7
+v_弱点;vocabulary;弱点;weak point, weakness;;;;;じゃくてん;7
+v_東方;vocabulary;東方;eastward, eastern direction;;;;;とうほう;6
+v_直す;vocabulary;直す;to fix;;;;;なおす;6
+v_弟;vocabulary;弟;younger brother, little brother;;;;;おとうと;5
+v_生活;vocabulary;生活;life, livelihood;;;;;せいかつ;6
+v_平日;vocabulary;平日;weekdays;;;;;へいじつ;4
+v_後で;vocabulary;後で;after, afterwards, later;;;;;あとで;6
+v_見直す;vocabulary;見直す;to reevaluate, to look again, to reassess;;;;;みなおす;8
+v_いい加減;vocabulary;いい加減;pointless, unfounded, irresponsible, careless;;;;;いいかげん;19
+v_妥協;vocabulary;妥協;compromise;;;;;だきょう;14
+v_全て;vocabulary;全て;all, entire;;;;;すべて;6
+v_以外;vocabulary;以外;other than, excepting, except for;;;;;いがい;7
+v_近づく;vocabulary;近づく;to get close, to approach, to draw near, to near, to bring near;;;;;ちかづく;8
+v_米国;vocabulary;米国;america, united states, united states of america, usa;;;;;べいこく;6
+v_名前;vocabulary;名前;name, first name, full name, given name;;;;;なまえ;8
+v_失う;vocabulary;失う;to lose, to part with, to lose something, to part with something;;;;;うしなう;7
+v_家;vocabulary;家;home, house;;;;;いえ, うち;7
+v_同時;vocabulary;同時;same time;;;;;どうじ;7
+v_当て字;vocabulary;当て字;phonetic kanji;;;;;あてじ;10
+v_必ず;vocabulary;必ず;surely, certainly, without exception, always, definitely;;;;;かならず;7
+v_必死;vocabulary;必死;frantic, desperate, certain death, sure death;;;;;ひっし;7
+v_教室;vocabulary;教室;classroom;;;;;きょうしつ;7
+v_一時;vocabulary;一時;one o'clock;;;;;いちじ;7
+v_二時半;vocabulary;二時半;two thirty, half past two, half two;;;;;にじはん;7
+v_戦争;vocabulary;戦争;war;;;;;せんそう;11
+v_未だ;vocabulary;未だ;not yet, still;;;;;まだ;7
+v_氏;vocabulary;氏;mister, sir, ma'am, madam, miss;;;;;し;7
+v_社会;vocabulary;社会;society;;;;;しゃかい;7
+v_理由;vocabulary;理由;reason;;;;;りゆう;7
+v_時;vocabulary;時;time, o'clock, hour;;;;;とき;7
+v_工場;vocabulary;工場;factory;;;;;こうじょう, こうば;8
+v_自由;vocabulary;自由;freedom;;;;;じゆう;7
+v_〜部;vocabulary;〜部;department, club, category;;;;;ぶ;9
+v_高い;vocabulary;高い;tall, high, expensive;;;;;たかい;7
+v_紙;vocabulary;紙;paper;;;;;かみ;7
+v_海魚;vocabulary;海魚;ocean fish, saltwater fish;;;;;かいぎょ, うみざかな;7
+v_交通;vocabulary;交通;traffic;;;;;こうつう;7
+v_通る;vocabulary;通る;to pass, to pass through;;;;;とおる;7
+v_金魚;vocabulary;金魚;goldfish;;;;;きんぎょ;7
+v_黒人;vocabulary;黒人;black person, black people;;;;;こくじん;7
+v_作者;vocabulary;作者;author, writer;;;;;さくしゃ;8
+v_交じる;vocabulary;交じる;to be mixed;;;;;まじる;8
+v_住む;vocabulary;住む;to live, to dwell, to reside;;;;;すむ;8
+v_数;vocabulary;数;number, count, amount;;;;;かず;8
+v_三角形;vocabulary;三角形;triangle;;;;;さんかくけい, さんかっけい;7
+v_助力;vocabulary;助力;assistance, support;;;;;じょりょく;8
+v_医大;vocabulary;医大;medical university, medical school, med school;;;;;いだい;8
+v_年次;vocabulary;年次;annual, yearly;;;;;ねんじ;6
+v_合う;vocabulary;合う;to suit, to come together, to meet, to match;;;;;あう;8
+v_所;vocabulary;所;place, spot, scene;;;;;ところ;8
+v_和室;vocabulary;和室;japanese style room;;;;;わしつ;9
+v_水中;vocabulary;水中;underwater;;;;;すいちゅう;2
+v_向こう;vocabulary;向こう;opposite side, over there, other side, far away;;;;;むこう;8
+v_〜君;vocabulary;〜君;boy name ender, male name ender, boy name suffix, male name suffix;;;;;くん;8
+v_君;vocabulary;君;you, buddy;;;;;きみ;8
+v_場合;vocabulary;場合;case, circumstance, situation;;;;;ばあい;8
+v_反対;vocabulary;反対;opposition, opposite;;;;;はんたい;8
+v_会話;vocabulary;会話;conversation, dialog;;;;;かいわ;8
+v_安売り;vocabulary;安売り;sell cheaply, discount, bargain sale, sale;;;;;やすうり;8
+v_支局;vocabulary;支局;branch office;;;;;しきょく;8
+v_道;vocabulary;道;road, street, path, way;;;;;みち;8
+v_大学生;vocabulary;大学生;university student, college student, uni student;;;;;だいがくせい;7
+v_対する;vocabulary;対する;to compare to, to face each other, to oppose, to compare, to contrast, to contrast to;;;;;たいする;8
+v_後ろ;vocabulary;後ろ;behind, back, rear;;;;;うしろ;6
+v_局;vocabulary;局;bureau, department, station;;;;;きょく;8
+v_役;vocabulary;役;service, duty;;;;;やく;8
+v_思い出;vocabulary;思い出;a memory, memories, memory;;;;;おもいで;8
+v_思い出す;vocabulary;思い出す;to remember, to recall;;;;;おもいだす;8
+v_出所;vocabulary;出所;source, origin, place of origin;;;;;しゅっしょ;8
+v_折角;vocabulary;折角;with trouble, with difficulty, going through the trouble, trouble with, difficulty with, on purpose, deliberately;;;;;せっかく;14
+v_次々;vocabulary;次々;one by one, in succession, one after the other;;;;;つぎつぎ;8
+v_支店;vocabulary;支店;branch office, branch store;;;;;してん;8
+v_朝日;vocabulary;朝日;morning sun, rising sun;;;;;あさひ;8
+v_出血;vocabulary;出血;bleeding, bleed;;;;;しゅっけつ;6
+v_人数;vocabulary;人数;number of people, amount of people;;;;;にんずう;8
+v_曲げる;vocabulary;曲げる;to bend, to bend something;;;;;まげる;8
+v_芸人;vocabulary;芸人;comedian, actor, performer;;;;;げいにん;14
+v_受験;vocabulary;受験;take an exam, take an examination, take a test, taking an exam, taking an examination, taking a test;;;;;じゅけん;18
+v_島;vocabulary;島;island;;;;;しま;12
+v_点数;vocabulary;点数;points, score;;;;;てんすう;8
+v_両方;vocabulary;両方;both, both sides, both ways;;;;;りょうほう;6
+v_朝;vocabulary;朝;morning;;;;;あさ;8
+v_決める;vocabulary;決める;to decide;;;;;きめる;8
+v_研究所;vocabulary;研究所;research institute, research laboratory, research establishment, research lab, research facility;;;;;けんきゅうしょ, けんきゅうじょ;10
+v_朝ごはん;vocabulary;朝ごはん;breakfast;;;;;あさごはん;8
+v_疑問;vocabulary;疑問;doubt;;;;;ぎもん;13
+v_未決;vocabulary;未決;pending, unsettled, undecided, not yet decided;;;;;みけつ;8
+v_決;vocabulary;決;decision;;;;;けつ;8
+v_自決;vocabulary;自決;self determination, suicide;;;;;じけつ;8
+v_万;vocabulary;万;ten thousand;;;;;まん;3
+v_全身;vocabulary;全身;whole body, entire body;;;;;ぜんしん;8
+v_明るい;vocabulary;明るい;bright;;;;;あかるい;6
+v_実;vocabulary;実;truth, reality;;;;;じつ;9
+v_身;vocabulary;身;body, oneself;;;;;み;8
+v_返す;vocabulary;返す;to return, to return something;;;;;かえす;9
+v_茶色;vocabulary;茶色;brown, brown colour, brown color, color brown, colour brown;;;;;ちゃいろ;6
+v_初級;vocabulary;初級;beginner level, elementary level, beginning level;;;;;しょきゅう;11
+v_歩道;vocabulary;歩道;sidewalk, footpath, pavement;;;;;ほどう;8
+v_仕方がない;vocabulary;仕方がない;can't be helped, it can't be helped, no use, it's no use, it is no use;;;;;しかたがない;6
+v_果たして;vocabulary;果たして;as was expected, just as i thought, as expected;;;;;はたして;19
+v_長さ;vocabulary;長さ;length;;;;;ながさ;8
+v_大文字;vocabulary;大文字;capital letters, uppercase letters, capital letter, uppercase letter, uppercase, capital;;;;;おおもじ;6
+v_人間;vocabulary;人間;human, human being;;;;;にんげん;8
+v_空間;vocabulary;空間;space;;;;;くうかん;8
+v_門;vocabulary;門;gate;;;;;もん;16
+v_間もなく;vocabulary;間もなく;soon, before long, in a short time, shortly, momentarily;;;;;まもなく;8
+v_電池;vocabulary;電池;battery;;;;;でんち;8
+v_馬;vocabulary;馬;horse;;;;;うま;8
+v_回す;vocabulary;回す;to turn, to rotate, to turn something, to rotate something;;;;;まわす;8
+v_工事;vocabulary;工事;construction;;;;;こうじ;9
+v_返事;vocabulary;返事;reply, response;;;;;へんじ;9
+v_見付ける;vocabulary;見付ける;to find, to find something;;;;;みつける;9
+v_付く;vocabulary;付く;to be attached;;;;;つく;9
+v_会;vocabulary;会;meeting, assembly, party;;;;;かい;5
+v_実力;vocabulary;実力;true strength, true ability, true power;;;;;じつりょく;9
+v_使う;vocabulary;使う;to use;;;;;つかう;9
+v_家具;vocabulary;家具;furniture;;;;;かぐ;9
+v_道具;vocabulary;道具;tool;;;;;どうぐ;9
+v_勝つ;vocabulary;勝つ;to win;;;;;かつ;9
+v_受ける;vocabulary;受ける;to receive, to accept, to catch;;;;;うける;9
+v_安い;vocabulary;安い;cheap, inexpensive;;;;;やすい;6
+v_和服;vocabulary;和服;japanese style clothes, japanese clothing, japanese style clothing, japanese clothes;;;;;わふく;9
+v_始めに;vocabulary;始めに;in the beginning, to begin with, to start with;;;;;はじめに;9
+v_〜屋;vocabulary;〜屋;store, shop;;;;;や;9
+v_空気;vocabulary;空気;atmosphere, air;;;;;くうき;5
+v_社長;vocabulary;社長;company president, manager, director, president of a company;;;;;しゃちょう;6
+v_映る;vocabulary;映る;to be reflected, to be projected;;;;;うつる;13
+v_部屋;vocabulary;部屋;room;;;;;へや;9
+v_〜度;vocabulary;〜度;degrees;;;;;ど;9
+v_角度;vocabulary;角度;angle;;;;;かくど;9
+v_弱虫;vocabulary;弱虫;weakling, coward;;;;;よわむし;9
+v_持つ;vocabulary;持つ;to hold, to bring, to carry;;;;;もつ;9
+v_苦しい;vocabulary;苦しい;painful, agonizing;;;;;くるしい;9
+v_方言;vocabulary;方言;dialect;;;;;ほうげん;6
+v_気持ち;vocabulary;気持ち;feeling;;;;;きもち;9
+v_小学校;vocabulary;小学校;elementary school, primary school, grade school;;;;;しょうがっこう;9
+v_名物;vocabulary;名物;famous product, special product, famous goods, special goods, famous item, special item;;;;;めいぶつ;9
+v_本物;vocabulary;本物;the real thing, real deal, the real deal, real thing, genuine article, the genuine article;;;;;ほんもの;9
+v_世界;vocabulary;世界;the world, society, the universe;;;;;せかい;9
+v_発見;vocabulary;発見;discovery;;;;;はっけん;9
+v_線;vocabulary;線;line;;;;;せん;10
+v_美しい;vocabulary;美しい;beautiful;;;;;うつくしい;9
+v_要点;vocabulary;要点;main point, gist, main idea, essence;;;;;ようてん;9
+v_重要;vocabulary;重要;essential, important, necessary;;;;;じゅうよう;9
+v_負ける;vocabulary;負ける;to lose, to be defeated;;;;;まける;9
+v_放送する;vocabulary;放送する;to broadcast;;;;;ほうそうする;11
+v_送る;vocabulary;送る;to send;;;;;おくる;9
+v_お知らせ;vocabulary;お知らせ;notice, notification, flier, pamphlet, handbill, flyer, leaflet;;;;;おしらせ;8
+v_二重;vocabulary;二重;double, dual;;;;;にじゅう;9
+v_最近;vocabulary;最近;recent, latest, lately, recently;;;;;さいきん;10
+v_重い;vocabulary;重い;heavy;;;;;おもい;9
+v_方向;vocabulary;方向;direction;;;;;ほうこう;6
+v_化かす;vocabulary;化かす;to bewitch, to enchant;;;;;ばかす;10
+v_高さ;vocabulary;高さ;height;;;;;たかさ;9
+v_投げ付ける;vocabulary;投げ付ける;to throw against, to throw at;;;;;なげつける;10
+v_楽しみ;vocabulary;楽しみ;looking forward to, hope, expectation, anticipation, pleasure, enjoyment;;;;;たのしみ;10
+v_歌う;vocabulary;歌う;to sing;;;;;うたう;12
+v_歌手;vocabulary;歌手;singer;;;;;かしゅ;10
+v_地;vocabulary;地;earth, ground;;;;;ち;6
+v_性病;vocabulary;性病;sexually transmitted disease, std;;;;;せいびょう;14
+v_最高;vocabulary;最高;the best, best, supreme, the most, most;;;;;さいこう;10
+v_算数;vocabulary;算数;arithmetic, math, mathematics;;;;;さんすう;10
+v_終了;vocabulary;終了;end, finish, close;;;;;しゅうりょう;10
+v_終電;vocabulary;終電;last train, the last train;;;;;しゅうでん;12
+v_大体;vocabulary;大体;general, approximate, outline, gist;;;;;だいたい;5
+v_習う;vocabulary;習う;to learn;;;;;ならう;10
+v_新聞;vocabulary;新聞;newspaper;;;;;しんぶん;10
+v_苦手;vocabulary;苦手;hard to deal with, weak point, poor at, not very good at, bad at;;;;;にがて;11
+v_死;vocabulary;死;death;;;;;し;6
+v_東;vocabulary;東;east;;;;;ひがし;6
+v_落ち葉;vocabulary;落ち葉;fallen leaves, fallen leaf;;;;;おちば;12
+v_青葉;vocabulary;青葉;greenery;;;;;あおば;10
+v_親友;vocabulary;親友;close friend, best friend, good friend;;;;;しんゆう;10
+v_話し方;vocabulary;話し方;way of speaking, speaking style, way of talking, talking style;;;;;はなしかた;12
+v_フランス語;vocabulary;フランス語;french language, french;;;;;ふらんすご, フランスご;10
+v_物語;vocabulary;物語;tale, story, legend;;;;;ものがたり;10
+v_活気;vocabulary;活気;energy, liveliness, vigor, spirit;;;;;かっき;6
+v_名曲;vocabulary;名曲;famous music, famous song, famous tune;;;;;めいきょく;6
+v_九州;vocabulary;九州;kyuushuu, kyushu;;;;;きゅうしゅう;6
+v_調子;vocabulary;調子;condition;;;;;ちょうし;10
+v_起こす;vocabulary;起こす;to wake someone up, to wake up, to wake someone;;;;;おこす;14
+v_起こる;vocabulary;起こる;to occur, to happen, to take place;;;;;おこる;12
+v_負け犬;vocabulary;負け犬;loser;;;;;まけいぬ;11
+v_名;vocabulary;名;name, reputation;;;;;な;4
+v_軽い;vocabulary;軽い;lightweight, light, light weight;;;;;かるい;10
+v_自転車;vocabulary;自転車;bicycle, bike, pushbike;;;;;じてんしゃ;10
+v_転送;vocabulary;転送;transfer, transmission, forwarding;;;;;てんそう;10
+v_早速;vocabulary;早速;at once, immediately, without delay, right away, right now;;;;;さっそく;10
+v_進む;vocabulary;進む;to advance, to go forward, to progress;;;;;すすむ;10
+v_以下;vocabulary;以下;less than, or less, not exceeding, below;;;;;いか;7
+v_配る;vocabulary;配る;to distribute, to pass out, to deliver;;;;;くばる;10
+v_鉄人;vocabulary;鉄人;strong man, badass, iron man, macho man, tough guy;;;;;てつじん;10
+v_電鉄;vocabulary;電鉄;electric railway;;;;;でんてつ;10
+v_見返す;vocabulary;見返す;to look back at, to triumph over;;;;;みかえす;15
+v_開ける;vocabulary;開ける;to open, to open something;;;;;あける;10
+v_間に合う;vocabulary;間に合う;to be in time for, to make it on time, to be on time for;;;;;まにあう;10
+v_病院;vocabulary;病院;hospital;;;;;びょういん;10
+v_集まる;vocabulary;集まる;to come together, to gather, to be gathered;;;;;あつまる;12
+v_酒飲み;vocabulary;酒飲み;alcoholic, boozer, drunkard;;;;;さけのみ;12
+v_鳴く;vocabulary;鳴く;to chirp, to bark, to make an animal sound;;;;;なく;10
+v_白黒;vocabulary;白黒;black and white, white and black;;;;;しろくろ;9
+v_乗り場;vocabulary;乗り場;bus stop, taxi stand, train platform, place for boarding vehicles;;;;;のりば;11
+v_近く;vocabulary;近く;near, neighbourhood, neighborhood, vicinity, nearly, shortly;;;;;ちかく;7
+v_競争;vocabulary;競争;competition;;;;;きょうそう;11
+v_一位;vocabulary;一位;first place, first ranked;;;;;いちい;11
+v_前;vocabulary;前;front, before;;;;;まえ;6
+v_便利;vocabulary;便利;convenient, handy;;;;;べんり;11
+v_便所;vocabulary;便所;toilet, lavatory, restroom, bathroom;;;;;べんじょ;11
+v_開放する;vocabulary;開放する;to fling open, to throw open, to liberate;;;;;かいほうする;11
+v_育つ;vocabulary;育つ;to be raised;;;;;そだつ;11
+v_上級;vocabulary;上級;advanced level, high grade, advanced grade, high level;;;;;じょうきゅう;11
+v_労働;vocabulary;労働;manual labor, manual labour;;;;;ろうどう;11
+v_走る;vocabulary;走る;to run;;;;;はしる;5
+v_正直;vocabulary;正直;honest;;;;;しょうじき;6
+v_公共;vocabulary;公共;public, community;;;;;こうきょう;11
+v_放れる;vocabulary;放れる;to be released;;;;;はなれる;13
+v_意外;vocabulary;意外;unexpected;;;;;いがい;11
+v_部室;vocabulary;部室;clubroom;;;;;ぶしつ;9
+v_別々;vocabulary;別々;separately, individually;;;;;べつべつ;11
+v_天国;vocabulary;天国;kingdom of heaven, heaven;;;;;てんごく;6
+v_成功;vocabulary;成功;success;;;;;せいこう;11
+v_苦労;vocabulary;苦労;hardship, troubles;;;;;くろう;11
+v_別に;vocabulary;別に;not particularly, separately, not really, not exactly, not especially;;;;;べつに;11
+v_決定;vocabulary;決定;decision, determination;;;;;けってい;9
+v_指す;vocabulary;指す;to point, to point at;;;;;さす;11
+v_友好;vocabulary;友好;friendship;;;;;ゆうこう;11
+v_好き;vocabulary;好き;like, fondness, love, to like;;;;;すき;11
+v_完成;vocabulary;完成;completion, accomplishment;;;;;かんせい;14
+v_成る;vocabulary;成る;to become;;;;;なる;11
+v_拾う;vocabulary;拾う;to pick up, to find, to gather;;;;;ひろう;11
+v_待合室;vocabulary;待合室;waiting room;;;;;まちあいしつ;13
+v_意味;vocabulary;意味;meaning;;;;;いみ;11
+v_長い;vocabulary;長い;long;;;;;ながい;6
+v_大学院;vocabulary;大学院;graduate school, grad school;;;;;だいがくいん;10
+v_指定する;vocabulary;指定する;to appoint, to assign, to designate, to specify;;;;;していする;11
+v_落ち;vocabulary;落ち;conclusion, final result, the end, punch line, slip, omission, outcome;;;;;おち;12
+v_放す;vocabulary;放す;to release, to let go, to release something, to let go of something;;;;;はなす;11
+v_水星;vocabulary;水星;mercury;;;;;すいせい;6
+v_親指;vocabulary;親指;thumb;;;;;おやゆび;11
+v_神;vocabulary;神;god, gods;;;;;かみ;11
+v_競う;vocabulary;競う;to compete;;;;;きそう;11
+v_特に;vocabulary;特に;especially, particularly;;;;;とくに;11
+v_秒;vocabulary;秒;second;;;;;びょう;11
+v_次;vocabulary;次;next;;;;;つぎ;6
+v_中級;vocabulary;中級;intermediate level, intermediate rank, intermediate grade;;;;;ちゅうきゅう;11
+v_陽気;vocabulary;陽気;cheerful, jovial, merry, lively, season, weather;;;;;ようき;12
+v_勉強;vocabulary;勉強;studies, study;;;;;べんきょう;12
+v_動物;vocabulary;動物;animal;;;;;どうぶつ;12
+v_全員;vocabulary;全員;all members, all hands, everyone, everybody;;;;;ぜんいん;12
+v_商人;vocabulary;商人;merchant, trader, shopkeeper;;;;;しょうにん;12
+v_寒い;vocabulary;寒い;cold;;;;;さむい;12
+v_庭;vocabulary;庭;garden, yard;;;;;にわ;12
+v_〜倍;vocabulary;〜倍;times, fold;;;;;ばい;12
+v_意地悪;vocabulary;意地悪;malicious, mean, jerk;;;;;いじわる;14
+v_息子;vocabulary;息子;son;;;;;むすこ;12
+v_悪人;vocabulary;悪人;bad person, villain, evildoer, bad guy, wicked person, evil person;;;;;あくにん;12
+v_最悪;vocabulary;最悪;the worst, worst;;;;;さいあく;12
+v_気持ち悪い;vocabulary;気持ち悪い;to feel terrible, terrible, to feel bad, bad feeling, feeling bad, feeling terrible;;;;;きもちわるい;14
+v_旅;vocabulary;旅;trip, travel;;;;;たび;12
+v_旅行;vocabulary;旅行;trip, travel;;;;;りょこう;12
+v_家族;vocabulary;家族;family, immediate family;;;;;かぞく;12
+v_直行;vocabulary;直行;nonstop, direct;;;;;ちょっこう;6
+v_昼休み;vocabulary;昼休み;lunch break, noon break;;;;;ひるやすみ;15
+v_親類;vocabulary;親類;relatives;;;;;しんるい;18
+v_悪口;vocabulary;悪口;verbal abuse, saying bad things, insult, slander, bad mouth;;;;;わるくち, わるぐち, あっこう;14
+v_時期;vocabulary;時期;time, season, period, time period, period of time;;;;;じき;12
+v_大根;vocabulary;大根;daikon, japanese radish;;;;;だいこん;12
+v_屋根;vocabulary;屋根;roof;;;;;やね;12
+v_根気;vocabulary;根気;patience, perseverance, persistence;;;;;こんき;12
+v_植物;vocabulary;植物;plant, vegetation;;;;;しょくぶつ;12
+v_消える;vocabulary;消える;to disappear, to go out, to turn off;;;;;きえる;14
+v_消化する;vocabulary;消化する;to digest;;;;;しょうかする;14
+v_食料品;vocabulary;食料品;groceries;;;;;しょくりょうひん;16
+v_消す;vocabulary;消す;to extinguish, to erase, to turn off;;;;;けす;12
+v_列;vocabulary;列;line, line of things, line of people, queue;;;;;れつ;15
+v_水深;vocabulary;水深;water depth, depth of water;;;;;すいしん;12
+v_深い;vocabulary;深い;deep;;;;;ふかい;12
+v_周期;vocabulary;周期;cycle, period;;;;;しゅうき;14
+v_湯気;vocabulary;湯気;steam, vapor;;;;;ゆげ;12
+v_茶の湯;vocabulary;茶の湯;tea ceremony;;;;;ちゃのゆ;12
+v_野球;vocabulary;野球;baseball;;;;;やきゅう;12
+v_球;vocabulary;球;sphere, ball, sports ball;;;;;たま, きゅう;12
+v_転ぶ;vocabulary;転ぶ;to fall over, to fall down;;;;;ころぶ;12
+v_東北;vocabulary;東北;northeast, tohoku, tohoku region, touhoku region, touhoku;;;;;とうほく;6
+v_愛情;vocabulary;愛情;love, affection;;;;;あいじょう;17
+v_東京都;vocabulary;東京都;tokyo metropolis, tokyo metro, tokyo metropolitan area;;;;;とうきょうと;12
+v_足りない;vocabulary;足りない;not enough, to not be sufficient, to not be enough, insufficient, not sufficient, to be insufficient;;;;;たりない;6
+v_教科書;vocabulary;教科書;textbook;;;;;きょうかしょ;16
+v_着る;vocabulary;着る;to wear, to put on;;;;;きる;12
+v_着物;vocabulary;着物;kimono, clothes;;;;;きもの;12
+v_年上;vocabulary;年上;older;;;;;としうえ;6
+v_第一;vocabulary;第一;the first, first, number one, best;;;;;だいいち;12
+v_心配する;vocabulary;心配する;to worry, to be concerned, to be anxious;;;;;しんぱいする;12
+v_外れ;vocabulary;外れ;extremity, furthest point, end, outskirts, outer limits, edge, miss, failure;;;;;はずれ;3
+v_飲み会;vocabulary;飲み会;drinking party;;;;;のみかい;13
+v_情け;vocabulary;情け;pity, sympathy, mercy, compassion;;;;;なさけ;13
+v_感想;vocabulary;感想;impressions, one's impressions, thoughts;;;;;かんそう;13
+v_休学;vocabulary;休学;absent from school, absence from school, school absence;;;;;きゅうがく;5
+v_楽器;vocabulary;楽器;musical instrument;;;;;がっき;13
+v_画像;vocabulary;画像;image, portrait, picture;;;;;がぞう;13
+v_右利き;vocabulary;右利き;right handed;;;;;みぎきき;13
+v_暗い;vocabulary;暗い;dark;;;;;くらい;13
+v_お姉さん;vocabulary;お姉さん;older sister, big sister, elder sister;;;;;おねえさん;6
+v_問題;vocabulary;問題;problem, question;;;;;もんだい;13
+v_器;vocabulary;器;container, bowl, vessel;;;;;うつわ;13
+v_器用;vocabulary;器用;dextrous, skillful, dexterous;;;;;きよう;13
+v_食器;vocabulary;食器;tableware, eating utensils, utensils;;;;;しょっき;13
+v_力士;vocabulary;力士;sumo wrestler;;;;;りきし;13
+v_大好き;vocabulary;大好き;really like, to really like, love, to love, like a lot, to like a lot, like very much, to like very much;;;;;だいすき;13
+v_感動する;vocabulary;感動する;to be emotionally moved, to be moved emotionally, to be moving;;;;;かんどうする;13
+v_感情;vocabulary;感情;feeling, emotion;;;;;かんじょう;13
+v_戦う;vocabulary;戦う;to fight, to battle, to combat;;;;;たたかう;13
+v_整理する;vocabulary;整理する;to arrange, to organize, to sort;;;;;せいりする;15
+v_料金;vocabulary;料金;fee, bills, fees, bill;;;;;りょうきん;13
+v_映画;vocabulary;映画;movie, film;;;;;えいが;13
+v_一歩;vocabulary;一歩;one step;;;;;いっぽ;6
+v_皆様;vocabulary;皆様;everyone, all, everybody;;;;;みなさま, みんなさま;13
+v_目標;vocabulary;目標;goal, target;;;;;もくひょう;13
+v_自殺;vocabulary;自殺;suicide;;;;;じさつ;13
+v_自然;vocabulary;自然;nature, natural;;;;;しぜん;13
+v_熱い;vocabulary;熱い;hot thing, hot;;;;;あつい;13
+v_熱心;vocabulary;熱心;enthusiasm, passion, zeal;;;;;ねっしん;13
+v_皆さん;vocabulary;皆さん;everyone, everybody, all;;;;;みなさん, みんなさん;13
+v_育てる;vocabulary;育てる;to bring up, to raise, to bring something up, to raise something;;;;;そだてる;13
+v_詩;vocabulary;詩;poem;;;;;し;13
+v_詩人;vocabulary;詩人;poet;;;;;しじん;13
+v_課長;vocabulary;課長;section manager, section chief;;;;;かちょう;13
+v_選手;vocabulary;選手;pro athlete, sports player, professional athlete;;;;;せんしゅ;13
+v_水銀;vocabulary;水銀;mercury, quicksilver;;;;;すいぎん;13
+v_銀行;vocabulary;銀行;bank;;;;;ぎんこう;13
+v_立ち飲み;vocabulary;立ち飲み;stand and drink, drink while standing, drinking while standing;;;;;たちのみ;10
+v_〜放題;vocabulary;〜放題;as much as you want, all you can;;;;;ほうだい;13
+v_欠ける;vocabulary;欠ける;to lack, to be lacking;;;;;かける;7
+v_〜向け;vocabulary;〜向け;made for, intended for, aimed at;;;;;むけ;10
+v_海外;vocabulary;海外;overseas, foreign, abroad;;;;;かいがい;6
+v_本館;vocabulary;本館;main building;;;;;ほんかん;13
+v_一例;vocabulary;一例;instance, example;;;;;いちれい;14
+v_協会;vocabulary;協会;union, association, organization, organisation;;;;;きょうかい;14
+v_自動;vocabulary;自動;automatic;;;;;じどう;14
+v_お願いします;vocabulary;お願いします;please help me, please, if you would be so kind;;;;;おねがいします;13
+v_線路;vocabulary;線路;railroad track, train track, railway track, track, line;;;;;せんろ;10
+v_一周;vocabulary;一周;one time around, once around;;;;;いっしゅう;14
+v_囲む;vocabulary;囲む;to surround;;;;;かこむ;14
+v_固い;vocabulary;固い;hard;;;;;かたい;14
+v_番号;vocabulary;番号;number, series of digits;;;;;ばんごう;8
+v_良好;vocabulary;良好;good, favorable, satisfactory;;;;;りょうこう;14
+v_四季;vocabulary;四季;the four seasons, four seasons;;;;;しき;14
+v_点;vocabulary;点;point, decimal, decimal point;;;;;てん;6
+v_残念;vocabulary;残念;too bad, unfortunate;;;;;ざんねん;14
+v_望む;vocabulary;望む;to wish, to desire;;;;;のぞむ;14
+v_人性;vocabulary;人性;human nature, instinct;;;;;じんせい;14
+v_議長;vocabulary;議長;chairman, speaker;;;;;ぎちょう;20
+v_車両;vocabulary;車両;railroad car, vehicle, railway carriage, railroad carriage, railcar;;;;;しゃりょう;6
+v_材料;vocabulary;材料;ingredients, material;;;;;ざいりょう;14
+v_束;vocabulary;束;bundle;;;;;たば;14
+v_合格する;vocabulary;合格する;to pass a test, to pass an exam;;;;;ごうかくする;14
+v_残る;vocabulary;残る;to remain behind, to remain, to stay behind;;;;;のこる;14
+v_求める;vocabulary;求める;to want, to request, to demand;;;;;もとめる;14
+v_求人;vocabulary;求人;help wanted, seeking workers;;;;;きゅうじん;14
+v_辞典;vocabulary;辞典;dictionary, lexicon;;;;;じてん;16
+v_流れる;vocabulary;流れる;to stream, to flow;;;;;ながれる;14
+v_山登り;vocabulary;山登り;mountain climbing;;;;;やまのぼり;14
+v_〜的;vocabulary;〜的;al, like, typical;;;;;てき;14
+v_技術;vocabulary;技術;art, craft, technique;;;;;ぎじゅつ;16
+v_大仏;vocabulary;大仏;giant buddha statue, daibutsu, giant statue of buddha, large buddha statue, large statue of buddha;;;;;だいぶつ;15
+v_安心;vocabulary;安心;relief, peace of mind;;;;;あんしん;6
+v_祈願;vocabulary;祈願;prayer, a prayer;;;;;きがん;18
+v_私大;vocabulary;私大;private college, private university, private uni;;;;;しだい;18
+v_芸能界;vocabulary;芸能界;showbusiness, showbiz, show business;;;;;げいのうかい;14
+v_落ち着く;vocabulary;落ち着く;to calm down;;;;;おちつく;14
+v_〜室;vocabulary;〜室;room;;;;;しつ;6
+v_都合;vocabulary;都合;at your convenience, circumstance;;;;;つごう;14
+v_骨;vocabulary;骨;bone;;;;;ほね;14
+v_骨格;vocabulary;骨格;skeleton;;;;;こっかく;14
+v_自信;vocabulary;自信;confidence, self confidence;;;;;じしん;15
+v_返信;vocabulary;返信;reply;;;;;へんしん;15
+v_取材;vocabulary;取材;covering an event, collecting data, data collection;;;;;しゅざい;18
+v_通り;vocabulary;通り;avenue, street, road, way;;;;;とおり;9
+v_単に;vocabulary;単に;simply, merely;;;;;たんに;15
+v_単語;vocabulary;単語;word, vocabulary;;;;;たんご;15
+v_上司;vocabulary;上司;boss, superior;;;;;じょうし;15
+v_変事;vocabulary;変事;strange incident, unusual incident;;;;;へんじ;15
+v_夫;vocabulary;夫;husband;;;;;おっと;15
+v_好む;vocabulary;好む;to be fond of, to like;;;;;このむ;15
+v_帰る;vocabulary;帰る;to return home, to return;;;;;かえる;15
+v_毎晩;vocabulary;毎晩;every night, nightly;;;;;まいばん;15
+v_晴れる;vocabulary;晴れる;to clear up, to become sunny;;;;;はれる;15
+v_羊;vocabulary;羊;sheep;;;;;ひつじ;6
+v_食中毒;vocabulary;食中毒;food poisoning;;;;;しょくちゅうどく;15
+v_文法;vocabulary;文法;grammar;;;;;ぶんぽう;15
+v_泣く;vocabulary;泣く;to cry;;;;;なく;15
+v_輪ゴム;vocabulary;輪ゴム;rubber band, elastic band;;;;;わごむ, わゴム;15
+v_新築;vocabulary;新築;newly built, new building, new construction;;;;;しんちく;15
+v_世紀;vocabulary;世紀;century;;;;;せいき;15
+v_英和;vocabulary;英和;english japanese;;;;;えいわ;15
+v_指輪;vocabulary;指輪;ring;;;;;ゆびわ;15
+v_係わる;vocabulary;係わる;to be involved with, to be connected with, to be affected, to have to do with;;;;;かかわる;16
+v_保持;vocabulary;保持;retention, maintenance, preservation;;;;;ほじ;16
+v_保つ;vocabulary;保つ;to preserve, to keep, to maintain;;;;;たもつ;16
+v_古典的;vocabulary;古典的;classical;;;;;こてんてき;16
+v_事典;vocabulary;事典;encyclopedia;;;;;じてん;16
+v_冗談;vocabulary;冗談;joke;;;;;じょうだん;16
+v_卒業する;vocabulary;卒業する;to graduate;;;;;そつぎょうする;16
+v_卒業式;vocabulary;卒業式;graduation ceremony, graduation;;;;;そつぎょうしき;16
+v_品;vocabulary;品;article, item, goods;;;;;ひん, しな;16
+v_新品;vocabulary;新品;brand new, new item, new product;;;;;しんぴん;16
+v_喜ぶ;vocabulary;喜ぶ;to rejoice, to become happy;;;;;よろこぶ;16
+v_守る;vocabulary;守る;to protect, to defend;;;;;まもる;16
+v_政府;vocabulary;政府;government;;;;;せいふ;16
+v_急死;vocabulary;急死;sudden death;;;;;きゅうし;16
+v_治す;vocabulary;治す;to cure, to heal;;;;;なおす;16
+v_店;vocabulary;店;shop, store;;;;;みせ;6
+v_全治;vocabulary;全治;complete recovery, healed, fully recovered, fully recover, healed completely, heal completely, completely cured, fully cured, fully healed;;;;;ぜんじ, ぜんち;16
+v_曜日;vocabulary;曜日;day of the week, weekday;;;;;ようび;16
+v_留守;vocabulary;留守;absence, away from home;;;;;るす;16
+v_世の中;vocabulary;世の中;society, the world;;;;;よのなか;6
+v_留学;vocabulary;留学;study abroad, studying abroad;;;;;りゅうがく;16
+v_自動的;vocabulary;自動的;automatic;;;;;じどうてき;16
+v_証;vocabulary;証;evidence, proof;;;;;あかし;16
+v_大阪;vocabulary;大阪;osaka, oosaka;;;;;おおさか;16
+v_図書館;vocabulary;図書館;library;;;;;としょかん;16
+v_芸術家;vocabulary;芸術家;artist;;;;;げいじゅつか;16
+v_南;vocabulary;南;south;;;;;みなみ;6
+v_原因;vocabulary;原因;cause, origin, source;;;;;げんいん;17
+v_漢字;vocabulary;漢字;kanji, chinese letters, chinese characters;;;;;かんじ;10
+v_話す;vocabulary;話す;to speak, to talk;;;;;はなす;8
+v_辞める;vocabulary;辞める;to quit, to resign;;;;;やめる;16
+v_世辞;vocabulary;世辞;flattery, compliment;;;;;せじ;16
+v_内側;vocabulary;内側;inside;;;;;うちがわ;17
+v_病人;vocabulary;病人;sick person, patient;;;;;びょうにん;10
+v_東側;vocabulary;東側;east side;;;;;ひがしがわ;17
+v_兵員;vocabulary;兵員;military personnel, military strength;;;;;へいいん;17
+v_当たり;vocabulary;当たり;a success, success, hit, guess;;;;;あたり;5
+v_目次;vocabulary;目次;table of contents;;;;;もくじ;6
+v_内因;vocabulary;内因;internal cause, actual reason;;;;;ないいん;17
+v_常に;vocabulary;常に;ordinarily, always, usually;;;;;つねに;17
+v_常識;vocabulary;常識;common sense, common knowledge;;;;;じょうしき;17
+v_干す;vocabulary;干す;to dry;;;;;ほす;17
+v_幻;vocabulary;幻;illusion, phantom;;;;;まぼろし;17
+v_心底;vocabulary;心底;bottom of one's heart, bottom of my heart;;;;;しんそこ;17
+v_建築家;vocabulary;建築家;architect;;;;;けんちくか;17
+v_建物;vocabulary;建物;building;;;;;たてもの;17
+v_正座;vocabulary;正座;seiza, traditional japanese sitting;;;;;せいざ;18
+v_恋;vocabulary;恋;love, lust;;;;;こい;17
+v_敗れる;vocabulary;敗れる;to be defeated, to be unsuccessful;;;;;やぶれる;17
+v_失敗;vocabulary;失敗;failure, mistake;;;;;しっぱい;17
+v_敗者;vocabulary;敗者;loser, the defeated;;;;;はいしゃ;17
+v_無休;vocabulary;無休;no holidays, always open;;;;;むきゅう;17
+v_無事;vocabulary;無事;safe and sound, safe;;;;;ぶじ;17
+v_無料;vocabulary;無料;free, without charge;;;;;むりょう;17
+v_紀元前;vocabulary;紀元前;before christ, bc, bce, before common era;;;;;きげんぜん;17
+v_細い;vocabulary;細い;thin, slender;;;;;ほそい;17
+v_薬用;vocabulary;薬用;medicinal;;;;;やくよう;17
+v_虚栄心;vocabulary;虚栄心;vanity;;;;;きょえいしん;17
+v_自覚;vocabulary;自覚;consciousness, awareness, realization;;;;;じかく;17
+v_図説;vocabulary;図説;illustration, explanatory diagram;;;;;ずせつ;17
+v_朝ご飯;vocabulary;朝ご飯;breakfast;;;;;あさごはん;17
+v_鼻血;vocabulary;鼻血;nosebleed, bloody nose;;;;;はなぢ, はなじ;17
+v_仏僧;vocabulary;仏僧;buddhist priest;;;;;ぶっそう;18
+v_取決め;vocabulary;取決め;arrangement, agreement;;;;;とりきめ;18
+v_今年;vocabulary;今年;this year;;;;;ことし, こんねん;6
+v_可愛い;vocabulary;可愛い;cute;;;;;かわいい;18
+v_許可;vocabulary;許可;permission;;;;;きょか;18
+v_告白;vocabulary;告白;confession;;;;;こくはく;18
+v_告げる;vocabulary;告げる;to announce, to tell;;;;;つげる;18
+v_喫茶店;vocabulary;喫茶店;tea house, cafe, coffee house, coffee shop;;;;;きっさてん;18
+v_お守り;vocabulary;お守り;charm, amulet;;;;;おまもり;18
+v_留守番;vocabulary;留守番;caretaker, housesitting, looking after one's house;;;;;るすばん;18
+v_座禅;vocabulary;座禅;zen meditation;;;;;ざぜん;18
+v_銀座;vocabulary;銀座;ginza;;;;;ぎんざ;18
+v_駅弁;vocabulary;駅弁;train station bento, station bento;;;;;えきべん;18
+v_金曜日;vocabulary;金曜日;friday;;;;;きんようび;18
+v_月曜日;vocabulary;月曜日;monday;;;;;げつようび;18
+v_火曜日;vocabulary;火曜日;tuesday;;;;;かようび;18
+v_書く;vocabulary;書く;to write;;;;;かく;16
+v_下書き;vocabulary;下書き;rough draft;;;;;したがき;18
+v_書き直す;vocabulary;書き直す;to rewrite;;;;;かきなおす;18
+v_洗う;vocabulary;洗う;to wash;;;;;あらう;18
+v_洗練;vocabulary;洗練;refinement, polish;;;;;せんれん;18
+v_焼ける;vocabulary;焼ける;to be cooked, to burn;;;;;やける;20
+v_煙;vocabulary;煙;smoke;;;;;けむり;18
+v_祈る;vocabulary;祈る;to pray;;;;;いのる;18
+v_禁煙;vocabulary;禁煙;no smoking;;;;;きんえん;18
+v_助ける;vocabulary;助ける;to help, to save, to rescue;;;;;たすける;8
+v_禁止;vocabulary;禁止;forbidden, prohibition, ban;;;;;きんし;18
+v_笛;vocabulary;笛;flute, whistle;;;;;ふえ;19
+v_等しい;vocabulary;等しい;equal, similar, equivalent;;;;;ひとしい;18
+v_一等;vocabulary;一等;first class, first rank, the best;;;;;いっとう;18
+v_手荷物;vocabulary;手荷物;hand baggage, hand luggage, cabin baggage, carry on;;;;;てにもつ;18
+v_試す;vocabulary;試す;to attempt, to try out, to test, to test the limits, to try;;;;;ためす;18
+v_友達;vocabulary;友達;friend, companion;;;;;ともだち;18
+v_伝達;vocabulary;伝達;transmission, transmit, convey;;;;;でんたつ;18
+v_平静;vocabulary;平静;calm, serene, tranquil;;;;;へいせい;18
+v_書類;vocabulary;書類;document;;;;;しょるい;18
+v_人類;vocabulary;人類;mankind, race of people, humanity, humankind;;;;;じんるい;18
+v_種類;vocabulary;種類;kind, type;;;;;しゅるい;18
+v_実験;vocabulary;実験;experiment;;;;;じっけん;18
+v_乱れる;vocabulary;乱れる;to be in disorder, to be disordered;;;;;みだれる;19
+v_乱交;vocabulary;乱交;orgy, promiscuity;;;;;らんこう;19
+v_参加;vocabulary;参加;participation;;;;;さんか;19
+v_宇宙;vocabulary;宇宙;outer space, space, universe;;;;;うちゅう;19
+v_警官;vocabulary;警官;police officer, policeman, cop;;;;;けいかん;19
+v_履歴書;vocabulary;履歴書;personal history, resume, resumé, curriculum vitae, cv;;;;;りれきしょ;19
+v_履く;vocabulary;履く;to put on shoes, to put on pants, to put on boots;;;;;はく;19
+v_忙しい;vocabulary;忙しい;busy;;;;;いそがしい;19
+v_若布;vocabulary;若布;wakame, wakame seaweed;;;;;わかめ;19
+v_布団;vocabulary;布団;futon, bedding, sleeping mat;;;;;ふとん;19
+v_生徒;vocabulary;生徒;follower, pupil, student;;;;;せいと;19
+v_説得;vocabulary;説得;persuasion;;;;;せっとく;19
+v_信徒;vocabulary;信徒;believer, follower;;;;;しんと;19
+v_得る;vocabulary;得る;to acquire, to gain, to obtain;;;;;える;19
+v_得意;vocabulary;得意;good at, skilled at, strong point, specialty, forte;;;;;とくい;19
+v_恋人;vocabulary;恋人;lover;;;;;こいびと;19
+v_地中海;vocabulary;地中海;mediterranean sea;;;;;ちちゅうかい;8
+v_大失敗;vocabulary;大失敗;total failure, huge mistake, big mistake, debacle, massive failure, epic fail;;;;;だいしっぱい;19
+v_昆布;vocabulary;昆布;konbu, kombu, konbu seaweed, kombu seaweed;;;;;こんぶ;19
+v_支える;vocabulary;支える;to support;;;;;ささえる;8
+v_乱暴;vocabulary;乱暴;violence;;;;;らんぼう;19
+v_梅干;vocabulary;梅干;pickled plums, pickled ume, umeboshi;;;;;うめぼし;19
+v_比べる;vocabulary;比べる;to compare;;;;;くらべる;19
+v_比例;vocabulary;比例;proportion, ratio;;;;;ひれい;19
+v_混ざる;vocabulary;混ざる;to get mixed, to be mixed, to be blended with;;;;;まざる;19
+v_減る;vocabulary;減る;to be decreased, to get decreased, to decrease;;;;;へる;19
+v_若々しい;vocabulary;若々しい;youthful;;;;;わかわかしい;19
+v_歌詞;vocabulary;歌詞;song lyrics, lyrics;;;;;かし;19
+v_財閥;vocabulary;財閥;plutocrats, financial clique, zaibatsu;;;;;ざいばつ;19
+v_連続;vocabulary;連続;a series, series;;;;;れんぞく;19
+v_大きい順;vocabulary;大きい順;decreasing order, descending order, largest first;;;;;おおきいじゅん;19
+v_努力;vocabulary;努力;great effort, exertion, grueling effort;;;;;どりょく;11
+v_五十音順;vocabulary;五十音順;aiueo order, in aiueo order;;;;;ごじゅうおんじゅん;19
+v_余計;vocabulary;余計;unneeded, more than enough, too much, excess, unnecessary;;;;;よけい;20
+v_倒す;vocabulary;倒す;to knock over, to knock down, to bring down;;;;;たおす;20
+v_不可分;vocabulary;不可分;indivisible;;;;;ふかぶん;20
+v_圧力;vocabulary;圧力;pressure, stress;;;;;あつりょく;20
+v_指圧;vocabulary;指圧;shiatsu, finger pressure;;;;;しあつ;20
+v_夢;vocabulary;夢;dream;;;;;ゆめ;20
+v_妻;vocabulary;妻;wife, my wife;;;;;つま;20
+v_嫌い;vocabulary;嫌い;to dislike, to hate, dislike, hate;;;;;きらい;20
+v_電子機器;vocabulary;電子機器;electronic equipment, electronics;;;;;でんしきき;20
+v_災害;vocabulary;災害;natural disaster, disaster, accident;;;;;さいがい;20
+v_震災;vocabulary;震災;earthquake disaster;;;;;しんさい;20
+v_胸焼け;vocabulary;胸焼け;heartburn;;;;;むねやけ;20
+v_論理;vocabulary;論理;logic;;;;;ろんり;20
+v_共犯者;vocabulary;共犯者;accomplice;;;;;きょうはんしゃ;20
+v_産む;vocabulary;産む;to give birth;;;;;うむ;20
+v_穴子;vocabulary;穴子;conger eel, anago;;;;;あなご;20
+v_犯罪;vocabulary;犯罪;crime;;;;;はんざい;20
+v_音訓;vocabulary;音訓;on'yomi and kun'yomi, chinese and japanese readings;;;;;おんくん;20
+v_理論;vocabulary;理論;theory;;;;;りろん;20
+v_不思議;vocabulary;不思議;wonder, mystery, marvel;;;;;ふしぎ;20
+v_被る;vocabulary;被る;to put on a hat, to put on, to wear a hat, to wear, to put a hat on;;;;;かぶる;20
+v_入学試験;vocabulary;入学試験;entrance exams, entrance examinations, admission test, admission exam, admission examination, entrance test;;;;;にゅうがくしけん;20
+v_出来る;vocabulary;出来る;to be able to do;;;;;できる;6
+v_改まる;vocabulary;改まる;to be renewed, to be formal;;;;;あらたまる;19
+v_発音;vocabulary;発音;pronunciation;;;;;はつおん;9
+v_食べる;vocabulary;食べる;to eat;;;;;たべる;6
+v_首になる;vocabulary;首になる;to get fired, to be fired;;;;;くびになる;6
+v_有る;vocabulary;有る;to have, to exist;;;;;ある;6
+v_歩く;vocabulary;歩く;to walk;;;;;あるく;6
+v_集金;vocabulary;集金;collecting money, money collection;;;;;しゅうきん;10
+v_中指;vocabulary;中指;middle finger, second finger;;;;;なかゆび;11
+v_大丈夫;vocabulary;大丈夫;safe, all right, okay;;;;;だいじょうぶ;18
+v_女の人;vocabulary;女の人;woman;;;;;おんなのひと;3
+v_初めて;vocabulary;初めて;for the first time, first time;;;;;はじめて;13
+v_足し算;vocabulary;足し算;addition;;;;;たしざん;10
+v_文化;vocabulary;文化;culture;;;;;ぶんか;6
+v_会議室;vocabulary;会議室;conference room, council room, meeting room;;;;;かいぎしつ;20
+v_氏名;vocabulary;氏名;full name, first and last name;;;;;しめい;7
+v_関心;vocabulary;関心;concern, interest;;;;;かんしん;16
+v_基本的;vocabulary;基本的;fundamentals, basics, fundamental, standard, basic;;;;;きほんてき;16
+v_本当に;vocabulary;本当に;really, truly;;;;;ほんとうに;7
+v_赤ちゃん;vocabulary;赤ちゃん;baby;;;;;あかちゃん;4
+v_丁目;vocabulary;丁目;district of a town, city block, town district, district;;;;;ちょうめ;7
+v_百;vocabulary;百;hundred, one hundred;;;;;ひゃく;4
+v_向ける;vocabulary;向ける;to turn towards, to point, to turn (something) towards;;;;;むける;8
+v_人々;vocabulary;人々;people, everybody, each person;;;;;ひとびと;2
+v_二日;vocabulary;二日;second day, day two, two days;;;;;ふつか;2
+v_お前;vocabulary;お前;you;;;;;おまえ;8
+v_部分;vocabulary;部分;portion, section, part;;;;;ぶぶん;9
+v_千葉;vocabulary;千葉;chiba;;;;;ちば;10
+v_回る;vocabulary;回る;to revolve, to go around, to rotate;;;;;まわる;5
+v_不味い;vocabulary;不味い;bad tasting, unappetizing, unskillful;;;;;まずい;17
+v_通う;vocabulary;通う;to commute, to attend, to go back and forth;;;;;かよう;11
+v_明日;vocabulary;明日;tomorrow;;;;;あした, あす, みょうにち;8
+v_病む;vocabulary;病む;to be sick, to fall ill, to be ill, to come down with, to suffer from;;;;;やむ;10
+v_用意;vocabulary;用意;preparation, arrangements, provision, getting ready;;;;;ようい;11
+v_路地;vocabulary;路地;alley, path, dirt road;;;;;ろじ;10
+v_支度;vocabulary;支度;preparation, arrangements;;;;;したく;11
+v_気付く;vocabulary;気付く;to realize, to notice, to realise;;;;;きづく;11
+v_会員;vocabulary;会員;member, membership;;;;;かいいん;12
+v_一階;vocabulary;一階;first floor, floor one, first story, ground floor;;;;;いっかい;12
+v_無し;vocabulary;無し;without, with no;;;;;なし;17
+v_勇む;vocabulary;勇む;to be encouraged, to be lively, to be in high spirits, to cheer up, to be excited, to be inspired;;;;;いさむ;17
+v_警告;vocabulary;警告;warning, advice, caution;;;;;けいこく;18
+v_昼ご飯;vocabulary;昼ご飯;lunch;;;;;ひるごはん;17
+v_不足;vocabulary;不足;shortage, physical shortage, insufficient, not sufficient, not enough;;;;;ふそく;4
+v_晩ご飯;vocabulary;晩ご飯;dinner, supper;;;;;ばんごはん;17
+v_大人しい;vocabulary;大人しい;obedient, docile, quiet;;;;;おとなしい;3
+v_海王星;vocabulary;海王星;neptune;;;;;かいおうせい;6
+v_記念日;vocabulary;記念日;holiday, anniversary, memorial day;;;;;きねんび;16
+v_連日;vocabulary;連日;every day, day after day, for days on end, daily, prolonged;;;;;れんじつ;19
+v_表;vocabulary;表;front, surface, exterior, face, outside, appearance;;;;;おもて;9
+v_番組;vocabulary;番組;program, programme;;;;;ばんぐみ;8
+v_広告;vocabulary;広告;advertisement, ad, advert;;;;;こうこく;18
+v_連れる;vocabulary;連れる;to take along, to bring with, to bring a person, to lead;;;;;つれる;19
+v_間;vocabulary;間;interval, interval of time, time interval, between;;;;;あいだ, ま;8
+v_幸い;vocabulary;幸い;happiness, luck, fortune;;;;;さいわい;18
+v_混血;vocabulary;混血;mixed race, mixed parentage;;;;;こんけつ;19
+v_〜人;vocabulary;〜人;number of people, people, people counter;;;;;にん;3
+v_明治;vocabulary;明治;meiji era, meiji emperor, meiji;;;;;めいじ;16
+v_本来;vocabulary;本来;originally, primarily, essentially, naturally;;;;;ほんらい;5
+v_手首;vocabulary;手首;wrist;;;;;てくび;6
+v_二十日;vocabulary;二十日;twentieth day, day twenty, twenty days;;;;;はつか;4
+v_草地;vocabulary;草地;meadow, grassland;;;;;くさち;6
+v_船員;vocabulary;船員;sailor, seaman, mariner, crewman;;;;;せんいん;12
+v_動物園;vocabulary;動物園;zoo, zoological gardens, menagerie;;;;;どうぶつえん;16
+v_変わる;vocabulary;変わる;to be changed, to be transformed, to be altered, to vary, to be turned;;;;;かわる;17
+v_人工;vocabulary;人工;artificial, man made, human made, human work, human skill, artificially;;;;;じんこう;1
+v_考古学;vocabulary;考古学;archeology, archaeology;;;;;こうこがく;7
+v_喜び;vocabulary;喜び;joy, delight, glee, rapture, pleasure, satisfaction, gratification, rejoicing, congratulations;;;;;よろこび;18
+v_教え;vocabulary;教え;teaching, instruction, teachings, lesson, doctrine;;;;;おしえ;9
+v_作業;vocabulary;作業;work, operation, manufacturing;;;;;さぎょう;10
+v_数年;vocabulary;数年;several years;;;;;すうねん;8
+v_無言;vocabulary;無言;silence;;;;;むごん;17
+v_周り;vocabulary;周り;circumference, perimeter, edge, surroundings, locality, neighborhood;;;;;まわり;14
+v_台風;vocabulary;台風;typhoon, hurricane;;;;;たいふう;7
+v_学歴;vocabulary;学歴;academic history, academic background, academic record;;;;;がくれき;19
+v_伝;vocabulary;伝;intermediary, connections, go between;;;;;つて;15
+v_大学院生;vocabulary;大学院生;graduate student, grad student;;;;;だいがくいんせい;12
+v_米兵;vocabulary;米兵;us soldier, american soldier;;;;;べいへい;17
+v_目医者;vocabulary;目医者;eye doctor, oculist;;;;;めいしゃ;10
+v_八日;vocabulary;八日;eight days, day eight, eighth day;;;;;ようか;2
+v_生物学;vocabulary;生物学;biology;;;;;せいぶつがく;11
+v_活動;vocabulary;活動;action, activity;;;;;かつどう;12
+v_金星;vocabulary;金星;venus;;;;;きんせい;6
+v_船体;vocabulary;船体;hull, ship hull;;;;;せんたい;7
+v_理性;vocabulary;理性;reason, sense, intellect, understanding;;;;;りせい;14
+v_固まる;vocabulary;固まる;to harden, to solidify, to become firm, to become certain;;;;;かたまる;18
+v_予め;vocabulary;予め;beforehand, in advance, previously, ahead of time;;;;;あらかじめ;11
+v_情けない;vocabulary;情けない;miserable, pitiable, shameful, deplorable, wretched, sad, pitiful;;;;;なさけない;15
+v_利く;vocabulary;利く;to be effective, to show effect;;;;;きく;11
+v_上がる;vocabulary;上がる;to rise;;;;;あがる;1
+v_返る;vocabulary;返る;to be returned, to return, to come back;;;;;かえる;11
+v_見返る;vocabulary;見返る;to look back at, to look back on;;;;;みかえる;13
+v_私自身;vocabulary;私自身;personally, as for me, myself;;;;;わたしじしん, わたくしじしん;16
+v_荷物;vocabulary;荷物;luggage, baggage, load;;;;;にもつ;16
+v_研究室;vocabulary;研究室;laboratory, lab, study room, professor's office, teacher's office;;;;;けんきゅうしつ;10
+v_一生;vocabulary;一生;whole life, entire life, a lifetime, all through life, one existence, a generation, an age;;;;;いっしょう;5
+v_出会う;vocabulary;出会う;to meet by chance, to meet unexpectedly, to come across, to encounter;;;;;であう;10
+v_見物;vocabulary;見物;sightseeing, sightseer, watching, watcher, viewing, viewer;;;;;けんぶつ;9
+v_入力;vocabulary;入力;input, enter;;;;;にゅうりょく;2
+v_付近;vocabulary;付近;neighborhood, neighbourhood, vicinity, environs, nearby, locality;;;;;ふきん;9
+v_相図;vocabulary;相図;sign, signal, diagram, phase diagram;;;;;あいず;11
+v_場面;vocabulary;場面;scene, setting, locale;;;;;ばめん;16
+v_入院;vocabulary;入院;hospitalization, hospitalisation, hospital admission, admission to a hospital, institutionalized;;;;;にゅういん;10
+v_文字通り;vocabulary;文字通り;literal, literally, to the letter;;;;;もじどおり;11
+v_九日;vocabulary;九日;nine days, day nine, ninth day;;;;;ここのか;2
+v_関連;vocabulary;関連;relation, connection, relevance, correlation, association;;;;;かんれん;19
+v_当たり前;vocabulary;当たり前;natural, reasonable, obvious, usual, common, ordinary;;;;;あたりまえ;8
+v_大いに;vocabulary;大いに;very, much, greatly, a lot of, very much;;;;;おおいに;2
+v_国王;vocabulary;国王;king, monarch, sovereign;;;;;こくおう;6
+v_完結;vocabulary;完結;conclusion, completion, ending, consummation;;;;;かんけつ;17
+v_売れる;vocabulary;売れる;to be sold, to sell;;;;;うれる;7
+v_土星;vocabulary;土星;saturn;;;;;どせい;6
+v_〜号室;vocabulary;〜号室;room number counter, counter for room numbers, suffix for room numbers, room number;;;;;ごうしつ;7
+v_大空;vocabulary;大空;heavens, firmament, sky, skies;;;;;おおぞら;7
+v_禅寺;vocabulary;禅寺;zen temple;;;;;ぜんでら, ぜんじ;18
+v_光る;vocabulary;光る;to shine, to glitter;;;;;ひかる;7
+v_口調;vocabulary;口調;tone, tone of voice, verbal expression;;;;;くちょう;10
+v_行動;vocabulary;行動;action, conduct, behaviour, behavior, mobilization, mobilisation;;;;;こうどう;12
+v_想定;vocabulary;想定;hypothesis, supposition, assumption, estimation;;;;;そうてい;13
+v_言葉つき;vocabulary;言葉つき;speech, expression, wording, language, diction;;;;;ことばつき;14
+v_幸運;vocabulary;幸運;good luck, fortune;;;;;こううん;16
+v_役場;vocabulary;役場;town hall, town office, public office;;;;;やくば;8
+v_新た;vocabulary;新た;new, fresh, novel, newly, freshly;;;;;あらた;11
+v_放つ;vocabulary;放つ;to fire, to hit, to break wind;;;;;はなつ;15
+v_何度;vocabulary;何度;how many times, how often, what temperature;;;;;なんど;9
+v_待合;vocabulary;待合;meeting place, assignation place, waiting room, lounge, tea house;;;;;まちあい;11
+v_西洋;vocabulary;西洋;the west, western countries;;;;;せいよう;11
+v_愛する;vocabulary;愛する;to love;;;;;あいする;17
+v_相変わらず;vocabulary;相変わらず;as usual, as ever, the same, as before;;;;;あいかわらず;17
+v_語る;vocabulary;語る;to talk, to tell, to recite;;;;;かたる;10
+v_子守歌;vocabulary;子守歌;lullaby;;;;;こもりうた;18
+v_議員;vocabulary;議員;member of the diet, diet member;;;;;ぎいん;20
+v_対外;vocabulary;対外;foreign, overseas;;;;;たいがい;8
+v_仮名;vocabulary;仮名;kana;;;;;かな;9
+v_伝説;vocabulary;伝説;legend;;;;;でんせつ;17
+v_尾;vocabulary;尾;tail;;;;;お;20
+v_危ない;vocabulary;危ない;dangerous;;;;;あぶない;16
+v_一日;vocabulary;一日;one day, day one, first day;;;;;いちにち, ついたち;2
+v_部首;vocabulary;部首;radical;;;;;ぶしゅ;9
+v_運動会;vocabulary;運動会;sports day;;;;;うんどうかい;14
+v_大役;vocabulary;大役;important task, great duty;;;;;たいやく;8
+v_夜;vocabulary;夜;night, evening;;;;;よる;6
+v_平気;vocabulary;平気;calm, cool, all right, okay;;;;;へいき;4
+v_午前;vocabulary;午前;am, morning, a.m.;;;;;ごぜん;6
+v_少女;vocabulary;少女;young lady, little girl, maiden, daughter;;;;;しょうじょ, おとめ;3
+v_引き算;vocabulary;引き算;subtraction;;;;;ひきざん;10
+v_姉;vocabulary;姉;older sister, big sister, elder sister;;;;;あね;6
+v_父;vocabulary;父;father;;;;;ちち;3
+v_活用形;vocabulary;活用形;conjugated form;;;;;かつようけい;7
+v_連中;vocabulary;連中;colleagues, company, these guys, troupe;;;;;れんちゅう, れんぢゅう, れんじゅう;19
+v_建前;vocabulary;建前;public behavior, public behaviour, official stance, public position, public face, tatemae;;;;;たてまえ;17
+v_表す;vocabulary;表す;to express;;;;;あらわす;9
+v_四国;vocabulary;四国;shikoku;;;;;しこく;6
+v_初歩;vocabulary;初歩;basics, rudiments, elements, abcs;;;;;しょほ;11
+v_悲しみ;vocabulary;悲しみ;sadness, sorrow, grief, unhappiness, distress;;;;;かなしみ;14
+v_期間;vocabulary;期間;period, term, interval, span;;;;;きかん;12
+v_高等;vocabulary;高等;high class, high grade;;;;;こうとう;18
+v_小文字;vocabulary;小文字;lowercase letter, lowercase character, lowercase, lowercase letters, lowercase characters;;;;;こもじ;6
+v_人形;vocabulary;人形;doll, puppet;;;;;にんぎょう;7
+v_点ける;vocabulary;点ける;to turn on, to switch on, to light up;;;;;つける;8
+v_ハート形;vocabulary;ハート形;heart shaped;;;;;ハートがた, はーとがた;9
+v_最後尾;vocabulary;最後尾;end of a line;;;;;さいこうび;20
+v_向く;vocabulary;向く;to face, to turn toward;;;;;むく;6
+v_農場;vocabulary;農場;farm;;;;;のうじょう;10
+v_丁度;vocabulary;丁度;exactly, just;;;;;ちょうど;9
+v_遠く;vocabulary;遠く;far away, distant, at a distance, distant place, by far;;;;;とおく;16
+v_形;vocabulary;形;shape, appearance, form;;;;;かたち;7
+v_学期;vocabulary;学期;school term, semester;;;;;がっき;12
+v_流行;vocabulary;流行;trend, fad, craze;;;;;りゅうこう, はやり;12
+v_下品;vocabulary;下品;crude, vulgarity;;;;;げひん;16
+v_面白い;vocabulary;面白い;interesting, amusing, funny;;;;;おもしろい;16
+v_基本;vocabulary;基本;foundation, basics;;;;;きほん;14
+v_別;vocabulary;別;different, separate;;;;;べつ;11
+v_辺り;vocabulary;辺り;area, vicinity;;;;;あたり;7
+v_見当たる;vocabulary;見当たる;to be found, to come upon, to fall upon, to discover, to come across, to happen upon;;;;;みあたる;7
+v_当てる;vocabulary;当てる;to guess, to guess something, to hit;;;;;あてる;8
+v_入所;vocabulary;入所;admission, entrance, imprisonment, internment;;;;;にゅうしょ;8
+v_信用;vocabulary;信用;trust, confidence;;;;;しんよう;15
+v_時代;vocabulary;時代;period, epoch, era, time period;;;;;じだい;7
+v_地中;vocabulary;地中;underground, subterranean;;;;;ちちゅう;6
+v_生まれ;vocabulary;生まれ;birthplace, birth;;;;;うまれ;5
+v_外交;vocabulary;外交;diplomacy;;;;;がいこう;5
+v_活用;vocabulary;活用;conjugation, practical use;;;;;かつよう;6
+v_小声;vocabulary;小声;low voice, whisper;;;;;こごえ;7
+v_役目;vocabulary;役目;duty, business, role;;;;;やくめ;8
+v_〜間;vocabulary;〜間;amount of time, interval of time, time interval, period of time;;;;;かん;8
+v_今日は;vocabulary;今日は;hello, good day;;;;;こんにちは;3
+v_一体;vocabulary;一体;the heck, in the world, on earth;;;;;いったい;7
+v_通す;vocabulary;通す;to let pass, to overlook, to continue, to keep, to make way for, to persist in;;;;;とおす;9
+v_心持;vocabulary;心持;feeling, mood, somewhat, slightly;;;;;こころもち;11
+v_顔文字;vocabulary;顔文字;kaomoji;;;;;かおもじ;12
+v_昔話;vocabulary;昔話;folklore, legend;;;;;むかしばなし;11
+v_植える;vocabulary;植える;to plant, to grow;;;;;うえる;12
+v_具合;vocabulary;具合;condition, health;;;;;ぐあい;9
+v_王様;vocabulary;王様;king;;;;;おうさま;13
+v_近代的;vocabulary;近代的;modern;;;;;きんだいてき;14
+v_整える;vocabulary;整える;to arrange, to put in order, to adjust, to prepare;;;;;ととのえる;15
+v_お父さん;vocabulary;お父さん;father, dad, papa;;;;;おとうさん;3
+v_〜達;vocabulary;〜達;pluralizing suffix;;;;;たち;18
+v_町民;vocabulary;町民;townspeople;;;;;ちょうみん;7
+v_左右;vocabulary;左右;left and right, both ways, influence, control;;;;;さゆう;3
+v_折れる;vocabulary;折れる;to break, to snap, to fracture;;;;;おれる;16
+v_お母さん;vocabulary;お母さん;mother, mom, mum;;;;;おかあさん;3
+v_四百;vocabulary;四百;four hundred;;;;;よんひゃく;4
+v_大気;vocabulary;大気;atmosphere;;;;;たいき;4
+v_来週;vocabulary;来週;next week;;;;;らいしゅう;7
+v_対等;vocabulary;対等;equality, equal;;;;;たいとう;18
+v_文学;vocabulary;文学;literature;;;;;ぶんがく;5
+v_直る;vocabulary;直る;to be fixed, to fix;;;;;なおる;6
+v_果てる;vocabulary;果てる;to end, to be finished, to be exhausted, to die;;;;;はてる;17
+v_三百;vocabulary;三百;three hundred;;;;;さんびゃく;6
+v_嫌悪;vocabulary;嫌悪;disgust, hate, repugnance;;;;;けんお;20
+v_五百;vocabulary;五百;five hundred;;;;;ごひゃく;4
+v_知る;vocabulary;知る;to know;;;;;しる;6
+v_科目;vocabulary;科目;subject, course, curriculum;;;;;かもく;8
+v_土曜日;vocabulary;土曜日;saturday;;;;;どようび;18
+v_合図;vocabulary;合図;sign, signal;;;;;あいず;8
+v_生物;vocabulary;生物;living things, creatures, bio;;;;;せいぶつ;9
+v_家事;vocabulary;家事;housework, chores;;;;;かじ;9
+v_台所;vocabulary;台所;kitchen;;;;;だいどころ;10
+v_今朝;vocabulary;今朝;this morning;;;;;けさ;10
+v_生地;vocabulary;生地;material, cloth, fabric, dough, batter;;;;;きじ;8
+v_意図的;vocabulary;意図的;intentional, on purpose;;;;;いとてき;14
+v_港;vocabulary;港;harbor, harbour, port;;;;;みなと;12
+v_神様;vocabulary;神様;god, gods;;;;;かみさま;13
+v_文化祭;vocabulary;文化祭;school festival, culture festival, arts festival;;;;;ぶんかさい;14
+v_晴れ;vocabulary;晴れ;clear weather;;;;;はれ;15
+v_顔付き;vocabulary;顔付き;expression, facial expression;;;;;かおつき;10
+v_見事;vocabulary;見事;splendid, magnificent, beautiful, admirable, praiseworthy act, feat;;;;;みごと;11
+v_治安;vocabulary;治安;public order, public safety, public peace;;;;;ちあん;16
+v_お金;vocabulary;お金;money;;;;;おかね;5
+v_申し申し;vocabulary;申し申し;telephone hello, hello, hello on telephone;;;;;もうしもうし, もしもし;4
+v_大事;vocabulary;大事;important, valuable, serious matter;;;;;だいじ;9
+v_大人;vocabulary;大人;adult;;;;;おとな;1
+v_一昨日;vocabulary;一昨日;day before last, day before yesterday;;;;;おととい, いっさくじつ;17
+v_四月;vocabulary;四月;april;;;;;しがつ;2
+v_一人;vocabulary;一人;alone, one person;;;;;ひとり;1
+v_禁じる;vocabulary;禁じる;to prohibit;;;;;きんじる;18
+v_大きい;vocabulary;大きい;big, large;;;;;おおきい;1
+v_二月;vocabulary;二月;february;;;;;にがつ;2
+v_高等学校;vocabulary;高等学校;senior high school;;;;;こうとうがっこう;20
+v_大した;vocabulary;大した;considerable, great, important, big deal;;;;;たいした;1
+v_乗せる;vocabulary;乗せる;to give a ride, to give someone a ride, to place on;;;;;のせる;9
+v_八;vocabulary;八;eight;;;;;はち;1
+v_八つ;vocabulary;八つ;eight things;;;;;やっつ;1
+v_入り口;vocabulary;入り口;entrance;;;;;いりぐち;1
+v_フランス人;vocabulary;フランス人;frenchman, french person;;;;;ふらんすじん, フランスじん;1
+v_山;vocabulary;山;mountain;;;;;やま;1
+v_ふじ山;vocabulary;ふじ山;mt fuji, mount fuji, mt. fuji;;;;;ふじさん;1
+v_焼く;vocabulary;焼く;to bake, to cook, to burn;;;;;やく;18
+v_命令;vocabulary;命令;order, command;;;;;めいれい;11
+v_鳴き声;vocabulary;鳴き声;animal cry, animal sound, animal noise, chirp, tweet, roar, bark, meow;;;;;なきごえ;12
+v_九;vocabulary;九;nine;;;;;きゅう, く;1
+v_戦い;vocabulary;戦い;battle, fight, conflict;;;;;たたかい;11
+v_要求;vocabulary;要求;demand, requirement;;;;;ようきゅう;14
+v_不良;vocabulary;不良;bad, substandard, delinquent;;;;;ふりょう;11
+v_九つ;vocabulary;九つ;nine things;;;;;ここのつ;1
+v_親分;vocabulary;親分;boss, kingpin, chief, head;;;;;おやぶん;12
+v_一;vocabulary;一;one;;;;;いち;1
+v_一つ;vocabulary;一つ;one thing;;;;;ひとつ;1
+v_又;vocabulary;又;again, and;;;;;また;2
+v_殺人者;vocabulary;殺人者;murderer, killer;;;;;さつじんしゃ;15
+v_人;vocabulary;人;person;;;;;ひと;1
+v_力;vocabulary;力;power, strength;;;;;ちから;1
+v_三つ;vocabulary;三つ;three things;;;;;みっつ;1
+v_上る;vocabulary;上る;to climb;;;;;のぼる;1
+v_近年;vocabulary;近年;recent years;;;;;きんねん;5
+v_入る;vocabulary;入る;to enter;;;;;はいる;1
+v_下がる;vocabulary;下がる;to hang down, to hang;;;;;さがる;1
+v_下げる;vocabulary;下げる;to hang, to lower, to hang something, to lower something;;;;;さげる;1
+v_上げる;vocabulary;上げる;to raise, to raise something;;;;;あげる;1
+v_上;vocabulary;上;up, above;;;;;うえ;1
+v_白人;vocabulary;白人;caucasian, white person, white people;;;;;はくじん;2
+v_出口;vocabulary;出口;exit;;;;;でぐち;2
+v_目;vocabulary;目;eye;;;;;め;2
+v_目玉;vocabulary;目玉;eyeball;;;;;めだま;2
+v_五;vocabulary;五;five;;;;;ご;2
+v_円;vocabulary;円;money, yen;;;;;えん;2
+v_五つ;vocabulary;五つ;five things;;;;;いつつ;2
+v_十月;vocabulary;十月;october;;;;;じゅうがつ;2
+v_四日;vocabulary;四日;fourth day, day four, four days;;;;;よっか;2
+v_玉ねぎ;vocabulary;玉ねぎ;onion, round onion;;;;;たまねぎ;2
+v_女王;vocabulary;女王;queen;;;;;じょおう;2
+v_〜位;vocabulary;〜位;rank;;;;;い;11
+v_四つ;vocabulary;四つ;four things;;;;;よっつ;2
+v_右手;vocabulary;右手;right hand;;;;;みぎて;2
+v_手;vocabulary;手;hand;;;;;て;2
+v_円い;vocabulary;円い;round, circular;;;;;まるい;2
+v_〜才;vocabulary;〜才;years old, age;;;;;さい;2
+v_日本;vocabulary;日本;japan;;;;;にほん, にっぽん;2
+v_七日;vocabulary;七日;seventh day, day seven, seven days;;;;;なのか;2
+v_三日;vocabulary;三日;third day, day three, three days;;;;;みっか;2
+v_六日;vocabulary;六日;sixth day, day six, six days;;;;;むいか;2
+v_才人;vocabulary;才人;talented person, clever person;;;;;さいじん;2
+v_生きる;vocabulary;生きる;to live, to be alive, to exist;;;;;いきる;3
+v_冬休み;vocabulary;冬休み;winter holiday, winter break, winter vacation;;;;;ふゆやすみ;6
+v_十日;vocabulary;十日;ten days, day ten, tenth day;;;;;とおか;2
+v_シアトル市;vocabulary;シアトル市;seattle, city of seattle;;;;;しあとるし, シアトルし;3
+v_出る;vocabulary;出る;to exit, to leave;;;;;でる;2
+v_内;vocabulary;内;inside, within;;;;;うち;3
+v_立てる;vocabulary;立てる;to stand up, to stand something up, to erect, to erect something;;;;;たてる;2
+v_女の子;vocabulary;女の子;young lady, young woman, young girl, girl;;;;;おんなのこ;2
+v_少ない;vocabulary;少ない;a few, few, scarce, not much, not many;;;;;すくない;3
+v_牛;vocabulary;牛;cow;;;;;うし;3
+v_電車;vocabulary;電車;train;;;;;でんしゃ;8
+v_戸口;vocabulary;戸口;doorway;;;;;とぐち;3
+v_外人;vocabulary;外人;foreigner, outsider;;;;;がいじん;3
+v_三世;vocabulary;三世;third generation;;;;;さんせい;4
+v_先週;vocabulary;先週;last week;;;;;せんしゅう;7
+v_平安;vocabulary;平安;peace, tranquility, heian;;;;;へいあん;6
+v_命;vocabulary;命;life, lifeforce;;;;;いのち;11
+v_以上;vocabulary;以上;more than, or more, that's all;;;;;いじょう;7
+v_発表;vocabulary;発表;announcement, presentation;;;;;はっぴょう;9
+v_公用;vocabulary;公用;government business, official business;;;;;こうよう;3
+v_読み方;vocabulary;読み方;reading, pronunciation, way of reading;;;;;よみかた;10
+v_古い;vocabulary;古い;old;;;;;ふるい;3
+v_お兄さん;vocabulary;お兄さん;older brother, big brother, elder brother;;;;;おにいさん;3
+v_十万;vocabulary;十万;one hundred thousand, hundred thousand, a hundred thousand;;;;;じゅうまん;3
+v_虚しい;vocabulary;虚しい;empty, vacant, futile, vain;;;;;むなしい;17
+v_元;vocabulary;元;origin;;;;;もと;3
+v_生まれる;vocabulary;生まれる;to be born;;;;;うまれる;3
+v_戦場;vocabulary;戦場;battlefield, battleground;;;;;せんじょう;11
+v_外れる;vocabulary;外れる;to be disconnected, to come off, to be out, to be off;;;;;はずれる;3
+v_切る;vocabulary;切る;to cut;;;;;きる;3
+v_欠点;vocabulary;欠点;shortcoming, fault, defect, flaw, weakness, weak point;;;;;けってん;7
+v_引く;vocabulary;引く;to pull, to subtract;;;;;ひく;3
+v_止まる;vocabulary;止まる;to stop;;;;;とまる;3
+v_用いる;vocabulary;用いる;to utilize, to use, to utilise;;;;;もちいる;3
+v_酒好き;vocabulary;酒好き;drinker, alcoholic;;;;;さけずき;13
+v_練習;vocabulary;練習;practice;;;;;れんしゅう;13
+v_望み;vocabulary;望み;wish, hope, desire;;;;;のぞみ;14
+v_毛;vocabulary;毛;fur, hair;;;;;け;3
+v_欠かす;vocabulary;欠かす;to miss, to fail, to fail to attend;;;;;かかす;9
+v_地下鉄;vocabulary;地下鉄;subway, the underground, the metro, the tube;;;;;ちかてつ;10
+v_父親;vocabulary;父親;father;;;;;ちちおや;12
+v_不合格;vocabulary;不合格;fail a test, failure, fail an exam;;;;;ふごうかく;16
+v_神道;vocabulary;神道;shinto, shintou;;;;;しんとう;11
+v_始まる;vocabulary;始まる;to begin, something begins, to start, something starts;;;;;はじまる;9
+v_始める;vocabulary;始める;to begin, to start, to begin something, to start something;;;;;はじめる;9
+v_最も;vocabulary;最も;the most, most, extremely;;;;;もっとも;10
+v_切れる;vocabulary;切れる;to be cut;;;;;きれる;3
+v_今日;vocabulary;今日;today;;;;;きょう;3
+v_金持ち;vocabulary;金持ち;rich person, rich, wealthy;;;;;かねもち;9
+v_太平洋;vocabulary;太平洋;pacific ocean;;;;;たいへいよう;11

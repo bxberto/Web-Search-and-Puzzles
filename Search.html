@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="readtxt.js"></script>
+    <script src="search.js"></script>
+    <meta charset="utf-8">
+    <title>On'Yomi Search</title>
+
+    <script></script>
+
+    <link  rel="stylesheet" href="style.css" />
+</head>
+
+<body onload="loadOuter('kanji.txt')">
+
+    <div class="header">
+        <h1 id="heading">On'Yomi Search</h1>
+        <button onclick="goBack()">Go Back</button>
+    </div>
+
+    <div class="buttons">
+        <button onclick="onyomiSearch()">Search by On'yomi</button>
+    </div>
+
+    <div class="inform_user">
+        <p id="learnedKanji"></p>
+    </div>
+
+    <div class="kanji_area">
+    <table cellpadding = "10" class="info_table" style="empty-cells: hide" style="border-spacing: 10px 0px;">
+        <tr>
+            <td></td>
+            <td align = "left"><p id="results"></p></td>
+            <td></td>
+        </tr>
+    </table>
+
+    <iframe  id="hiddenContent" width="200" height="200" style="position:center;visibility:hidden;" ></iframe>
+
+    </div>
+
+
+
+</body>
+
+</html>

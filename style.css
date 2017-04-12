@@ -1,0 +1,123 @@
+body
+{
+    background-color: lightblue;
+    text-align:center;
+    font-family: arial;
+    font-size: 38px;
+
+}
+
+li
+{
+    list-style: none;
+    line-height: 2em;
+    text-align: center;
+}
+
+.header
+{
+    background-color: grey;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.buttons
+{
+    padding: 0px;
+}
+
+.inform_user
+{
+    background-color: green;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+.input
+{
+    font-size: 26px;
+    background-color: grey;
+}
+
+.search_results
+{
+    padding: 0px;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    letter-spacing: 3px;
+}
+
+.question_table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.puzzle_area
+{
+    background-color: yellow;
+    text-align: center;
+    padding: 0px;
+}
+
+.kanji_area
+{
+    font-size: 18px;
+    padding: 0px;
+    border-width: 0px;
+}
+
+.info_table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    font-size: 18px;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content
+ container when the user clicks on the dropdown button) */
+.show {display:block;}
