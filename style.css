@@ -23,16 +23,16 @@ li
 
 .buttons
 {
+    background-color: orange;
     padding: 0px;
 }
 
 .inform_user
 {
     background-color: green;
-    padding: 20px;
-    font-size: 20px;
+    padding: 25px;
+    font-size: 30px;
     font-weight: bold;
-    font-family: "Times New Roman";
 }
 
 .input
@@ -50,10 +50,11 @@ li
     letter-spacing: 3px;
 }
 
-.question_table
+.puzzle_table
 {
     margin-left: auto;
     margin-right: auto;
+    empty-cells: hide;
 }
 
 .puzzle_area
@@ -70,13 +71,17 @@ li
     border-width: 0px;
 }
 
-.info_table
+.results_table
 {
     margin-left: auto;
     margin-right: auto;
+    border: 5px solid black;
+    padding: 5px;
 }
 
-.dropbtn {
+
+.dropbtn
+{
     background-color: #4CAF50;
     color: white;
     padding: 16px;
@@ -86,29 +91,33 @@ li
 }
 
 /* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
+.dropbtn:hover, .dropbtn:focus
+{
     background-color: #3e8e41;
 }
 
 /* The container <div> - needed to position the dropdown content */
-.dropdown {
+.dropdown
+{
     position: relative;
     display: inline-block;
 }
 
 /* Dropdown Content (Hidden by Default) */
-.dropdown-content {
+.dropdown-content
+{
     display: none;
     font-size: 18px;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    min-width: 140px;
+    box-shadow: 0px 8px 16px 0px;
     z-index: 1;
 }
 
 /* Links inside the dropdown */
-.dropdown-content a {
+.dropdown-content a
+{
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -116,7 +125,7 @@ li
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #4CAF50}
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content
  container when the user clicks on the dropdown button) */

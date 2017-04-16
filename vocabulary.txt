@@ -966,7 +966,7 @@ v_勇気;vocabulary;勇気;courage, bravery, valour, valor;;;;;ゆうき;15
 v_警察署;vocabulary;警察署;police station;;;;;けいさつしょ;19
 v_申す;vocabulary;申す;to say humbly, to say, to humbly say;;;;;もうす;4
 v_発売;vocabulary;発売;for sale, selling, item for sale, sale;;;;;はつばい;9
-v_別人;vocabulary;別人;different person, changed person, new man;;;;;べつじん;11
+v_別人;vocabulary;別人;changed man, different person, different man, changed person, new man;;;;;べつじん;11
 v_短刀;vocabulary;短刀;short sword, dagger, tanto;;;;;たんとう;12
 v_花見;vocabulary;花見;viewing cherry blossoms, sakura viewing, cherry blossom viewing;;;;;はなみ;4
 v_同感;vocabulary;同感;sympathy, same sentiment, concurrence, agree, empathy;;;;;どうかん;13
@@ -1390,7 +1390,7 @@ v_次々;vocabulary;次々;one by one, in succession, one after the other;;;;;�
 v_支店;vocabulary;支店;branch office, branch store;;;;;してん;8
 v_朝日;vocabulary;朝日;morning sun, rising sun;;;;;あさひ;8
 v_出血;vocabulary;出血;bleeding, bleed;;;;;しゅっけつ;6
-v_人数;vocabulary;人数;number of people, amount of people;;;;;にんずう;8
+v_人数;vocabulary;人数;the number of people, number of people, the amount of people, amount of people;;;;;にんずう;8
 v_曲げる;vocabulary;曲げる;to bend, to bend something;;;;;まげる;8
 v_芸人;vocabulary;芸人;comedian, actor, performer;;;;;げいにん;14
 v_受験;vocabulary;受験;take an exam, take an examination, take a test, taking an exam, taking an examination, taking a test;;;;;じゅけん;18
