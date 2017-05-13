@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="onyomiSearch.js"></script>
+    <meta charset="utf-8">
+    <title>音読み Search</title>
+
+    <link  rel="stylesheet" href="style.css">
+    <style>
+        table
+        {
+            margin-left: auto;
+            margin-right: auto;
+            table-layout: fixed;
+        }
+
+        th, td
+        {
+            padding: 5px;
+        }
+
+        tr:nth-child(odd){background-color: #f2f2f2}
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1 id="heading">音読み Search</h1>
+        <button onclick="loader.goBack()">Go Back</button>
+    </div>
+
+    <div class="user_area">
+        <p id="knownKanji">
+        <button id="api_btn" autofocus="true" onclick="loader.loadData()">Load Your Info</button>
+        </p>
+    </div>
+
+    <div>
+        <p>
+        <input type="text" maxlength="3" size="7" id="search_box" placeholder="音読み" class="search_term" onkeypress="myFunction(event, this.value)">
+        </p>
+    </div>
+
+
+    <div id="results_area">
+        <p id="result_statement"></p>
+        <p id="result_table"></p>
+    </div>
+
+
+<script>
+
+    function myFunction(event, str)
+    {
+        var x = event.which || event.keyCode;
+        if(x == 13)
+        {
+                loader.onyomiSearch(str, loader.getArray());
+                document.getElementById("search_box").value = "";
+        }
+    }
+</script>
+
+    <iframe  id="hiddenContent" width="200" height="200" style="position:absolute; display:none"></iframe>
+
+</body>
+
+
+</html>

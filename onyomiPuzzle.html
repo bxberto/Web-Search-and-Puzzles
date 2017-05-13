@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="onyomiPuzzle.js"></script>
+    <meta charset="utf-8">
+    <title>音読み Puzzle</title>
+
+    <link rel="stylesheet" href="style.css">
+    <style>
+        table
+        {
+            margin-left: auto;
+            margin-right: auto;
+            table-layout: fixed;
+        }
+
+        th, td
+        {
+            padding: 5px;
+        }
+
+        tr:nth-child(odd){background-color: #f2f2f2}
+
+        td#puzzle_table
+        {
+            width: 70px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1 id="heading">音読み Puzzle</h1>
+        <button onclick="onPuzzle.goBack()">Go Back</button>
+    </div>
+
+    <div class="user_area">
+        <p id="knownKanji">
+        <button id="api_btn" autofocus="true" onclick="onPuzzle.loadData()">Load Your Info</button>
+        </p>
+    </div>
+
+    <div class="puzzle_area">
+        <table id="puzzle_table" class="puzzle_table">
+            <tr>
+                <td style="width: 70px"></td>
+                <td>漢字</td>
+                <td style="width: 70px"></td>
+            </tr>
+            <tr>
+                <td>漢字</td>
+                <td id="input_space" class="input"><input class="input_box" id="input_box" type="text" size="7" maxlength="3"
+                placeholder=" 音読み " onkeypress="myFunction(event, this.value)"></td>
+                <td>漢字</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>漢字</td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+
+    <button id="play" class="input_box" onclick="onPuzzle.changeText(this)">Play</button>
+
+    <div id="results_area">
+        <p id="result_statement"></p>
+        <p id="result_table"></p>
+    </div>
+
+    <iframe  id="hiddenContent" width="200" height="200" style="position:absolute;display:none">
+    </iframe>
+
+    <script>
+        function myFunction(event, str)
+        {
+            var x = event.which || event.keyCode;
+            if(x == 13)
+            {
+                    onPuzzle.displayAnswer(str);
+                    document.getElementById("input_box").value = "";
+            }
+        }
+    </script>
+
+    </div>
+
+
+</body>
+
+</html>

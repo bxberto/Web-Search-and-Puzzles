@@ -4,7 +4,6 @@ body
     text-align:center;
     font-family: arial;
     font-size: 38px;
-
 }
 
 li
@@ -14,6 +13,11 @@ li
     text-align: center;
 }
 
+input[type="text"]
+{
+    font-size:15px;
+}
+
 .header
 {
     background-color: grey;
@@ -21,64 +25,62 @@ li
     font-size: 20px;
 }
 
-.buttons
-{
-    background-color: orange;
-    padding: 0px;
-}
-
-.inform_user
+.user_area
 {
     background-color: green;
-    padding: 25px;
+    padding-top: 25px;
+    padding-bottom: 75px;
+    height: 50px;
     font-size: 30px;
     font-weight: bold;
 }
 
-.input
-{
-    font-size: 26px;
-    background-color: grey;
-}
-
-.search_results
-{
-    padding: 0px;
-    font-size: 36px;
-    font-weight: bold;
-    font-family: "Times New Roman";
-    letter-spacing: 3px;
-}
-
-.puzzle_table
-{
-    margin-left: auto;
-    margin-right: auto;
-    empty-cells: hide;
-}
-
 .puzzle_area
 {
-    background-color: yellow;
+
     text-align: center;
     padding: 0px;
 }
 
-.kanji_area
-{
-    font-size: 18px;
-    padding: 0px;
-    border-width: 0px;
-}
-
-.results_table
+.puzzle_table th, tr, td
 {
     margin-left: auto;
     margin-right: auto;
+    empty-cells: hide;
+    background-color: yellow;
     border: 5px solid black;
-    padding: 5px;
+    /*font-family: "KanjiStrokeOrders";*/
+    font-size: 35px;
 }
 
+.search_term
+{
+    visibility: hidden;
+    text-align: center;
+}
+
+.input
+{
+
+}
+
+.input_box
+{
+    visibility: hidden;
+    text-align: center;
+}
+
+
+.kanji_table
+{
+    min-width: 90%;
+    max-width: 90%;
+}
+
+.kanji_table td
+{
+    font-size: 25px;
+}
 
 .dropbtn
 {
