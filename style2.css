@@ -1,0 +1,204 @@
+body
+{
+    background-color: lightblue;
+    text-align:center;
+    font-family: arial;
+    font-size: 38px;
+    /*color: rgb(255,240,40);*/
+}
+
+/* ======================= */
+/* = IDs = */
+/* ======================= */
+
+.header
+{
+    background-color: silver;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.user_area
+{
+    background-color: lightgreen;
+    padding-top: 2px;
+    padding-bottom: 40px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.api_btn
+{
+    visibility: visible;
+}
+
+.modal
+{
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 5px; /* Location of the box */
+    left: 0;
+    right: 0;
+    top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%; /* Full width */
+    height: 200mm; /* Full height */
+    overflow: overlay; /* Enable scroll if needed */
+}
+
+/* Modal Content */
+.modal-content
+{
+    background-color: #fefefe;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close
+{
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus
+{
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.kanji_table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kanji_table td
+{
+    font-size: 20px;
+    background-color: yellow;
+}
+
+.kanji_table th
+{
+    font-size: 24px;
+}
+
+.tooltip
+{
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext
+{
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    font-family: Arial;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 500ms;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after
+{
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext
+{
+    visibility: visible;
+    opacity: 1;
+}
+
+/* ======================= */
+/* = Classes = */
+/* ======================= */
+
+#radical_table
+{
+    font-size: 1.5em;
+    font-weight: normal;
+    text-align: left;
+    padding: 10px 0;
+    visibility: hidden;
+}
+
+#radical_table .number
+{
+    border: 1px solid lightgreen;
+    background: white;
+    width: 24px;
+    height: 24px;
+    padding: 2px;
+    display: block;
+    float: left;
+    clear: none;
+    text-align: center;
+    vertical-align: middle;
+    margin: 3px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    cursor: default;
+    color: black;
+}
+
+#radical_table .radical
+{
+    border: 1px solid #ddd;
+    border-color: #ddd #aaa #aaa #ddd;
+    background: rgb(0,157,236);
+    width: 24px;
+    height: 24px;
+    padding: 2px;
+    display: block;
+    float: left;
+    clear: none;
+    text-align: center;
+    vertical-align: middle;
+    margin: 3px;
+    font-size: 24px;
+    line-height: 27px;
+    cursor: pointer;
+    color: #000;
+    font-family: "HiraKakuPro-W3", "Hiragino Kaku Gothic Pro W3", "Meiryo" , "MS PGothic", Sans-Serif;
+}
+
+#radical_table .radical:hover
+{
+    background-color: yellow;
+}
